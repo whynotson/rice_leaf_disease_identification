@@ -1,0 +1,45 @@
+File: sheath_blight_00208_sb_wb_21_pp_jpg.rf.GtkYLZ0mEbiSEkE6Bxj8.jpg
+Processing time: 70951.8 ms
+Number of disease regions: 5
+
+--- Region 1 ---
+Bbox: [529, 545, 542, 625]
+Class: Sheath blight
+Confidence: 100.0%
+Caption: [VLM] Question: This rice leaf image shows Sheath Blight disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Sheath Blight disease is a disease caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The
+[Disease] Sheath blight | Severity: High
+[Recommendation] Remove infected debris and consider fungicide management if severity increases.
+
+--- Region 2 ---
+Bbox: [540, 440, 550, 510]
+Class: Sheath blight
+Confidence: 100.0%
+Caption: [VLM] Question: This rice leaf image shows Sheath Blight disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Sheath Blight disease is a disease of rice caused by a fungus that grows on the surface of the leaf
+
+[Disease] Sheath blight | Severity: High
+[Recommendation] Remove infected debris and consider fungicide management if severity increases.
+
+--- Region 3 ---
+Bbox: [552, 447, 560, 488]
+Class: Sheath blight
+Confidence: 100.0%
+Caption: [VLM] Question: This rice leaf image shows Sheath Blight disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Sheath Blight disease is a disease of rice caused by a fungus that grows on the surface of the leaves of the plant. The disease is caused by a fungus that grows on the surface of the leaves of the plant. The disease is caused by a fungus that grows on the surface of the leaves of the plant. The disease is caused by a fungus that grows on the surface of the leaves of the plant. The disease is caused by a fungus that grows on the surface of the leaves of the plant. The disease is caused by a fungus that grows on the surface of the leaves of the plant. The disease is caused by a fungus that grows on the surface of the leaves of the plant. The disease is caused by a fungus that grows on
+[Disease] Sheath blight | Severity: High
+[Recommendation] Remove infected debris and consider fungicide management if severity increases.
+
+--- Region 4 ---
+Bbox: [519, 407, 528, 489]
+Class: Sheath blight
+Confidence: 100.0%
+Caption: [VLM] Question: This rice leaf image shows Sheath Blight disease. Describe the visual symptoms you observe on the leaf in detail. Answer: This rice leaf image shows Sheath Blight disease. Describe the visual symptoms you observe on the leaf in detail. Answer: This rice leaf image shows Sheath Blight disease. Describe the visual symptoms you observe on the leaf in detail. Answer: This rice leaf image shows Sheath Blight disease. Describe the visual symptoms you observe on the leaf in detail. Answer: This rice leaf image shows Sheath Blight disease. Describe the visual symptoms you observe on the leaf in detail. Answer: This rice leaf image shows Sheath Blight disease. Describe the visual symptoms you observe on the leaf in detail. Answer: This rice leaf image shows Sheath Blight disease. Describe the visual symptoms you observe on the
+[Disease] Sheath blight | Severity: High
+[Recommendation] Remove infected debris and consider fungicide management if severity increases.
+
+--- Region 5 ---
+Bbox: [518, 404, 525, 461]
+Class: Sheath blight
+Confidence: 100.0%
+Caption: [VLM] Question: This rice leaf image shows Sheath Blight disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Sheath Blight disease is a disease of rice caused by a bacterium called phytophthora ramorum phytophthora ramorum is a disease of rice caused by a bacterium called phytophthora ramorum phytophthora ramorum is a disease of rice caused by a bacterium called phytophthora ramorum phytophthora ramorum is a disease of rice caused by a bacterium called phytophthora ramorum phytophthora ramorum is a disease of rice caused by a bacterium called phytophthora ramorum phytophthora ramorum is a disease of rice caused by a bacterium called phytophthora ramorum phytophthora ramorum is a disease of rice caused by
+[Disease] Sheath blight | Severity: High
+[Recommendation] Remove infected debris and consider fungicide management if severity increases.
+

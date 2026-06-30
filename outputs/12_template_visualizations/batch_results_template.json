@@ -1,0 +1,782 @@
+[
+  {
+    "image": "/content/rice_disease_project/data/12-test/bacterial_leaf_blight_00005_bacterial-252_JPG_JPG.rf.D2zhnTIL5ourSbukIZnv.JPG",
+    "num_detections": 2,
+    "time_ms": 865.0774955749512,
+    "detections": [
+      {
+        "class": "bacterial_leaf_blight",
+        "class_vi": "Bacterial leaf blight",
+        "conf": 1.0,
+        "bbox": [
+          845,
+          653,
+          930,
+          1407
+        ],
+        "caption": "Detected disease: Bacterial leaf blight. Confidence: 100.0%. Location: middle-center. Approximate area ratio: 0.025. Severity: High. Recommendation: Remove heavily infected leaves and apply an appropriate bactericide under expert guidance."
+      },
+      {
+        "class": "bacterial_leaf_blight",
+        "class_vi": "Bacterial leaf blight",
+        "conf": 1.0,
+        "bbox": [
+          537,
+          0,
+          643,
+          827
+        ],
+        "caption": "Detected disease: Bacterial leaf blight. Confidence: 100.0%. Location: top-center. Approximate area ratio: 0.034. Severity: High. Recommendation: Remove heavily infected leaves and apply an appropriate bactericide under expert guidance."
+      }
+    ]
+  },
+  {
+    "image": "/content/rice_disease_project/data/12-test/bacterial_leaf_blight_00006_bacterial-251_JPG_JPG.rf.cAOhMRd9swn5vdIqoRRS.JPG",
+    "num_detections": 9,
+    "time_ms": 226.55177116394043,
+    "detections": [
+      {
+        "class": "bacterial_leaf_blight",
+        "class_vi": "Bacterial leaf blight",
+        "conf": 1.0,
+        "bbox": [
+          628,
+          76,
+          663,
+          326
+        ],
+        "caption": "Detected disease: Bacterial leaf blight. Confidence: 100.0%. Location: top-center. Approximate area ratio: 0.003. Severity: High. Recommendation: Remove heavily infected leaves and apply an appropriate bactericide under expert guidance."
+      },
+      {
+        "class": "bacterial_leaf_blight",
+        "class_vi": "Bacterial leaf blight",
+        "conf": 1.0,
+        "bbox": [
+          937,
+          528,
+          992,
+          918
+        ],
+        "caption": "Detected disease: Bacterial leaf blight. Confidence: 100.0%. Location: middle-center. Approximate area ratio: 0.008. Severity: High. Recommendation: Remove heavily infected leaves and apply an appropriate bactericide under expert guidance."
+      },
+      {
+        "class": "bacterial_leaf_blight",
+        "class_vi": "Bacterial leaf blight",
+        "conf": 0.9995,
+        "bbox": [
+          600,
+          538,
+          622,
+          639
+        ],
+        "caption": "Detected disease: Bacterial leaf blight. Confidence: 99.9%. Location: middle-center. Approximate area ratio: 0.001. Severity: High. Recommendation: Remove heavily infected leaves and apply an appropriate bactericide under expert guidance."
+      },
+      {
+        "class": "bacterial_leaf_blight",
+        "class_vi": "Bacterial leaf blight",
+        "conf": 1.0,
+        "bbox": [
+          632,
+          1114,
+          668,
+          1337
+        ],
+        "caption": "Detected disease: Bacterial leaf blight. Confidence: 100.0%. Location: bottom-center. Approximate area ratio: 0.003. Severity: High. Recommendation: Remove heavily infected leaves and apply an appropriate bactericide under expert guidance."
+      },
+      {
+        "class": "bacterial_leaf_blight",
+        "class_vi": "Bacterial leaf blight",
+        "conf": 0.9841,
+        "bbox": [
+          581,
+          803,
+          602,
+          872
+        ],
+        "caption": "Detected disease: Bacterial leaf blight. Confidence: 98.4%. Location: middle-center. Approximate area ratio: 0.001. Severity: High. Recommendation: Remove heavily infected leaves and apply an appropriate bactericide under expert guidance."
+      },
+      {
+        "class": "bacterial_leaf_blight",
+        "class_vi": "Bacterial leaf blight",
+        "conf": 0.9998,
+        "bbox": [
+          658,
+          1406,
+          703,
+          1600
+        ],
+        "caption": "Detected disease: Bacterial leaf blight. Confidence: 100.0%. Location: bottom-center. Approximate area ratio: 0.003. Severity: High. Recommendation: Remove heavily infected leaves and apply an appropriate bactericide under expert guidance."
+      },
+      {
+        "class": "bacterial_leaf_blight",
+        "class_vi": "Bacterial leaf blight",
+        "conf": 1.0,
+        "bbox": [
+          846,
+          582,
+          883,
+          996
+        ],
+        "caption": "Detected disease: Bacterial leaf blight. Confidence: 100.0%. Location: middle-center. Approximate area ratio: 0.006. Severity: High. Recommendation: Remove heavily infected leaves and apply an appropriate bactericide under expert guidance."
+      },
+      {
+        "class": "bacterial_leaf_blight",
+        "class_vi": "Bacterial leaf blight",
+        "conf": 1.0,
+        "bbox": [
+          822,
+          1302,
+          870,
+          1600
+        ],
+        "caption": "Detected disease: Bacterial leaf blight. Confidence: 100.0%. Location: bottom-center. Approximate area ratio: 0.006. Severity: High. Recommendation: Remove heavily infected leaves and apply an appropriate bactericide under expert guidance."
+      },
+      {
+        "class": "bacterial_leaf_blight",
+        "class_vi": "Bacterial leaf blight",
+        "conf": 0.9998,
+        "bbox": [
+          610,
+          765,
+          647,
+          1080
+        ],
+        "caption": "Detected disease: Bacterial leaf blight. Confidence: 100.0%. Location: middle-center. Approximate area ratio: 0.005. Severity: High. Recommendation: Remove heavily infected leaves and apply an appropriate bactericide under expert guidance."
+      }
+    ]
+  },
+  {
+    "image": "/content/rice_disease_project/data/12-test/brown_spot_00045_brown-304_JPG_JPG.rf.10k7Xa4P8RvCBW6WkkEH.JPG",
+    "num_detections": 1,
+    "time_ms": 58.212995529174805,
+    "detections": [
+      {
+        "class": "brown_spot",
+        "class_vi": "Brown spot",
+        "conf": 0.8726,
+        "bbox": [
+          728,
+          827,
+          828,
+          1004
+        ],
+        "caption": "Detected disease: Brown spot. Confidence: 87.3%. Location: middle-center. Approximate area ratio: 0.007. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure."
+      }
+    ]
+  },
+  {
+    "image": "/content/rice_disease_project/data/12-test/brown_spot_00046_brown-385_JPG_JPG.rf.IKYREx8zo8jPNmhtcnle.JPG",
+    "num_detections": 4,
+    "time_ms": 114.30692672729492,
+    "detections": [
+      {
+        "class": "brown_spot",
+        "class_vi": "Brown spot",
+        "conf": 0.5618,
+        "bbox": [
+          821,
+          1241,
+          857,
+          1323
+        ],
+        "caption": "Detected disease: Brown spot. Confidence: 56.2%. Location: bottom-center. Approximate area ratio: 0.001. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure."
+      },
+      {
+        "class": "brown_spot",
+        "class_vi": "Brown spot",
+        "conf": 0.9799,
+        "bbox": [
+          841,
+          935,
+          858,
+          998
+        ],
+        "caption": "Detected disease: Brown spot. Confidence: 98.0%. Location: middle-center. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure."
+      },
+      {
+        "class": "leaf_scald",
+        "class_vi": "Leaf scald",
+        "conf": 0.7744,
+        "bbox": [
+          813,
+          0,
+          873,
+          121
+        ],
+        "caption": "Detected disease: Leaf scald. Confidence: 77.4%. Location: top-center. Approximate area ratio: 0.003. Severity: Medium. Recommendation: Maintain field hygiene and reduce excessive humidity where possible."
+      },
+      {
+        "class": "leaf_scald",
+        "class_vi": "Leaf scald",
+        "conf": 0.4691,
+        "bbox": [
+          760,
+          517,
+          816,
+          607
+        ],
+        "caption": "Detected disease: Leaf scald. Confidence: 46.9%. Location: middle-center. Approximate area ratio: 0.002. Severity: Medium. Recommendation: Maintain field hygiene and reduce excessive humidity where possible."
+      }
+    ]
+  },
+  {
+    "image": "/content/rice_disease_project/data/12-test/healthy_00093_healthy-182_JPG.rf.9Q7pfn5GgD8v8MC5ZSSO.JPG",
+    "num_detections": 1,
+    "time_ms": 76.67994499206543,
+    "detections": [
+      {
+        "class": "leaf_blast",
+        "class_vi": "Leaf blast",
+        "conf": 0.9909,
+        "bbox": [
+          429,
+          3,
+          1600,
+          1600
+        ],
+        "caption": "Detected disease: Leaf blast. Confidence: 99.1%. Location: middle-center. Approximate area ratio: 0.731. Severity: Very high. Recommendation: Monitor closely and apply a fungicide if conditions favor spread."
+      }
+    ]
+  },
+  {
+    "image": "/content/rice_disease_project/data/12-test/healthy_00095_healthy-131_JPG.rf.9TKs4m46u1MEtCOZ9JrS.JPG",
+    "num_detections": 1,
+    "time_ms": 79.16855812072754,
+    "detections": [
+      {
+        "class": "brown_spot",
+        "class_vi": "Brown spot",
+        "conf": 0.3675,
+        "bbox": [
+          5,
+          2,
+          1597,
+          1600
+        ],
+        "caption": "Detected disease: Brown spot. Confidence: 36.8%. Location: middle-center. Approximate area ratio: 0.994. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure."
+      }
+    ]
+  },
+  {
+    "image": "/content/rice_disease_project/data/12-test/leaf_blast_00127_leaf_blast-239_JPG_JPG.rf.pIUE31rh0LSGGw7vweNj.JPG",
+    "num_detections": 11,
+    "time_ms": 263.2277011871338,
+    "detections": [
+      {
+        "class": "leaf_blast",
+        "class_vi": "Leaf blast",
+        "conf": 0.9994,
+        "bbox": [
+          741,
+          134,
+          796,
+          331
+        ],
+        "caption": "Detected disease: Leaf blast. Confidence: 99.9%. Location: top-center. Approximate area ratio: 0.004. Severity: Very high. Recommendation: Monitor closely and apply a fungicide if conditions favor spread."
+      },
+      {
+        "class": "leaf_blast",
+        "class_vi": "Leaf blast",
+        "conf": 0.9999,
+        "bbox": [
+          729,
+          795,
+          765,
+          938
+        ],
+        "caption": "Detected disease: Leaf blast. Confidence: 100.0%. Location: middle-center. Approximate area ratio: 0.002. Severity: Very high. Recommendation: Monitor closely and apply a fungicide if conditions favor spread."
+      },
+      {
+        "class": "leaf_blast",
+        "class_vi": "Leaf blast",
+        "conf": 1.0,
+        "bbox": [
+          835,
+          642,
+          867,
+          725
+        ],
+        "caption": "Detected disease: Leaf blast. Confidence: 100.0%. Location: middle-center. Approximate area ratio: 0.001. Severity: Very high. Recommendation: Monitor closely and apply a fungicide if conditions favor spread."
+      },
+      {
+        "class": "leaf_blast",
+        "class_vi": "Leaf blast",
+        "conf": 0.9985,
+        "bbox": [
+          782,
+          770,
+          825,
+          936
+        ],
+        "caption": "Detected disease: Leaf blast. Confidence: 99.8%. Location: middle-center. Approximate area ratio: 0.003. Severity: Very high. Recommendation: Monitor closely and apply a fungicide if conditions favor spread."
+      },
+      {
+        "class": "leaf_scald",
+        "class_vi": "Leaf scald",
+        "conf": 0.6407,
+        "bbox": [
+          857,
+          278,
+          1596,
+          1170
+        ],
+        "caption": "Detected disease: Leaf scald. Confidence: 64.1%. Location: middle-right. Approximate area ratio: 0.257. Severity: Medium. Recommendation: Maintain field hygiene and reduce excessive humidity where possible."
+      },
+      {
+        "class": "leaf_blast",
+        "class_vi": "Leaf blast",
+        "conf": 0.9966,
+        "bbox": [
+          748,
+          496,
+          772,
+          578
+        ],
+        "caption": "Detected disease: Leaf blast. Confidence: 99.7%. Location: middle-center. Approximate area ratio: 0.001. Severity: Very high. Recommendation: Monitor closely and apply a fungicide if conditions favor spread."
+      },
+      {
+        "class": "leaf_blast",
+        "class_vi": "Leaf blast",
+        "conf": 0.9997,
+        "bbox": [
+          696,
+          293,
+          723,
+          421
+        ],
+        "caption": "Detected disease: Leaf blast. Confidence: 100.0%. Location: top-center. Approximate area ratio: 0.001. Severity: Very high. Recommendation: Monitor closely and apply a fungicide if conditions favor spread."
+      },
+      {
+        "class": "leaf_blast",
+        "class_vi": "Leaf blast",
+        "conf": 0.9996,
+        "bbox": [
+          864,
+          1125,
+          919,
+          1359
+        ],
+        "caption": "Detected disease: Leaf blast. Confidence: 100.0%. Location: bottom-center. Approximate area ratio: 0.005. Severity: Very high. Recommendation: Monitor closely and apply a fungicide if conditions favor spread."
+      },
+      {
+        "class": "leaf_blast",
+        "class_vi": "Leaf blast",
+        "conf": 1.0,
+        "bbox": [
+          828,
+          1032,
+          862,
+          1155
+        ],
+        "caption": "Detected disease: Leaf blast. Confidence: 100.0%. Location: bottom-center. Approximate area ratio: 0.002. Severity: Very high. Recommendation: Monitor closely and apply a fungicide if conditions favor spread."
+      },
+      {
+        "class": "leaf_blast",
+        "class_vi": "Leaf blast",
+        "conf": 0.9951,
+        "bbox": [
+          881,
+          755,
+          913,
+          870
+        ],
+        "caption": "Detected disease: Leaf blast. Confidence: 99.5%. Location: middle-center. Approximate area ratio: 0.001. Severity: Very high. Recommendation: Monitor closely and apply a fungicide if conditions favor spread."
+      },
+      {
+        "class": "leaf_blast",
+        "class_vi": "Leaf blast",
+        "conf": 0.9996,
+        "bbox": [
+          828,
+          175,
+          861,
+          306
+        ],
+        "caption": "Detected disease: Leaf blast. Confidence: 100.0%. Location: top-center. Approximate area ratio: 0.002. Severity: Very high. Recommendation: Monitor closely and apply a fungicide if conditions favor spread."
+      }
+    ]
+  },
+  {
+    "image": "/content/rice_disease_project/data/12-test/leaf_blast_00131_leaf_blast-314_JPG_JPG.rf.pxeTz83qC9UfyVqpNYax.JPG",
+    "num_detections": 7,
+    "time_ms": 171.72002792358398,
+    "detections": [
+      {
+        "class": "leaf_blast",
+        "class_vi": "Leaf blast",
+        "conf": 1.0,
+        "bbox": [
+          443,
+          770,
+          546,
+          822
+        ],
+        "caption": "Detected disease: Leaf blast. Confidence: 100.0%. Location: middle-left. Approximate area ratio: 0.002. Severity: Very high. Recommendation: Monitor closely and apply a fungicide if conditions favor spread."
+      },
+      {
+        "class": "leaf_blast",
+        "class_vi": "Leaf blast",
+        "conf": 1.0,
+        "bbox": [
+          1225,
+          776,
+          1466,
+          855
+        ],
+        "caption": "Detected disease: Leaf blast. Confidence: 100.0%. Location: middle-right. Approximate area ratio: 0.007. Severity: Very high. Recommendation: Monitor closely and apply a fungicide if conditions favor spread."
+      },
+      {
+        "class": "leaf_blast",
+        "class_vi": "Leaf blast",
+        "conf": 0.9999,
+        "bbox": [
+          151,
+          784,
+          204,
+          812
+        ],
+        "caption": "Detected disease: Leaf blast. Confidence: 100.0%. Location: middle-left. Approximate area ratio: 0.001. Severity: Very high. Recommendation: Monitor closely and apply a fungicide if conditions favor spread."
+      },
+      {
+        "class": "leaf_blast",
+        "class_vi": "Leaf blast",
+        "conf": 1.0,
+        "bbox": [
+          3,
+          813,
+          330,
+          890
+        ],
+        "caption": "Detected disease: Leaf blast. Confidence: 100.0%. Location: middle-left. Approximate area ratio: 0.010. Severity: Very high. Recommendation: Monitor closely and apply a fungicide if conditions favor spread."
+      },
+      {
+        "class": "leaf_blast",
+        "class_vi": "Leaf blast",
+        "conf": 0.9983,
+        "bbox": [
+          562,
+          863,
+          695,
+          921
+        ],
+        "caption": "Detected disease: Leaf blast. Confidence: 99.8%. Location: middle-center. Approximate area ratio: 0.003. Severity: Very high. Recommendation: Monitor closely and apply a fungicide if conditions favor spread."
+      },
+      {
+        "class": "leaf_blast",
+        "class_vi": "Leaf blast",
+        "conf": 0.9997,
+        "bbox": [
+          963,
+          771,
+          1031,
+          804
+        ],
+        "caption": "Detected disease: Leaf blast. Confidence: 100.0%. Location: middle-center. Approximate area ratio: 0.001. Severity: Very high. Recommendation: Monitor closely and apply a fungicide if conditions favor spread."
+      },
+      {
+        "class": "leaf_blast",
+        "class_vi": "Leaf blast",
+        "conf": 0.7785,
+        "bbox": [
+          782,
+          786,
+          842,
+          818
+        ],
+        "caption": "Detected disease: Leaf blast. Confidence: 77.8%. Location: middle-center. Approximate area ratio: 0.001. Severity: Very high. Recommendation: Monitor closely and apply a fungicide if conditions favor spread."
+      }
+    ]
+  },
+  {
+    "image": "/content/rice_disease_project/data/12-test/leaf_scald_00194_leaf_scald (147)_pp_jpg.rf.VDMqaIxbmz8IojqNnWyr.jpg",
+    "num_detections": 9,
+    "time_ms": 216.33481979370117,
+    "detections": [
+      {
+        "class": "leaf_scald",
+        "class_vi": "Leaf scald",
+        "conf": 0.9999,
+        "bbox": [
+          497,
+          19,
+          588,
+          561
+        ],
+        "caption": "Detected disease: Leaf scald. Confidence: 100.0%. Location: top-center. Approximate area ratio: 0.042. Severity: Medium. Recommendation: Maintain field hygiene and reduce excessive humidity where possible."
+      },
+      {
+        "class": "leaf_scald",
+        "class_vi": "Leaf scald",
+        "conf": 1.0,
+        "bbox": [
+          512,
+          736,
+          532,
+          808
+        ],
+        "caption": "Detected disease: Leaf scald. Confidence: 100.0%. Location: bottom-center. Approximate area ratio: 0.001. Severity: Medium. Recommendation: Maintain field hygiene and reduce excessive humidity where possible."
+      },
+      {
+        "class": "leaf_scald",
+        "class_vi": "Leaf scald",
+        "conf": 1.0,
+        "bbox": [
+          585,
+          756,
+          598,
+          803
+        ],
+        "caption": "Detected disease: Leaf scald. Confidence: 100.0%. Location: bottom-center. Approximate area ratio: 0.001. Severity: Medium. Recommendation: Maintain field hygiene and reduce excessive humidity where possible."
+      },
+      {
+        "class": "leaf_scald",
+        "class_vi": "Leaf scald",
+        "conf": 1.0,
+        "bbox": [
+          546,
+          759,
+          558,
+          795
+        ],
+        "caption": "Detected disease: Leaf scald. Confidence: 100.0%. Location: bottom-center. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Maintain field hygiene and reduce excessive humidity where possible."
+      },
+      {
+        "class": "leaf_scald",
+        "class_vi": "Leaf scald",
+        "conf": 1.0,
+        "bbox": [
+          576,
+          646,
+          590,
+          714
+        ],
+        "caption": "Detected disease: Leaf scald. Confidence: 100.0%. Location: middle-center. Approximate area ratio: 0.001. Severity: Medium. Recommendation: Maintain field hygiene and reduce excessive humidity where possible."
+      },
+      {
+        "class": "leaf_scald",
+        "class_vi": "Leaf scald",
+        "conf": 1.0,
+        "bbox": [
+          0,
+          4,
+          576,
+          743
+        ],
+        "caption": "Detected disease: Leaf scald. Confidence: 100.0%. Location: middle-left. Approximate area ratio: 0.365. Severity: Medium. Recommendation: Maintain field hygiene and reduce excessive humidity where possible."
+      },
+      {
+        "class": "leaf_scald",
+        "class_vi": "Leaf scald",
+        "conf": 1.0,
+        "bbox": [
+          537,
+          13,
+          1079,
+          741
+        ],
+        "caption": "Detected disease: Leaf scald. Confidence: 100.0%. Location: middle-right. Approximate area ratio: 0.338. Severity: Medium. Recommendation: Maintain field hygiene and reduce excessive humidity where possible."
+      },
+      {
+        "class": "leaf_scald",
+        "class_vi": "Leaf scald",
+        "conf": 0.9993,
+        "bbox": [
+          591,
+          849,
+          607,
+          896
+        ],
+        "caption": "Detected disease: Leaf scald. Confidence: 99.9%. Location: bottom-center. Approximate area ratio: 0.001. Severity: Medium. Recommendation: Maintain field hygiene and reduce excessive humidity where possible."
+      },
+      {
+        "class": "leaf_scald",
+        "class_vi": "Leaf scald",
+        "conf": 0.8064,
+        "bbox": [
+          515,
+          873,
+          528,
+          908
+        ],
+        "caption": "Detected disease: Leaf scald. Confidence: 80.6%. Location: bottom-center. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Maintain field hygiene and reduce excessive humidity where possible."
+      }
+    ]
+  },
+  {
+    "image": "/content/rice_disease_project/data/12-test/leaf_scald_00198_leaf_scald (49)_pp_jpg.rf.0SJe8yX5CRoYuBX7ey8K.jpg",
+    "num_detections": 1,
+    "time_ms": 51.45549774169922,
+    "detections": [
+      {
+        "class": "leaf_scald",
+        "class_vi": "Leaf scald",
+        "conf": 1.0,
+        "bbox": [
+          180,
+          0,
+          627,
+          1036
+        ],
+        "caption": "Detected disease: Leaf scald. Confidence: 100.0%. Location: middle-center. Approximate area ratio: 0.397. Severity: Medium. Recommendation: Maintain field hygiene and reduce excessive humidity where possible."
+      }
+    ]
+  },
+  {
+    "image": "/content/rice_disease_project/data/12-test/sheath_blight_00208_sb_wb_21_pp_jpg.rf.GtkYLZ0mEbiSEkE6Bxj8.jpg",
+    "num_detections": 5,
+    "time_ms": 128.9992332458496,
+    "detections": [
+      {
+        "class": "sheath_blight",
+        "class_vi": "Sheath blight",
+        "conf": 1.0,
+        "bbox": [
+          529,
+          545,
+          542,
+          625
+        ],
+        "caption": "Detected disease: Sheath blight. Confidence: 100.0%. Location: middle-center. Approximate area ratio: 0.001. Severity: High. Recommendation: Remove infected debris and consider fungicide management if severity increases."
+      },
+      {
+        "class": "sheath_blight",
+        "class_vi": "Sheath blight",
+        "conf": 1.0,
+        "bbox": [
+          540,
+          440,
+          550,
+          510
+        ],
+        "caption": "Detected disease: Sheath blight. Confidence: 100.0%. Location: middle-center. Approximate area ratio: 0.001. Severity: High. Recommendation: Remove infected debris and consider fungicide management if severity increases."
+      },
+      {
+        "class": "sheath_blight",
+        "class_vi": "Sheath blight",
+        "conf": 1.0,
+        "bbox": [
+          552,
+          447,
+          560,
+          488
+        ],
+        "caption": "Detected disease: Sheath blight. Confidence: 100.0%. Location: middle-center. Approximate area ratio: 0.000. Severity: High. Recommendation: Remove infected debris and consider fungicide management if severity increases."
+      },
+      {
+        "class": "sheath_blight",
+        "class_vi": "Sheath blight",
+        "conf": 1.0,
+        "bbox": [
+          519,
+          407,
+          528,
+          489
+        ],
+        "caption": "Detected disease: Sheath blight. Confidence: 100.0%. Location: middle-center. Approximate area ratio: 0.001. Severity: High. Recommendation: Remove infected debris and consider fungicide management if severity increases."
+      },
+      {
+        "class": "sheath_blight",
+        "class_vi": "Sheath blight",
+        "conf": 1.0,
+        "bbox": [
+          518,
+          404,
+          525,
+          461
+        ],
+        "caption": "Detected disease: Sheath blight. Confidence: 100.0%. Location: middle-center. Approximate area ratio: 0.000. Severity: High. Recommendation: Remove infected debris and consider fungicide management if severity increases."
+      }
+    ]
+  },
+  {
+    "image": "/content/rice_disease_project/data/12-test/sheath_blight_00212_sb_wb_158_pp_jpg.rf.JO33V4ZKJDNZ9JCcn7PS.jpg",
+    "num_detections": 7,
+    "time_ms": 172.99389839172363,
+    "detections": [
+      {
+        "class": "bacterial_leaf_blight",
+        "class_vi": "Bacterial leaf blight",
+        "conf": 0.9755,
+        "bbox": [
+          554,
+          160,
+          576,
+          312
+        ],
+        "caption": "Detected disease: Bacterial leaf blight. Confidence: 97.6%. Location: top-center. Approximate area ratio: 0.003. Severity: High. Recommendation: Remove heavily infected leaves and apply an appropriate bactericide under expert guidance."
+      },
+      {
+        "class": "sheath_blight",
+        "class_vi": "Sheath blight",
+        "conf": 0.9996,
+        "bbox": [
+          567,
+          322,
+          587,
+          524
+        ],
+        "caption": "Detected disease: Sheath blight. Confidence: 100.0%. Location: middle-center. Approximate area ratio: 0.003. Severity: High. Recommendation: Remove infected debris and consider fungicide management if severity increases."
+      },
+      {
+        "class": "sheath_blight",
+        "class_vi": "Sheath blight",
+        "conf": 0.9982,
+        "bbox": [
+          558,
+          370,
+          566,
+          433
+        ],
+        "caption": "Detected disease: Sheath blight. Confidence: 99.8%. Location: middle-center. Approximate area ratio: 0.000. Severity: High. Recommendation: Remove infected debris and consider fungicide management if severity increases."
+      },
+      {
+        "class": "sheath_blight",
+        "class_vi": "Sheath blight",
+        "conf": 1.0,
+        "bbox": [
+          570,
+          624,
+          603,
+          833
+        ],
+        "caption": "Detected disease: Sheath blight. Confidence: 100.0%. Location: bottom-center. Approximate area ratio: 0.006. Severity: High. Recommendation: Remove infected debris and consider fungicide management if severity increases."
+      },
+      {
+        "class": "sheath_blight",
+        "class_vi": "Sheath blight",
+        "conf": 0.9994,
+        "bbox": [
+          563,
+          670,
+          597,
+          909
+        ],
+        "caption": "Detected disease: Sheath blight. Confidence: 99.9%. Location: bottom-center. Approximate area ratio: 0.007. Severity: High. Recommendation: Remove infected debris and consider fungicide management if severity increases."
+      },
+      {
+        "class": "sheath_blight",
+        "class_vi": "Sheath blight",
+        "conf": 1.0,
+        "bbox": [
+          563,
+          299,
+          600,
+          826
+        ],
+        "caption": "Detected disease: Sheath blight. Confidence: 100.0%. Location: middle-center. Approximate area ratio: 0.017. Severity: High. Recommendation: Remove infected debris and consider fungicide management if severity increases."
+      },
+      {
+        "class": "sheath_blight",
+        "class_vi": "Sheath blight",
+        "conf": 0.9994,
+        "bbox": [
+          533,
+          141,
+          542,
+          189
+        ],
+        "caption": "Detected disease: Sheath blight. Confidence: 99.9%. Location: top-center. Approximate area ratio: 0.000. Severity: High. Recommendation: Remove infected debris and consider fungicide management if severity increases."
+      }
+    ]
+  }
+]

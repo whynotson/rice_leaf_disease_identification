@@ -1,0 +1,12 @@
+File: healthy_00095_healthy-131_JPG.rf.9TKs4m46u1MEtCOZ9JrS.JPG
+Processing time: 16791.4 ms
+Number of disease regions: 1
+
+--- Region 1 ---
+Bbox: [5, 2, 1597, 1600]
+Class: Brown spot
+Confidence: 36.8%
+Caption: [VLM] Question: This rice leaf image shows Brown Spot disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Brown Spot Disease is a disease caused by the fungus Aspergillus fumigatus. The disease is caused by the presence of Aspergillus fumigatus on the leaf surface. The disease is caused by the presence of Aspergillus fumigatus on the leaf surface. The disease is caused by the presence of Aspergillus fumigatus on the leaf surface. The disease is caused by the presence of Aspergillus fumigatus on the leaf surface. The disease is caused by the presence of Aspergillus fumigatus on the leaf surface. The disease is caused by the presence of Aspergillus fumigatus on the leaf surface. The disease is caused by
+[Disease] Brown spot | Severity: Medium
+[Recommendation] Improve field nutrition and manage moisture stress to reduce disease pressure.
+

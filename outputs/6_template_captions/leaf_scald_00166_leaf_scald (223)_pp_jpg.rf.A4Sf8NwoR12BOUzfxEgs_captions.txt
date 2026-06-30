@@ -1,0 +1,10 @@
+File: leaf_scald_00166_leaf_scald (223)_pp_jpg.rf.A4Sf8NwoR12BOUzfxEgs.jpg
+Processing time: 48.8 ms
+Number of disease regions: 1
+
+--- Region 1 ---
+Bbox: [438, 9, 669, 1079]
+Class: Leaf scald
+Confidence: 100.0%
+Caption: Detected disease: Leaf scald. Confidence: 100.0%. Location: middle-center. Approximate area ratio: 0.212. Severity: Medium. Recommendation: Maintain field hygiene and reduce excessive humidity where possible.
+

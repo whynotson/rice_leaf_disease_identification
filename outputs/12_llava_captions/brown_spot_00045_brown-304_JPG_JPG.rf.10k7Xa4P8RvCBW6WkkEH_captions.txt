@@ -1,0 +1,13 @@
+File: brown_spot_00045_brown-304_JPG_JPG.rf.10k7Xa4P8RvCBW6WkkEH.JPG
+Processing time: 4702.5 ms
+Number of disease regions: 1
+
+--- Region 1 ---
+Bbox: [728, 827, 828, 1004]
+Class: Brown spot
+Confidence: 87.3%
+Caption: [LLaVA] ER:  
+This is a rice leaf affected by Brown Spot. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The image shows a close-up view of a brown spot on a rice leaf. The spot is located on the upper part of the leaf, and its color is a mix of brown and yellow. The shape of the spot is irregular, with a slightly curved appearance. The severity of the spot is moderate, as it does not seem to be spreading or causing significant damage to the leaf.
+[Disease] Brown spot
+[Recommendation] Improve field nutrition and manage moisture stress to reduce disease pressure.
+

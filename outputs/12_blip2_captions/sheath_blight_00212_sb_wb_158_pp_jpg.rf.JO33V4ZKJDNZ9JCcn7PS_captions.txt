@@ -1,0 +1,61 @@
+File: sheath_blight_00212_sb_wb_158_pp_jpg.rf.JO33V4ZKJDNZ9JCcn7PS.jpg
+Processing time: 104848.1 ms
+Number of disease regions: 7
+
+--- Region 1 ---
+Bbox: [554, 160, 576, 312]
+Class: Bacterial leaf blight
+Confidence: 97.6%
+Caption: [VLM] Question: This rice leaf image shows Bacterial Leaf Blight disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Bacterial Leaf Blight disease is a disease caused by a bacterium called Phytophthora infestans. Bacterial Leaf Blight disease is a disease caused by a bacterium called Phytophthora infestans. Bacterial Leaf Blight disease is a disease caused by a bacterium called Phytophthora infestans. Bacterial Leaf Blight disease is a disease caused by a bacterium called Phytophthora infestans. Bacterial Leaf Blight disease is a disease caused by a bacterium called Phytophthora infestans. Bacterial Leaf Blight disease is a disease caused by a bacterium called Phytophthora infestans. Bacterial Leaf Blight disease is a disease caused by a
+[Disease] Bacterial leaf blight | Severity: High
+[Recommendation] Remove heavily infected leaves and apply an appropriate bactericide under expert guidance.
+
+--- Region 2 ---
+Bbox: [567, 322, 587, 524]
+Class: Sheath blight
+Confidence: 100.0%
+Caption: [VLM] Question: This rice leaf image shows Sheath Blight disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Sheath Blight disease is a disease caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The
+[Disease] Sheath blight | Severity: High
+[Recommendation] Remove infected debris and consider fungicide management if severity increases.
+
+--- Region 3 ---
+Bbox: [558, 370, 566, 433]
+Class: Sheath blight
+Confidence: 99.8%
+Caption: [VLM] Question: This rice leaf image shows Sheath Blight disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Sheath Blight disease is a disease caused by a fungus that grows on the surface of the leaves of rice plants. The disease is caused by a fungus that grows on the surface of the leaves of rice plants. The disease is caused by a fungus that grows on the surface of the leaves of rice plants. The disease is caused by a fungus that grows on the surface of the leaves of rice plants. The disease is caused by a fungus that grows on the surface of the leaves of rice plants. The disease is caused by a fungus that grows on the surface of the leaves of rice plants. The disease is caused by a fungus that grows on the surface of the leaves of rice plants. The disease is caused by a fungus that grows on the surface
+[Disease] Sheath blight | Severity: High
+[Recommendation] Remove infected debris and consider fungicide management if severity increases.
+
+--- Region 4 ---
+Bbox: [570, 624, 603, 833]
+Class: Sheath blight
+Confidence: 100.0%
+Caption: [VLM] Question: This rice leaf image shows Sheath Blight disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Sheath Blight Disease
+
+[Disease] Sheath blight | Severity: High
+[Recommendation] Remove infected debris and consider fungicide management if severity increases.
+
+--- Region 5 ---
+Bbox: [563, 670, 597, 909]
+Class: Sheath blight
+Confidence: 99.9%
+Caption: [VLM] Question: This rice leaf image shows Sheath Blight disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Sheath Blight is a disease caused by a fungus that grows on the surface of the leaves of rice plants. The disease is caused by a fungus that grows on the surface of the leaves of rice plants. The disease is caused by a fungus that grows on the surface of the leaves of rice plants. The disease is caused by a fungus that grows on the surface of the leaves of rice plants. The disease is caused by a fungus that grows on the surface of the leaves of rice plants. The disease is caused by a fungus that grows on the surface of the leaves of rice plants. The disease is caused by a fungus that grows on the surface of the leaves of rice plants. The disease is caused by a fungus that grows on the surface of
+[Disease] Sheath blight | Severity: High
+[Recommendation] Remove infected debris and consider fungicide management if severity increases.
+
+--- Region 6 ---
+Bbox: [563, 299, 600, 826]
+Class: Sheath blight
+Confidence: 100.0%
+Caption: [VLM] Question: This rice leaf image shows Sheath Blight disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Sheath Blight disease is a disease caused by a bacterium called Phytophthora ramorum. The disease is caused by a fungus called Phytophthora infestans. Phytophthora infestans is a disease caused by a fungus called Phytophthora infestans. The disease is caused by a fungus called Phytophthora infestans. The disease is caused by a fungus called Phytophthora infestans. The disease is caused by a fungus called Phytophthora infestans. The disease is caused by a fungus called Phytophthora infestans. The disease is caused by a fungus called Phytophthora infestans. The disease is caused by a fungus called Phyt
+[Disease] Sheath blight | Severity: High
+[Recommendation] Remove infected debris and consider fungicide management if severity increases.
+
+--- Region 7 ---
+Bbox: [533, 141, 542, 189]
+Class: Sheath blight
+Confidence: 99.9%
+Caption: [VLM] Question: This rice leaf image shows Sheath Blight disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Sheath Blight disease is caused by a fungus that grows on the surface of the leaves of rice plants. The disease is caused by a fungus that grows on the surface of the leaves of rice plants. The disease is caused by a fungus that grows on the surface of the leaves of rice plants. The disease is caused by a fungus that grows on the surface of the leaves of rice plants. The disease is caused by a fungus that grows on the surface of the leaves of rice plants. The disease is caused by a fungus that grows on the surface of the leaves of rice plants. The disease is caused by a fungus that grows on the surface of the leaves of rice plants. The disease is caused by a fungus that grows on the surface of the
+[Disease] Sheath blight | Severity: High
+[Recommendation] Remove infected debris and consider fungicide management if severity increases.
+

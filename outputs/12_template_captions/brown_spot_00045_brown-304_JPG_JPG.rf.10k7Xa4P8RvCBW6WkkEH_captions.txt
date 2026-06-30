@@ -1,0 +1,10 @@
+File: brown_spot.JPG
+Processing time: 58.2 ms
+Number of disease regions: 1
+
+--- Region 1 ---
+Bbox: [728, 827, 828, 1004]
+Class: Brown spot
+Confidence: 87.3%
+Caption: Detected disease: Brown spot. Confidence: 87.3%. Location: middle-center. Approximate area ratio: 0.007. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure.
+

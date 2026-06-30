@@ -1,0 +1,782 @@
+[
+  {
+    "image": "/content/rice_disease_project/data/12-test/bacterial_leaf_blight_00005_bacterial-252_JPG_JPG.rf.D2zhnTIL5ourSbukIZnv.JPG",
+    "num_detections": 2,
+    "time_ms": 36546.20599746704,
+    "detections": [
+      {
+        "class": "bacterial_leaf_blight",
+        "class_vi": "Bacterial leaf blight",
+        "conf": 1.0,
+        "bbox": [
+          845,
+          653,
+          930,
+          1407
+        ],
+        "caption": "[VLM] Question: This rice leaf image shows Bacterial Leaf Blight disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Bacterial Leaf Blight disease is a disease caused by the bacterium Phytophthora infestans. Bacterial Leaf Blight disease is a disease caused by the bacterium Phytophthora infestans. Bacterial Leaf Blight disease is a disease caused by the bacterium Phytophthora infestans. Bacterial Leaf Blight disease is a disease caused by the bacterium Phytophthora infestans. Bacterial Leaf Blight disease is a disease caused by the bacterium Phytophthora infestans. Bacterial Leaf Blight disease is a disease caused by the bacterium Phytophthora infestans. Bacterial Leaf Blight disease is a disease caused by the bacterium Phytophthora\n[Disease] Bacterial leaf blight | Severity: High\n[Recommendation] Remove heavily infected leaves and apply an appropriate bactericide under expert guidance."
+      },
+      {
+        "class": "bacterial_leaf_blight",
+        "class_vi": "Bacterial leaf blight",
+        "conf": 1.0,
+        "bbox": [
+          537,
+          0,
+          643,
+          827
+        ],
+        "caption": "[VLM] Question: This rice leaf image shows Bacterial Leaf Blight disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Bacterial Leaf Blight disease is a disease caused by a bacterium called Phytophthora infestans. Bacterial Leaf Blight disease is a disease caused by a bacterium called Phytophthora infestans. Bacterial Leaf Blight disease is a disease caused by a bacterium called Phytophthora infestans. Bacterial Leaf Blight disease is a disease caused by a bacterium called Phytophthora infestans. Bacterial Leaf Blight disease is a disease caused by a bacterium called Phytophthora infestans. Bacterial Leaf Blight disease is a disease caused by a bacterium called Phytophthora infestans. Bacterial Leaf Blight disease is a disease caused by a\n[Disease] Bacterial leaf blight | Severity: High\n[Recommendation] Remove heavily infected leaves and apply an appropriate bactericide under expert guidance."
+      }
+    ]
+  },
+  {
+    "image": "/content/rice_disease_project/data/12-test/bacterial_leaf_blight_00006_bacterial-251_JPG_JPG.rf.cAOhMRd9swn5vdIqoRRS.JPG",
+    "num_detections": 9,
+    "time_ms": 137313.98344039917,
+    "detections": [
+      {
+        "class": "bacterial_leaf_blight",
+        "class_vi": "Bacterial leaf blight",
+        "conf": 1.0,
+        "bbox": [
+          628,
+          76,
+          663,
+          326
+        ],
+        "caption": "[VLM] Question: This rice leaf image shows Bacterial Leaf Blight disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Bacterial Leaf Blight disease is a disease caused by a bacterium called phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen\n[Disease] Bacterial leaf blight | Severity: High\n[Recommendation] Remove heavily infected leaves and apply an appropriate bactericide under expert guidance."
+      },
+      {
+        "class": "bacterial_leaf_blight",
+        "class_vi": "Bacterial leaf blight",
+        "conf": 1.0,
+        "bbox": [
+          937,
+          528,
+          992,
+          918
+        ],
+        "caption": "[VLM] Question: This rice leaf image shows Bacterial Leaf Blight disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Bacterial Leaf Blight disease is a disease caused by the bacterium Phytophthora ramorum, which is a member of the Phytophthora genus of the family Phytophoraceae. Bacterial Leaf Blight disease is a disease caused by the bacterium Phytophthora ramorum, which is a member of the Phytophthora genus of the family Phytophoraceae. Bacterial Leaf Blight disease is a disease caused by the bacterium Phytophthora ramorum, which is a member of the Phytophthora genus of the family Phytophoraceae. Bacterial Leaf Blight disease is a disease caused by the bacterium Phytophthora ramorum, which is a member of the\n[Disease] Bacterial leaf blight | Severity: High\n[Recommendation] Remove heavily infected leaves and apply an appropriate bactericide under expert guidance."
+      },
+      {
+        "class": "bacterial_leaf_blight",
+        "class_vi": "Bacterial leaf blight",
+        "conf": 0.9995,
+        "bbox": [
+          600,
+          538,
+          622,
+          639
+        ],
+        "caption": "[VLM] Question: This rice leaf image shows Bacterial Leaf Blight disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Bacterial Leaf Blight disease is a disease caused by the bacterium Phytophthora ramorum, which is a member of the Phytophthora genus. Bacterial Leaf Blight disease is a disease caused by the bacterium Phytophthora ramorum, which is a member of the Phytophthora genus. Bacterial Leaf Blight disease is a disease caused by the bacterium Phytophthora ramorum, which is a member of the Phytophthora genus. Bacterial Leaf Blight disease is a disease caused by the bacterium Phytophthora ramorum, which is a member of the Phytophthora genus. Bacterial Leaf Blight disease is a disease caused by the bacterium Phytophthora\n[Disease] Bacterial leaf blight | Severity: High\n[Recommendation] Remove heavily infected leaves and apply an appropriate bactericide under expert guidance."
+      },
+      {
+        "class": "bacterial_leaf_blight",
+        "class_vi": "Bacterial leaf blight",
+        "conf": 1.0,
+        "bbox": [
+          632,
+          1114,
+          668,
+          1337
+        ],
+        "caption": "[VLM] Question: This rice leaf image shows Bacterial Leaf Blight disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Bacterial Leaf Blight disease is a disease of rice caused by a bacterium called Phytophthora infestans. The disease is caused by the presence of the bacterium on the leaves of the plant. The disease is caused by the presence of the bacterium on the leaves of the plant. The disease is caused by the presence of the bacterium on the leaves of the plant. The disease is caused by the presence of the bacterium on the leaves of the plant. The disease is caused by the presence of the bacterium on the leaves of the plant. The disease is caused by the presence of the bacterium on the leaves of the plant. The disease is caused by the presence of the bacterium on the leaves of the plant\n[Disease] Bacterial leaf blight | Severity: High\n[Recommendation] Remove heavily infected leaves and apply an appropriate bactericide under expert guidance."
+      },
+      {
+        "class": "bacterial_leaf_blight",
+        "class_vi": "Bacterial leaf blight",
+        "conf": 0.9841,
+        "bbox": [
+          581,
+          803,
+          602,
+          872
+        ],
+        "caption": "[VLM] Question: This rice leaf image shows Bacterial Leaf Blight disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Bacterial Leaf Blight disease is caused by the bacterium Phytophthora infestans. The disease is characterized by yellowing and browning of the leaves. The disease is caused by the bacterium Phytophthora infestans. The disease is characterized by yellowing and browning of the leaves. The disease is caused by the bacterium Phytophthora infestans. The disease is characterized by yellowing and browning of the leaves. The disease is caused by the bacterium Phytophthora infestans. The disease is characterized by yellowing and browning of the leaves. The disease is caused by the bacterium Phytophthora infestans. The disease is characterized by yellowing and browning\n[Disease] Bacterial leaf blight | Severity: High\n[Recommendation] Remove heavily infected leaves and apply an appropriate bactericide under expert guidance."
+      },
+      {
+        "class": "bacterial_leaf_blight",
+        "class_vi": "Bacterial leaf blight",
+        "conf": 0.9998,
+        "bbox": [
+          658,
+          1406,
+          703,
+          1600
+        ],
+        "caption": "[VLM] Question: This rice leaf image shows Bacterial Leaf Blight disease. Describe the visual symptoms you observe on the leaf in detail. Answer: The leaf is brown and has a yellowish tinge to it, it also has brown spots on the underside of the leaf\n\n[Disease] Bacterial leaf blight | Severity: High\n[Recommendation] Remove heavily infected leaves and apply an appropriate bactericide under expert guidance."
+      },
+      {
+        "class": "bacterial_leaf_blight",
+        "class_vi": "Bacterial leaf blight",
+        "conf": 1.0,
+        "bbox": [
+          846,
+          582,
+          883,
+          996
+        ],
+        "caption": "[VLM] Question: This rice leaf image shows Bacterial Leaf Blight disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Bacterial Leaf Blight disease is a disease caused by a bacterium called phytophthora ramorum. The disease is most commonly found on rice plants, but it can also be found on other plants. The disease is most commonly found on rice plants, but it can also be found on other plants. The disease is most commonly found on rice plants, but it can also be found on other plants. The disease is most commonly found on rice plants, but it can also be found on other plants. The disease is most commonly found on rice plants, but it can also be found on other plants. The disease is most commonly found on rice plants, but it can also be found on other plants. The disease is most commonly found on rice\n[Disease] Bacterial leaf blight | Severity: High\n[Recommendation] Remove heavily infected leaves and apply an appropriate bactericide under expert guidance."
+      },
+      {
+        "class": "bacterial_leaf_blight",
+        "class_vi": "Bacterial leaf blight",
+        "conf": 1.0,
+        "bbox": [
+          822,
+          1302,
+          870,
+          1600
+        ],
+        "caption": "[VLM] Question: This rice leaf image shows Bacterial Leaf Blight disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Bacterial Leaf Blight disease is a disease caused by a bacterium called phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen\n[Disease] Bacterial leaf blight | Severity: High\n[Recommendation] Remove heavily infected leaves and apply an appropriate bactericide under expert guidance."
+      },
+      {
+        "class": "bacterial_leaf_blight",
+        "class_vi": "Bacterial leaf blight",
+        "conf": 0.9998,
+        "bbox": [
+          610,
+          765,
+          647,
+          1080
+        ],
+        "caption": "[VLM] Question: This rice leaf image shows Bacterial Leaf Blight disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Bacterial Leaf Blight disease is a disease caused by a bacterium called phytopathogen phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora\n[Disease] Bacterial leaf blight | Severity: High\n[Recommendation] Remove heavily infected leaves and apply an appropriate bactericide under expert guidance."
+      }
+    ]
+  },
+  {
+    "image": "/content/rice_disease_project/data/12-test/brown_spot_00045_brown-304_JPG_JPG.rf.10k7Xa4P8RvCBW6WkkEH.JPG",
+    "num_detections": 1,
+    "time_ms": 16675.434827804565,
+    "detections": [
+      {
+        "class": "brown_spot",
+        "class_vi": "Brown spot",
+        "conf": 0.8726,
+        "bbox": [
+          728,
+          827,
+          828,
+          1004
+        ],
+        "caption": "[VLM] Question: This rice leaf image shows Brown Spot disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Brown Spot Disease is a disease of rice caused by a bacterial infection. The disease is caused by a bacterial infection of the leaf. The disease is caused by a bacterial infection of the leaf. The disease is caused by a bacterial infection of the leaf. The disease is caused by a bacterial infection of the leaf. The disease is caused by a bacterial infection of the leaf. The disease is caused by a bacterial infection of the leaf. The disease is caused by a bacterial infection of the leaf. The disease is caused by a bacterial infection of the leaf. The disease is caused by a bacterial infection of the leaf. The disease is caused by a bacterial infection of the leaf. The disease is caused by a bacterial infection of the leaf. The disease is caused\n[Disease] Brown spot | Severity: Medium\n[Recommendation] Improve field nutrition and manage moisture stress to reduce disease pressure."
+      }
+    ]
+  },
+  {
+    "image": "/content/rice_disease_project/data/12-test/brown_spot_00046_brown-385_JPG_JPG.rf.IKYREx8zo8jPNmhtcnle.JPG",
+    "num_detections": 4,
+    "time_ms": 66691.13612174988,
+    "detections": [
+      {
+        "class": "brown_spot",
+        "class_vi": "Brown spot",
+        "conf": 0.5618,
+        "bbox": [
+          821,
+          1241,
+          857,
+          1323
+        ],
+        "caption": "[VLM] Question: This rice leaf image shows Brown Spot disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Brown Spot Disease is a disease of rice caused by the fungus Aspergillus fumigatus. This disease is caused by the fungus Aspergillus fumigatus. This disease is caused by the fungus Aspergillus fumigatus. This disease is caused by the fungus Aspergillus fumigatus. This disease is caused by the fungus Aspergillus fumigatus. This disease is caused by the fungus Aspergillus fumigatus. This disease is caused by the fungus Aspergillus fumigatus. This disease is caused by the fungus Aspergillus fumigatus. This disease is caused by the fungus Aspergillus fumigatus. This\n[Disease] Brown spot | Severity: Medium\n[Recommendation] Improve field nutrition and manage moisture stress to reduce disease pressure."
+      },
+      {
+        "class": "brown_spot",
+        "class_vi": "Brown spot",
+        "conf": 0.9799,
+        "bbox": [
+          841,
+          935,
+          858,
+          998
+        ],
+        "caption": "[VLM] Question: This rice leaf image shows Brown Spot disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Brown Spot Disease is a fungal disease caused by the fungal pathogen aspergillus flavus. The disease is characterized by brown spots on the surface of the leaf. The disease is caused by the fungal pathogen aspergillus flavus. The disease is characterized by brown spots on the surface of the leaf. The disease is caused by the fungal pathogen aspergillus flavus. The disease is characterized by brown spots on the surface of the leaf. The disease is caused by the fungal pathogen aspergillus flavus. The disease is characterized by brown spots on the surface of the leaf. The disease is caused by the fungal pathogen aspergillus flavus. The disease is characterized\n[Disease] Brown spot | Severity: Medium\n[Recommendation] Improve field nutrition and manage moisture stress to reduce disease pressure."
+      },
+      {
+        "class": "leaf_scald",
+        "class_vi": "Leaf scald",
+        "conf": 0.7744,
+        "bbox": [
+          813,
+          0,
+          873,
+          121
+        ],
+        "caption": "[VLM] Question: This rice leaf image shows Leaf Scald disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Leaf scald disease is a disease that affects the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus\n[Disease] Leaf scald | Severity: Medium\n[Recommendation] Maintain field hygiene and reduce excessive humidity where possible."
+      },
+      {
+        "class": "leaf_scald",
+        "class_vi": "Leaf scald",
+        "conf": 0.4691,
+        "bbox": [
+          760,
+          517,
+          816,
+          607
+        ],
+        "caption": "[VLM] Question: This rice leaf image shows Leaf Scald disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Leaf scald disease is a disease of the leaves of rice plants caused by a bacterium called phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ram\n[Disease] Leaf scald | Severity: Medium\n[Recommendation] Maintain field hygiene and reduce excessive humidity where possible."
+      }
+    ]
+  },
+  {
+    "image": "/content/rice_disease_project/data/12-test/healthy_00093_healthy-182_JPG.rf.9Q7pfn5GgD8v8MC5ZSSO.JPG",
+    "num_detections": 1,
+    "time_ms": 18239.214181900024,
+    "detections": [
+      {
+        "class": "leaf_blast",
+        "class_vi": "Leaf blast",
+        "conf": 0.9909,
+        "bbox": [
+          429,
+          3,
+          1600,
+          1600
+        ],
+        "caption": "[VLM] Question: This rice leaf image shows Leaf Blast disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Leaf Blast disease is a disease caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is\n[Disease] Leaf blast | Severity: Very high\n[Recommendation] Monitor closely and apply a fungicide if conditions favor spread."
+      }
+    ]
+  },
+  {
+    "image": "/content/rice_disease_project/data/12-test/healthy_00095_healthy-131_JPG.rf.9TKs4m46u1MEtCOZ9JrS.JPG",
+    "num_detections": 1,
+    "time_ms": 16791.449308395386,
+    "detections": [
+      {
+        "class": "brown_spot",
+        "class_vi": "Brown spot",
+        "conf": 0.3675,
+        "bbox": [
+          5,
+          2,
+          1597,
+          1600
+        ],
+        "caption": "[VLM] Question: This rice leaf image shows Brown Spot disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Brown Spot Disease is a disease caused by the fungus Aspergillus fumigatus. The disease is caused by the presence of Aspergillus fumigatus on the leaf surface. The disease is caused by the presence of Aspergillus fumigatus on the leaf surface. The disease is caused by the presence of Aspergillus fumigatus on the leaf surface. The disease is caused by the presence of Aspergillus fumigatus on the leaf surface. The disease is caused by the presence of Aspergillus fumigatus on the leaf surface. The disease is caused by the presence of Aspergillus fumigatus on the leaf surface. The disease is caused by\n[Disease] Brown spot | Severity: Medium\n[Recommendation] Improve field nutrition and manage moisture stress to reduce disease pressure."
+      }
+    ]
+  },
+  {
+    "image": "/content/rice_disease_project/data/12-test/leaf_blast_00127_leaf_blast-239_JPG_JPG.rf.pIUE31rh0LSGGw7vweNj.JPG",
+    "num_detections": 11,
+    "time_ms": 183906.18300437927,
+    "detections": [
+      {
+        "class": "leaf_blast",
+        "class_vi": "Leaf blast",
+        "conf": 0.9994,
+        "bbox": [
+          741,
+          134,
+          796,
+          331
+        ],
+        "caption": "[VLM] Question: This rice leaf image shows Leaf Blast disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Leaf Blast disease is caused by a fungus that grows on the leaves of rice plants. The fungus causes the leaves to turn yellow, brown, or black. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus\n[Disease] Leaf blast | Severity: Very high\n[Recommendation] Monitor closely and apply a fungicide if conditions favor spread."
+      },
+      {
+        "class": "leaf_blast",
+        "class_vi": "Leaf blast",
+        "conf": 0.9999,
+        "bbox": [
+          729,
+          795,
+          765,
+          938
+        ],
+        "caption": "[VLM] Question: This rice leaf image shows Leaf Blast disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Leaf Blast Disease is a disease caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is\n[Disease] Leaf blast | Severity: Very high\n[Recommendation] Monitor closely and apply a fungicide if conditions favor spread."
+      },
+      {
+        "class": "leaf_blast",
+        "class_vi": "Leaf blast",
+        "conf": 1.0,
+        "bbox": [
+          835,
+          642,
+          867,
+          725
+        ],
+        "caption": "[VLM] Question: This rice leaf image shows Leaf Blast disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Leaf Blast Disease is a disease caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is\n[Disease] Leaf blast | Severity: Very high\n[Recommendation] Monitor closely and apply a fungicide if conditions favor spread."
+      },
+      {
+        "class": "leaf_blast",
+        "class_vi": "Leaf blast",
+        "conf": 0.9985,
+        "bbox": [
+          782,
+          770,
+          825,
+          936
+        ],
+        "caption": "[VLM] Question: This rice leaf image shows Leaf Blast disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Leaf Blast Disease is a disease of rice caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus that grows on the leaves of the plant. The\n[Disease] Leaf blast | Severity: Very high\n[Recommendation] Monitor closely and apply a fungicide if conditions favor spread."
+      },
+      {
+        "class": "leaf_scald",
+        "class_vi": "Leaf scald",
+        "conf": 0.6407,
+        "bbox": [
+          857,
+          278,
+          1596,
+          1170
+        ],
+        "caption": "[VLM] Question: This rice leaf image shows Leaf Scald disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Leaf scald disease is a disease of the leaves of rice plants caused by a bacterium that lives in the soil. The disease is caused by the infection of the plant by the bacterium. The disease is caused by the infection of the plant by the bacterium. The disease is caused by the infection of the plant by the bacterium. The disease is caused by the infection of the plant by the bacterium. The disease is caused by the infection of the plant by the bacterium. The disease is caused by the infection of the plant by the bacterium. The disease is caused by the infection of the plant by the bacterium. The disease is caused by the infection of the plant by the bacterium. The disease is caused by the\n[Disease] Leaf scald | Severity: Medium\n[Recommendation] Maintain field hygiene and reduce excessive humidity where possible."
+      },
+      {
+        "class": "leaf_blast",
+        "class_vi": "Leaf blast",
+        "conf": 0.9966,
+        "bbox": [
+          748,
+          496,
+          772,
+          578
+        ],
+        "caption": "[VLM] Question: This rice leaf image shows Leaf Blast disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Leaf Blast Disease is a disease caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is\n[Disease] Leaf blast | Severity: Very high\n[Recommendation] Monitor closely and apply a fungicide if conditions favor spread."
+      },
+      {
+        "class": "leaf_blast",
+        "class_vi": "Leaf blast",
+        "conf": 0.9997,
+        "bbox": [
+          696,
+          293,
+          723,
+          421
+        ],
+        "caption": "[VLM] Question: This rice leaf image shows Leaf Blast disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Leaf Blast Disease is a disease that affects the leaves of rice plants. The disease is caused by a fungus that lives on the leaves of the plant. The fungus grows on the leaves of the plant and spreads throughout the plant. The disease causes the leaves of the plant to turn yellow. The disease also causes the leaves of the plant to turn brown. The disease also causes the leaves of the plant to turn brown. The disease also causes the leaves of the plant to turn brown. The disease also causes the leaves of the plant to turn brown. The disease also causes the leaves of the plant to turn brown. The disease also causes the leaves of the plant to turn brown. The disease also causes the leaves of the plant to turn brown. The disease\n[Disease] Leaf blast | Severity: Very high\n[Recommendation] Monitor closely and apply a fungicide if conditions favor spread."
+      },
+      {
+        "class": "leaf_blast",
+        "class_vi": "Leaf blast",
+        "conf": 0.9996,
+        "bbox": [
+          864,
+          1125,
+          919,
+          1359
+        ],
+        "caption": "[VLM] Question: This rice leaf image shows Leaf Blast disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Leaf Blast Disease is a disease caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is\n[Disease] Leaf blast | Severity: Very high\n[Recommendation] Monitor closely and apply a fungicide if conditions favor spread."
+      },
+      {
+        "class": "leaf_blast",
+        "class_vi": "Leaf blast",
+        "conf": 1.0,
+        "bbox": [
+          828,
+          1032,
+          862,
+          1155
+        ],
+        "caption": "[VLM] Question: This rice leaf image shows Leaf Blast disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Leaf Blast Disease is a disease caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is\n[Disease] Leaf blast | Severity: Very high\n[Recommendation] Monitor closely and apply a fungicide if conditions favor spread."
+      },
+      {
+        "class": "leaf_blast",
+        "class_vi": "Leaf blast",
+        "conf": 0.9951,
+        "bbox": [
+          881,
+          755,
+          913,
+          870
+        ],
+        "caption": "[VLM] Question: This rice leaf image shows Leaf Blast disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Leaf Blast Disease is a disease caused by a bacterium called Phytophthora infestans. Phytophthora infestans is a plant pathogen that infects many different types of plants. Phytophthora infestans is a disease caused by a bacterium called Phytophthora infestans. Phytophthora infestans is a disease caused by a bacterium called Phytophthora infestans. Phytophthora infestans is a disease caused by a bacterium called Phytophthora infestans. Phytophthora infestans is a disease caused by a bacterium called Phytophthora infestans. Phytophthora infestans is a disease caused by a\n[Disease] Leaf blast | Severity: Very high\n[Recommendation] Monitor closely and apply a fungicide if conditions favor spread."
+      },
+      {
+        "class": "leaf_blast",
+        "class_vi": "Leaf blast",
+        "conf": 0.9996,
+        "bbox": [
+          828,
+          175,
+          861,
+          306
+        ],
+        "caption": "[VLM] Question: This rice leaf image shows Leaf Blast disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Leaf Blast Disease is a disease caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is\n[Disease] Leaf blast | Severity: Very high\n[Recommendation] Monitor closely and apply a fungicide if conditions favor spread."
+      }
+    ]
+  },
+  {
+    "image": "/content/rice_disease_project/data/12-test/leaf_blast_00131_leaf_blast-314_JPG_JPG.rf.pxeTz83qC9UfyVqpNYax.JPG",
+    "num_detections": 7,
+    "time_ms": 117351.87983512878,
+    "detections": [
+      {
+        "class": "leaf_blast",
+        "class_vi": "Leaf blast",
+        "conf": 1.0,
+        "bbox": [
+          443,
+          770,
+          546,
+          822
+        ],
+        "caption": "[VLM] Question: This rice leaf image shows Leaf Blast disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Leaf Blast Disease is a disease caused by a bacterium called Phytophthora infestans. Leaf Blast Disease is a disease caused by a bacterium called Phytophthora infestans. Leaf Blast Disease is a disease caused by a bacterium called Phytophthora infestans. Leaf Blast Disease is a disease caused by a bacterium called Phytophthora infestans. Leaf Blast Disease is a disease caused by a bacterium called Phytophthora infestans. Leaf Blast Disease is a disease caused by a bacterium called Phytophthora infestans. Leaf Blast Disease is a disease caused by a bacterium called Phytophthora infestans. Leaf Blast Disease is a disease caused by a bacter\n[Disease] Leaf blast | Severity: Very high\n[Recommendation] Monitor closely and apply a fungicide if conditions favor spread."
+      },
+      {
+        "class": "leaf_blast",
+        "class_vi": "Leaf blast",
+        "conf": 1.0,
+        "bbox": [
+          1225,
+          776,
+          1466,
+          855
+        ],
+        "caption": "[VLM] Question: This rice leaf image shows Leaf Blast disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Leaf Blast Disease is a disease of rice caused by a fungus that grows on the surface of the leaf. The disease is caused by a fungus that grows on the surface of the leaf. The disease is caused by a fungus that grows on the surface of the leaf. The disease is caused by a fungus that grows on the surface of the leaf. The disease is caused by a fungus that grows on the surface of the leaf. The disease is caused by a fungus that grows on the surface of the leaf. The disease is caused by a fungus that grows on the surface of the leaf. The disease is caused by a fungus that grows on the surface of the leaf. The disease is caused by a fungus that grows on the surface of the leaf. The\n[Disease] Leaf blast | Severity: Very high\n[Recommendation] Monitor closely and apply a fungicide if conditions favor spread."
+      },
+      {
+        "class": "leaf_blast",
+        "class_vi": "Leaf blast",
+        "conf": 0.9999,
+        "bbox": [
+          151,
+          784,
+          204,
+          812
+        ],
+        "caption": "[VLM] Question: This rice leaf image shows Leaf Blast disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Leaf Blast Disease is a disease caused by a fungus that grows on the surface of the leaves of rice plants. The disease is caused by a fungus that grows on the surface of the leaves of rice plants. The disease is caused by a fungus that grows on the surface of the leaves of rice plants. The disease is caused by a fungus that grows on the surface of the leaves of rice plants. The disease is caused by a fungus that grows on the surface of the leaves of rice plants. The disease is caused by a fungus that grows on the surface of the leaves of rice plants. The disease is caused by a fungus that grows on the surface of the leaves of rice plants. The disease is caused by a fungus that grows on the surface of the\n[Disease] Leaf blast | Severity: Very high\n[Recommendation] Monitor closely and apply a fungicide if conditions favor spread."
+      },
+      {
+        "class": "leaf_blast",
+        "class_vi": "Leaf blast",
+        "conf": 1.0,
+        "bbox": [
+          3,
+          813,
+          330,
+          890
+        ],
+        "caption": "[VLM] Question: This rice leaf image shows Leaf Blast disease. Describe the visual symptoms you observe on the leaf in detail. Answer: The leaf is yellowish in color, and the edges of the leaf are brownish in color. The edges of the leaf are brownish in color, and the edges of the leaf are yellowish in color. The leaf is yellowish in color, and the edges of the leaf are brownish in color. The leaf is yellowish in color, and the edges of the leaf are brownish in color. The leaf is yellowish in color, and the edges of the leaf are brownish in color. The leaf is yellowish in color, and the edges of the leaf are brownish in color. The leaf is yellowish in color, and the edges of the leaf are brownish in color. The leaf is yellowish in color\n[Disease] Leaf blast | Severity: Very high\n[Recommendation] Monitor closely and apply a fungicide if conditions favor spread."
+      },
+      {
+        "class": "leaf_blast",
+        "class_vi": "Leaf blast",
+        "conf": 0.9983,
+        "bbox": [
+          562,
+          863,
+          695,
+          921
+        ],
+        "caption": "[VLM] Question: This rice leaf image shows Leaf Blast disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Leaf Blast Disease is a disease caused by a fungal infection of the leaves of rice plants. The disease is caused by a fungal infection of the leaves of rice plants. The disease is caused by a fungal infection of the leaves of rice plants. The disease is caused by a fungal infection of the leaves of rice plants. The disease is caused by a fungal infection of the leaves of rice plants. The disease is caused by a fungal infection of the leaves of rice plants. The disease is caused by a fungal infection of the leaves of rice plants. The disease is caused by a fungal infection of the leaves of rice plants. The disease is caused by a fungal infection of the leaves of rice plants. The disease is\n[Disease] Leaf blast | Severity: Very high\n[Recommendation] Monitor closely and apply a fungicide if conditions favor spread."
+      },
+      {
+        "class": "leaf_blast",
+        "class_vi": "Leaf blast",
+        "conf": 0.9997,
+        "bbox": [
+          963,
+          771,
+          1031,
+          804
+        ],
+        "caption": "[VLM] Question: This rice leaf image shows Leaf Blast disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Leaf Blast Disease is caused by a fungus that grows on the leaves of rice plants. The fungus causes the leaves to turn yellow, brown, or black. The fungus can also cause the leaves to fall off the plant. The fungus can also spread to other parts of the plant, such as the stems, roots, and flowers. The fungus can also spread to other parts of the plant, such as the stems, roots, and flowers. The fungus can also spread to other parts of the plant, such as the stems, roots, and flowers. The fungus can also spread to other parts of the plant, such as the stems, roots, and flowers. The fungus can also spread to other parts of the plant, such as the stems, roots\n[Disease] Leaf blast | Severity: Very high\n[Recommendation] Monitor closely and apply a fungicide if conditions favor spread."
+      },
+      {
+        "class": "leaf_blast",
+        "class_vi": "Leaf blast",
+        "conf": 0.7785,
+        "bbox": [
+          782,
+          786,
+          842,
+          818
+        ],
+        "caption": "[VLM] Question: This rice leaf image shows Leaf Blast disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Leaf Blast disease is a disease caused by a fungus that grows on the surface of rice leaves. The disease is caused by a fungus that grows on the surface of rice leaves. The disease is caused by a fungus that grows on the surface of rice leaves. The disease is caused by a fungus that grows on the surface of rice leaves. The disease is caused by a fungus that grows on the surface of rice leaves. The disease is caused by a fungus that grows on the surface of rice leaves. The disease is caused by a fungus that grows on the surface of rice leaves. The disease is caused by a fungus that grows on the surface of rice leaves. The disease is caused by a fungus that grows on the surface of rice leaves. The disease is\n[Disease] Leaf blast | Severity: Very high\n[Recommendation] Monitor closely and apply a fungicide if conditions favor spread."
+      }
+    ]
+  },
+  {
+    "image": "/content/rice_disease_project/data/12-test/leaf_scald_00194_leaf_scald (147)_pp_jpg.rf.VDMqaIxbmz8IojqNnWyr.jpg",
+    "num_detections": 9,
+    "time_ms": 151009.49621200562,
+    "detections": [
+      {
+        "class": "leaf_scald",
+        "class_vi": "Leaf scald",
+        "conf": 0.9999,
+        "bbox": [
+          497,
+          19,
+          588,
+          561
+        ],
+        "caption": "[VLM] Question: This rice leaf image shows Leaf Scald disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Leaf scald disease is a disease of the leaves of the rice plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus that grows on the leaves of the rice plant. The disease is caused by a fungus that grows on the leaves of the rice plant. The disease is caused by a fungus that grows on the leaves of the rice plant. The disease is caused by a fungus that grows on the leaves of the rice plant. The disease is caused by a fungus that grows on the leaves of the rice plant. The disease is caused by a fungus that grows on the leaves of the rice plant. The disease is caused by a fungus that grows on the leaves of the rice plant.\n[Disease] Leaf scald | Severity: Medium\n[Recommendation] Maintain field hygiene and reduce excessive humidity where possible."
+      },
+      {
+        "class": "leaf_scald",
+        "class_vi": "Leaf scald",
+        "conf": 1.0,
+        "bbox": [
+          512,
+          736,
+          532,
+          808
+        ],
+        "caption": "[VLM] Question: This rice leaf image shows Leaf Scald disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Scald is a disease of the leaves of the rice plant, caused by a bacterial infection. The disease is caused by a bacterium called Phytophthora infestans. The disease is caused by a bacterium called Phytophthora infestans. The disease is caused by a bacterium called Phytophthora infestans. The disease is caused by a bacterium called Phytophthora infestans. The disease is caused by a bacterium called Phytophthora infestans. The disease is caused by a bacterium called Phytophthora infestans. The disease is caused by a bacterium called Phytophthora infestans. The disease is caused by a bacterium called Phytoph\n[Disease] Leaf scald | Severity: Medium\n[Recommendation] Maintain field hygiene and reduce excessive humidity where possible."
+      },
+      {
+        "class": "leaf_scald",
+        "class_vi": "Leaf scald",
+        "conf": 1.0,
+        "bbox": [
+          585,
+          756,
+          598,
+          803
+        ],
+        "caption": "[VLM] Question: This rice leaf image shows Leaf Scald disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Leaf scald disease is a disease that affects the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus\n[Disease] Leaf scald | Severity: Medium\n[Recommendation] Maintain field hygiene and reduce excessive humidity where possible."
+      },
+      {
+        "class": "leaf_scald",
+        "class_vi": "Leaf scald",
+        "conf": 1.0,
+        "bbox": [
+          546,
+          759,
+          558,
+          795
+        ],
+        "caption": "[VLM] Question: This rice leaf image shows Leaf Scald disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Leaf scald disease is a disease caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease\n[Disease] Leaf scald | Severity: Medium\n[Recommendation] Maintain field hygiene and reduce excessive humidity where possible."
+      },
+      {
+        "class": "leaf_scald",
+        "class_vi": "Leaf scald",
+        "conf": 1.0,
+        "bbox": [
+          576,
+          646,
+          590,
+          714
+        ],
+        "caption": "[VLM] Question: This rice leaf image shows Leaf Scald disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Leaf scald disease is a disease of rice that affects the leaves of the plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by\n[Disease] Leaf scald | Severity: Medium\n[Recommendation] Maintain field hygiene and reduce excessive humidity where possible."
+      },
+      {
+        "class": "leaf_scald",
+        "class_vi": "Leaf scald",
+        "conf": 1.0,
+        "bbox": [
+          0,
+          4,
+          576,
+          743
+        ],
+        "caption": "[VLM] Question: This rice leaf image shows Leaf Scald disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Leaf scald disease is a disease that affects the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus\n[Disease] Leaf scald | Severity: Medium\n[Recommendation] Maintain field hygiene and reduce excessive humidity where possible."
+      },
+      {
+        "class": "leaf_scald",
+        "class_vi": "Leaf scald",
+        "conf": 1.0,
+        "bbox": [
+          537,
+          13,
+          1079,
+          741
+        ],
+        "caption": "[VLM] Question: This rice leaf image shows Leaf Scald disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Leaf scald disease is a disease that affects the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of the plant. The fungus causes the leaves to turn yellow, brown, or black. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus that grows\n[Disease] Leaf scald | Severity: Medium\n[Recommendation] Maintain field hygiene and reduce excessive humidity where possible."
+      },
+      {
+        "class": "leaf_scald",
+        "class_vi": "Leaf scald",
+        "conf": 0.9993,
+        "bbox": [
+          591,
+          849,
+          607,
+          896
+        ],
+        "caption": "[VLM] Question: This rice leaf image shows Leaf Scald disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Leaf scald disease is a disease that affects the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of the plant. The disease causes the leaves of the plant to turn brown, yellow, or black. The disease can also affect the stems of the plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease causes the leaves of the plant to turn brown, yellow, or black. The disease can also affect the stems of the plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease causes the leaves of the plant to turn brown, yellow, or black. The disease can also affect the stems of the plant. The disease is\n[Disease] Leaf scald | Severity: Medium\n[Recommendation] Maintain field hygiene and reduce excessive humidity where possible."
+      },
+      {
+        "class": "leaf_scald",
+        "class_vi": "Leaf scald",
+        "conf": 0.8064,
+        "bbox": [
+          515,
+          873,
+          528,
+          908
+        ],
+        "caption": "[VLM] Question: This rice leaf image shows Leaf Scald disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Leaf scald disease is a disease of the leaves of rice plants caused by a bacterium called phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ram\n[Disease] Leaf scald | Severity: Medium\n[Recommendation] Maintain field hygiene and reduce excessive humidity where possible."
+      }
+    ]
+  },
+  {
+    "image": "/content/rice_disease_project/data/12-test/leaf_scald_00198_leaf_scald (49)_pp_jpg.rf.0SJe8yX5CRoYuBX7ey8K.jpg",
+    "num_detections": 1,
+    "time_ms": 16754.374742507935,
+    "detections": [
+      {
+        "class": "leaf_scald",
+        "class_vi": "Leaf scald",
+        "conf": 1.0,
+        "bbox": [
+          180,
+          0,
+          627,
+          1036
+        ],
+        "caption": "[VLM] Question: This rice leaf image shows Leaf Scald disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Leaf scald disease is a disease that affects the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of the plant. The fungus causes the leaves to turn yellow and brown. The disease can also cause the leaves to fall off of the plant. Symptoms of the disease include yellowing of the leaves, browning of the leaves, and wilting of the leaves. The disease is caused by a fungus that grows on the leaves of the plant. The fungus causes the leaves to turn yellow and brown. The disease can also cause the leaves to fall off of the plant. Symptoms of the disease include yellowing of the leaves, browning of the leaves, and wilting of the leaves. The disease is caused by\n[Disease] Leaf scald | Severity: Medium\n[Recommendation] Maintain field hygiene and reduce excessive humidity where possible."
+      }
+    ]
+  },
+  {
+    "image": "/content/rice_disease_project/data/12-test/sheath_blight_00208_sb_wb_21_pp_jpg.rf.GtkYLZ0mEbiSEkE6Bxj8.jpg",
+    "num_detections": 5,
+    "time_ms": 70951.78842544556,
+    "detections": [
+      {
+        "class": "sheath_blight",
+        "class_vi": "Sheath blight",
+        "conf": 1.0,
+        "bbox": [
+          529,
+          545,
+          542,
+          625
+        ],
+        "caption": "[VLM] Question: This rice leaf image shows Sheath Blight disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Sheath Blight disease is a disease caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The\n[Disease] Sheath blight | Severity: High\n[Recommendation] Remove infected debris and consider fungicide management if severity increases."
+      },
+      {
+        "class": "sheath_blight",
+        "class_vi": "Sheath blight",
+        "conf": 1.0,
+        "bbox": [
+          540,
+          440,
+          550,
+          510
+        ],
+        "caption": "[VLM] Question: This rice leaf image shows Sheath Blight disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Sheath Blight disease is a disease of rice caused by a fungus that grows on the surface of the leaf\n\n[Disease] Sheath blight | Severity: High\n[Recommendation] Remove infected debris and consider fungicide management if severity increases."
+      },
+      {
+        "class": "sheath_blight",
+        "class_vi": "Sheath blight",
+        "conf": 1.0,
+        "bbox": [
+          552,
+          447,
+          560,
+          488
+        ],
+        "caption": "[VLM] Question: This rice leaf image shows Sheath Blight disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Sheath Blight disease is a disease of rice caused by a fungus that grows on the surface of the leaves of the plant. The disease is caused by a fungus that grows on the surface of the leaves of the plant. The disease is caused by a fungus that grows on the surface of the leaves of the plant. The disease is caused by a fungus that grows on the surface of the leaves of the plant. The disease is caused by a fungus that grows on the surface of the leaves of the plant. The disease is caused by a fungus that grows on the surface of the leaves of the plant. The disease is caused by a fungus that grows on the surface of the leaves of the plant. The disease is caused by a fungus that grows on\n[Disease] Sheath blight | Severity: High\n[Recommendation] Remove infected debris and consider fungicide management if severity increases."
+      },
+      {
+        "class": "sheath_blight",
+        "class_vi": "Sheath blight",
+        "conf": 1.0,
+        "bbox": [
+          519,
+          407,
+          528,
+          489
+        ],
+        "caption": "[VLM] Question: This rice leaf image shows Sheath Blight disease. Describe the visual symptoms you observe on the leaf in detail. Answer: This rice leaf image shows Sheath Blight disease. Describe the visual symptoms you observe on the leaf in detail. Answer: This rice leaf image shows Sheath Blight disease. Describe the visual symptoms you observe on the leaf in detail. Answer: This rice leaf image shows Sheath Blight disease. Describe the visual symptoms you observe on the leaf in detail. Answer: This rice leaf image shows Sheath Blight disease. Describe the visual symptoms you observe on the leaf in detail. Answer: This rice leaf image shows Sheath Blight disease. Describe the visual symptoms you observe on the leaf in detail. Answer: This rice leaf image shows Sheath Blight disease. Describe the visual symptoms you observe on the\n[Disease] Sheath blight | Severity: High\n[Recommendation] Remove infected debris and consider fungicide management if severity increases."
+      },
+      {
+        "class": "sheath_blight",
+        "class_vi": "Sheath blight",
+        "conf": 1.0,
+        "bbox": [
+          518,
+          404,
+          525,
+          461
+        ],
+        "caption": "[VLM] Question: This rice leaf image shows Sheath Blight disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Sheath Blight disease is a disease of rice caused by a bacterium called phytophthora ramorum phytophthora ramorum is a disease of rice caused by a bacterium called phytophthora ramorum phytophthora ramorum is a disease of rice caused by a bacterium called phytophthora ramorum phytophthora ramorum is a disease of rice caused by a bacterium called phytophthora ramorum phytophthora ramorum is a disease of rice caused by a bacterium called phytophthora ramorum phytophthora ramorum is a disease of rice caused by a bacterium called phytophthora ramorum phytophthora ramorum is a disease of rice caused by\n[Disease] Sheath blight | Severity: High\n[Recommendation] Remove infected debris and consider fungicide management if severity increases."
+      }
+    ]
+  },
+  {
+    "image": "/content/rice_disease_project/data/12-test/sheath_blight_00212_sb_wb_158_pp_jpg.rf.JO33V4ZKJDNZ9JCcn7PS.jpg",
+    "num_detections": 7,
+    "time_ms": 104848.10376167297,
+    "detections": [
+      {
+        "class": "bacterial_leaf_blight",
+        "class_vi": "Bacterial leaf blight",
+        "conf": 0.9755,
+        "bbox": [
+          554,
+          160,
+          576,
+          312
+        ],
+        "caption": "[VLM] Question: This rice leaf image shows Bacterial Leaf Blight disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Bacterial Leaf Blight disease is a disease caused by a bacterium called Phytophthora infestans. Bacterial Leaf Blight disease is a disease caused by a bacterium called Phytophthora infestans. Bacterial Leaf Blight disease is a disease caused by a bacterium called Phytophthora infestans. Bacterial Leaf Blight disease is a disease caused by a bacterium called Phytophthora infestans. Bacterial Leaf Blight disease is a disease caused by a bacterium called Phytophthora infestans. Bacterial Leaf Blight disease is a disease caused by a bacterium called Phytophthora infestans. Bacterial Leaf Blight disease is a disease caused by a\n[Disease] Bacterial leaf blight | Severity: High\n[Recommendation] Remove heavily infected leaves and apply an appropriate bactericide under expert guidance."
+      },
+      {
+        "class": "sheath_blight",
+        "class_vi": "Sheath blight",
+        "conf": 0.9996,
+        "bbox": [
+          567,
+          322,
+          587,
+          524
+        ],
+        "caption": "[VLM] Question: This rice leaf image shows Sheath Blight disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Sheath Blight disease is a disease caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The\n[Disease] Sheath blight | Severity: High\n[Recommendation] Remove infected debris and consider fungicide management if severity increases."
+      },
+      {
+        "class": "sheath_blight",
+        "class_vi": "Sheath blight",
+        "conf": 0.9982,
+        "bbox": [
+          558,
+          370,
+          566,
+          433
+        ],
+        "caption": "[VLM] Question: This rice leaf image shows Sheath Blight disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Sheath Blight disease is a disease caused by a fungus that grows on the surface of the leaves of rice plants. The disease is caused by a fungus that grows on the surface of the leaves of rice plants. The disease is caused by a fungus that grows on the surface of the leaves of rice plants. The disease is caused by a fungus that grows on the surface of the leaves of rice plants. The disease is caused by a fungus that grows on the surface of the leaves of rice plants. The disease is caused by a fungus that grows on the surface of the leaves of rice plants. The disease is caused by a fungus that grows on the surface of the leaves of rice plants. The disease is caused by a fungus that grows on the surface\n[Disease] Sheath blight | Severity: High\n[Recommendation] Remove infected debris and consider fungicide management if severity increases."
+      },
+      {
+        "class": "sheath_blight",
+        "class_vi": "Sheath blight",
+        "conf": 1.0,
+        "bbox": [
+          570,
+          624,
+          603,
+          833
+        ],
+        "caption": "[VLM] Question: This rice leaf image shows Sheath Blight disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Sheath Blight Disease\n\n[Disease] Sheath blight | Severity: High\n[Recommendation] Remove infected debris and consider fungicide management if severity increases."
+      },
+      {
+        "class": "sheath_blight",
+        "class_vi": "Sheath blight",
+        "conf": 0.9994,
+        "bbox": [
+          563,
+          670,
+          597,
+          909
+        ],
+        "caption": "[VLM] Question: This rice leaf image shows Sheath Blight disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Sheath Blight is a disease caused by a fungus that grows on the surface of the leaves of rice plants. The disease is caused by a fungus that grows on the surface of the leaves of rice plants. The disease is caused by a fungus that grows on the surface of the leaves of rice plants. The disease is caused by a fungus that grows on the surface of the leaves of rice plants. The disease is caused by a fungus that grows on the surface of the leaves of rice plants. The disease is caused by a fungus that grows on the surface of the leaves of rice plants. The disease is caused by a fungus that grows on the surface of the leaves of rice plants. The disease is caused by a fungus that grows on the surface of\n[Disease] Sheath blight | Severity: High\n[Recommendation] Remove infected debris and consider fungicide management if severity increases."
+      },
+      {
+        "class": "sheath_blight",
+        "class_vi": "Sheath blight",
+        "conf": 1.0,
+        "bbox": [
+          563,
+          299,
+          600,
+          826
+        ],
+        "caption": "[VLM] Question: This rice leaf image shows Sheath Blight disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Sheath Blight disease is a disease caused by a bacterium called Phytophthora ramorum. The disease is caused by a fungus called Phytophthora infestans. Phytophthora infestans is a disease caused by a fungus called Phytophthora infestans. The disease is caused by a fungus called Phytophthora infestans. The disease is caused by a fungus called Phytophthora infestans. The disease is caused by a fungus called Phytophthora infestans. The disease is caused by a fungus called Phytophthora infestans. The disease is caused by a fungus called Phytophthora infestans. The disease is caused by a fungus called Phyt\n[Disease] Sheath blight | Severity: High\n[Recommendation] Remove infected debris and consider fungicide management if severity increases."
+      },
+      {
+        "class": "sheath_blight",
+        "class_vi": "Sheath blight",
+        "conf": 0.9994,
+        "bbox": [
+          533,
+          141,
+          542,
+          189
+        ],
+        "caption": "[VLM] Question: This rice leaf image shows Sheath Blight disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Sheath Blight disease is caused by a fungus that grows on the surface of the leaves of rice plants. The disease is caused by a fungus that grows on the surface of the leaves of rice plants. The disease is caused by a fungus that grows on the surface of the leaves of rice plants. The disease is caused by a fungus that grows on the surface of the leaves of rice plants. The disease is caused by a fungus that grows on the surface of the leaves of rice plants. The disease is caused by a fungus that grows on the surface of the leaves of rice plants. The disease is caused by a fungus that grows on the surface of the leaves of rice plants. The disease is caused by a fungus that grows on the surface of the\n[Disease] Sheath blight | Severity: High\n[Recommendation] Remove infected debris and consider fungicide management if severity increases."
+      }
+    ]
+  }
+]

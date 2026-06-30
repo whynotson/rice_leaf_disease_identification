@@ -1,0 +1,268 @@
+File: brown_spot_00040_brown-172_JPG_JPG.rf.qWTp0a1SHQ6jhVGkBwUh.JPG
+Processing time: 911.4 ms
+Number of disease regions: 44
+
+--- Region 1 ---
+Bbox: [211, 741, 273, 769]
+Class: Brown spot
+Confidence: 99.7%
+Caption: Detected disease: Brown spot. Confidence: 99.7%. Location: middle-left. Approximate area ratio: 0.001. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 2 ---
+Bbox: [1520, 574, 1581, 608]
+Class: Brown spot
+Confidence: 99.5%
+Caption: Detected disease: Brown spot. Confidence: 99.5%. Location: middle-right. Approximate area ratio: 0.001. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 3 ---
+Bbox: [1097, 637, 1158, 669]
+Class: Brown spot
+Confidence: 94.0%
+Caption: Detected disease: Brown spot. Confidence: 94.0%. Location: middle-right. Approximate area ratio: 0.001. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 4 ---
+Bbox: [674, 623, 718, 647]
+Class: Brown spot
+Confidence: 100.0%
+Caption: Detected disease: Brown spot. Confidence: 100.0%. Location: middle-center. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 5 ---
+Bbox: [474, 945, 519, 966]
+Class: Brown spot
+Confidence: 100.0%
+Caption: Detected disease: Brown spot. Confidence: 100.0%. Location: middle-left. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 6 ---
+Bbox: [621, 639, 675, 667]
+Class: Brown spot
+Confidence: 100.0%
+Caption: Detected disease: Brown spot. Confidence: 100.0%. Location: middle-center. Approximate area ratio: 0.001. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 7 ---
+Bbox: [518, 733, 567, 754]
+Class: Brown spot
+Confidence: 100.0%
+Caption: Detected disease: Brown spot. Confidence: 100.0%. Location: middle-center. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 8 ---
+Bbox: [466, 652, 517, 677]
+Class: Brown spot
+Confidence: 100.0%
+Caption: Detected disease: Brown spot. Confidence: 100.0%. Location: middle-left. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 9 ---
+Bbox: [140, 713, 185, 735]
+Class: Brown spot
+Confidence: 99.9%
+Caption: Detected disease: Brown spot. Confidence: 99.9%. Location: middle-left. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 10 ---
+Bbox: [1323, 864, 1389, 886]
+Class: Brown spot
+Confidence: 98.6%
+Caption: Detected disease: Brown spot. Confidence: 98.6%. Location: middle-right. Approximate area ratio: 0.001. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 11 ---
+Bbox: [1016, 643, 1080, 671]
+Class: Brown spot
+Confidence: 82.3%
+Caption: Detected disease: Brown spot. Confidence: 82.3%. Location: middle-center. Approximate area ratio: 0.001. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 12 ---
+Bbox: [377, 605, 432, 627]
+Class: Brown spot
+Confidence: 100.0%
+Caption: Detected disease: Brown spot. Confidence: 100.0%. Location: middle-left. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 13 ---
+Bbox: [149, 657, 198, 680]
+Class: Brown spot
+Confidence: 100.0%
+Caption: Detected disease: Brown spot. Confidence: 100.0%. Location: middle-left. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 14 ---
+Bbox: [218, 835, 275, 860]
+Class: Brown spot
+Confidence: 100.0%
+Caption: Detected disease: Brown spot. Confidence: 100.0%. Location: middle-left. Approximate area ratio: 0.001. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 15 ---
+Bbox: [1013, 588, 1057, 609]
+Class: Brown spot
+Confidence: 100.0%
+Caption: Detected disease: Brown spot. Confidence: 100.0%. Location: middle-center. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 16 ---
+Bbox: [1372, 729, 1423, 749]
+Class: Brown spot
+Confidence: 100.0%
+Caption: Detected disease: Brown spot. Confidence: 100.0%. Location: middle-right. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 17 ---
+Bbox: [290, 741, 353, 773]
+Class: Brown spot
+Confidence: 86.1%
+Caption: Detected disease: Brown spot. Confidence: 86.1%. Location: middle-left. Approximate area ratio: 0.001. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 18 ---
+Bbox: [1236, 847, 1297, 871]
+Class: Brown spot
+Confidence: 99.8%
+Caption: Detected disease: Brown spot. Confidence: 99.8%. Location: middle-right. Approximate area ratio: 0.001. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 19 ---
+Bbox: [542, 815, 592, 834]
+Class: Brown spot
+Confidence: 100.0%
+Caption: Detected disease: Brown spot. Confidence: 100.0%. Location: middle-center. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 20 ---
+Bbox: [699, 865, 760, 894]
+Class: Brown spot
+Confidence: 99.9%
+Caption: Detected disease: Brown spot. Confidence: 99.9%. Location: middle-center. Approximate area ratio: 0.001. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 21 ---
+Bbox: [233, 939, 283, 959]
+Class: Brown spot
+Confidence: 99.5%
+Caption: Detected disease: Brown spot. Confidence: 99.5%. Location: middle-left. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 22 ---
+Bbox: [281, 678, 331, 699]
+Class: Brown spot
+Confidence: 100.0%
+Caption: Detected disease: Brown spot. Confidence: 100.0%. Location: middle-left. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 23 ---
+Bbox: [822, 759, 860, 774]
+Class: Brown spot
+Confidence: 100.0%
+Caption: Detected disease: Brown spot. Confidence: 100.0%. Location: middle-center. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 24 ---
+Bbox: [913, 549, 946, 565]
+Class: Brown spot
+Confidence: 100.0%
+Caption: Detected disease: Brown spot. Confidence: 100.0%. Location: middle-center. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 25 ---
+Bbox: [40, 719, 77, 733]
+Class: Brown spot
+Confidence: 100.0%
+Caption: Detected disease: Brown spot. Confidence: 100.0%. Location: middle-left. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 26 ---
+Bbox: [1183, 909, 1218, 924]
+Class: Brown spot
+Confidence: 100.0%
+Caption: Detected disease: Brown spot. Confidence: 100.0%. Location: middle-right. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 27 ---
+Bbox: [780, 909, 813, 925]
+Class: Brown spot
+Confidence: 100.0%
+Caption: Detected disease: Brown spot. Confidence: 100.0%. Location: middle-center. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 28 ---
+Bbox: [151, 981, 191, 1000]
+Class: Brown spot
+Confidence: 97.7%
+Caption: Detected disease: Brown spot. Confidence: 97.7%. Location: middle-left. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 29 ---
+Bbox: [0, 855, 29, 875]
+Class: Brown spot
+Confidence: 100.0%
+Caption: Detected disease: Brown spot. Confidence: 100.0%. Location: middle-left. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 30 ---
+Bbox: [727, 649, 766, 670]
+Class: Brown spot
+Confidence: 100.0%
+Caption: Detected disease: Brown spot. Confidence: 100.0%. Location: middle-center. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 31 ---
+Bbox: [667, 809, 702, 820]
+Class: Brown spot
+Confidence: 100.0%
+Caption: Detected disease: Brown spot. Confidence: 100.0%. Location: middle-center. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 32 ---
+Bbox: [729, 909, 761, 921]
+Class: Brown spot
+Confidence: 100.0%
+Caption: Detected disease: Brown spot. Confidence: 100.0%. Location: middle-center. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 33 ---
+Bbox: [925, 643, 1006, 678]
+Class: Brown spot
+Confidence: 91.2%
+Caption: Detected disease: Brown spot. Confidence: 91.2%. Location: middle-center. Approximate area ratio: 0.001. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 34 ---
+Bbox: [360, 748, 385, 763]
+Class: Brown spot
+Confidence: 100.0%
+Caption: Detected disease: Brown spot. Confidence: 100.0%. Location: middle-left. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 35 ---
+Bbox: [1087, 905, 1135, 920]
+Class: Brown spot
+Confidence: 100.0%
+Caption: Detected disease: Brown spot. Confidence: 100.0%. Location: middle-right. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 36 ---
+Bbox: [545, 689, 567, 704]
+Class: Brown spot
+Confidence: 100.0%
+Caption: Detected disease: Brown spot. Confidence: 100.0%. Location: middle-center. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 37 ---
+Bbox: [1177, 609, 1220, 624]
+Class: Brown spot
+Confidence: 99.3%
+Caption: Detected disease: Brown spot. Confidence: 99.3%. Location: middle-right. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 38 ---
+Bbox: [750, 674, 776, 690]
+Class: Brown spot
+Confidence: 100.0%
+Caption: Detected disease: Brown spot. Confidence: 100.0%. Location: middle-center. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 39 ---
+Bbox: [661, 736, 681, 750]
+Class: Brown spot
+Confidence: 100.0%
+Caption: Detected disease: Brown spot. Confidence: 100.0%. Location: middle-center. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 40 ---
+Bbox: [1097, 609, 1123, 623]
+Class: Brown spot
+Confidence: 99.9%
+Caption: Detected disease: Brown spot. Confidence: 99.9%. Location: middle-right. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 41 ---
+Bbox: [72, 885, 99, 899]
+Class: Brown spot
+Confidence: 100.0%
+Caption: Detected disease: Brown spot. Confidence: 100.0%. Location: middle-left. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 42 ---
+Bbox: [1086, 816, 1101, 830]
+Class: Brown spot
+Confidence: 100.0%
+Caption: Detected disease: Brown spot. Confidence: 100.0%. Location: middle-right. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 43 ---
+Bbox: [136, 869, 167, 886]
+Class: Brown spot
+Confidence: 100.0%
+Caption: Detected disease: Brown spot. Confidence: 100.0%. Location: middle-left. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 44 ---
+Bbox: [1478, 629, 1497, 641]
+Class: Brown spot
+Confidence: 100.0%
+Caption: Detected disease: Brown spot. Confidence: 100.0%. Location: middle-right. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure.
+

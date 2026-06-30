@@ -1,0 +1,13 @@
+File: healthy_00082_healthy-49_JPG.rf.BAPvDBBAe9rew6p9B1Uy.JPG
+Processing time: 6889.4 ms
+Number of disease regions: 1
+
+--- Region 1 ---
+Bbox: [0, 75, 1600, 1587]
+Class: Leaf blast
+Confidence: 99.2%
+Caption: [LLaVA] ER:  
+This is a rice leaf affected by Leaf Blast. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Leaf Blast, which is a disease that causes the rice plant to produce abnormal or deformed leaves. The leaf appears to be discolored, with a greenish hue, and has a curved shape. The leaf is located on the ground, and its severity seems to be moderate, as it is not completely destroyed or damaged. The presence of this affected leaf suggests that the rice plant is experiencing some stress or infection, which may require further investigation or treatment to ensure the health and productivity of the plant.
+[Disease] Leaf blast
+[Recommendation] Monitor closely and apply a fungicide if conditions favor spread.
+

@@ -1,0 +1,22 @@
+File: leaf_blast_00126_leaf_blast-254_JPG_JPG.rf.95uZvPy5ehmEaRVpwkeU.JPG
+Processing time: 99.2 ms
+Number of disease regions: 3
+
+--- Region 1 ---
+Bbox: [1117, 1267, 1319, 1473]
+Class: Leaf blast
+Confidence: 100.0%
+Caption: Detected disease: Leaf blast. Confidence: 100.0%. Location: bottom-right. Approximate area ratio: 0.016. Severity: Very high. Recommendation: Monitor closely and apply a fungicide if conditions favor spread.
+
+--- Region 2 ---
+Bbox: [741, 809, 954, 996]
+Class: Leaf blast
+Confidence: 100.0%
+Caption: Detected disease: Leaf blast. Confidence: 100.0%. Location: middle-center. Approximate area ratio: 0.016. Severity: Very high. Recommendation: Monitor closely and apply a fungicide if conditions favor spread.
+
+--- Region 3 ---
+Bbox: [59, 0, 227, 153]
+Class: Leaf blast
+Confidence: 100.0%
+Caption: Detected disease: Leaf blast. Confidence: 100.0%. Location: top-left. Approximate area ratio: 0.010. Severity: Very high. Recommendation: Monitor closely and apply a fungicide if conditions favor spread.
+

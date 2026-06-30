@@ -1,0 +1,20 @@
+File: bacterial_leaf_blight_00005_bacterial-252_JPG_JPG.rf.D2zhnTIL5ourSbukIZnv.JPG
+Processing time: 36546.2 ms
+Number of disease regions: 2
+
+--- Region 1 ---
+Bbox: [845, 653, 930, 1407]
+Class: Bacterial leaf blight
+Confidence: 100.0%
+Caption: [VLM] Question: This rice leaf image shows Bacterial Leaf Blight disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Bacterial Leaf Blight disease is a disease caused by the bacterium Phytophthora infestans. Bacterial Leaf Blight disease is a disease caused by the bacterium Phytophthora infestans. Bacterial Leaf Blight disease is a disease caused by the bacterium Phytophthora infestans. Bacterial Leaf Blight disease is a disease caused by the bacterium Phytophthora infestans. Bacterial Leaf Blight disease is a disease caused by the bacterium Phytophthora infestans. Bacterial Leaf Blight disease is a disease caused by the bacterium Phytophthora infestans. Bacterial Leaf Blight disease is a disease caused by the bacterium Phytophthora
+[Disease] Bacterial leaf blight | Severity: High
+[Recommendation] Remove heavily infected leaves and apply an appropriate bactericide under expert guidance.
+
+--- Region 2 ---
+Bbox: [537, 0, 643, 827]
+Class: Bacterial leaf blight
+Confidence: 100.0%
+Caption: [VLM] Question: This rice leaf image shows Bacterial Leaf Blight disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Bacterial Leaf Blight disease is a disease caused by a bacterium called Phytophthora infestans. Bacterial Leaf Blight disease is a disease caused by a bacterium called Phytophthora infestans. Bacterial Leaf Blight disease is a disease caused by a bacterium called Phytophthora infestans. Bacterial Leaf Blight disease is a disease caused by a bacterium called Phytophthora infestans. Bacterial Leaf Blight disease is a disease caused by a bacterium called Phytophthora infestans. Bacterial Leaf Blight disease is a disease caused by a bacterium called Phytophthora infestans. Bacterial Leaf Blight disease is a disease caused by a
+[Disease] Bacterial leaf blight | Severity: High
+[Recommendation] Remove heavily infected leaves and apply an appropriate bactericide under expert guidance.
+

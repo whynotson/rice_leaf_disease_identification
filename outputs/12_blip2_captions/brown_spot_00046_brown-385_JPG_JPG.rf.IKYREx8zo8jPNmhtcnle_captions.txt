@@ -1,0 +1,36 @@
+File: brown_spot_00046_brown-385_JPG_JPG.rf.IKYREx8zo8jPNmhtcnle.JPG
+Processing time: 66691.1 ms
+Number of disease regions: 4
+
+--- Region 1 ---
+Bbox: [821, 1241, 857, 1323]
+Class: Brown spot
+Confidence: 56.2%
+Caption: [VLM] Question: This rice leaf image shows Brown Spot disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Brown Spot Disease is a disease of rice caused by the fungus Aspergillus fumigatus. This disease is caused by the fungus Aspergillus fumigatus. This disease is caused by the fungus Aspergillus fumigatus. This disease is caused by the fungus Aspergillus fumigatus. This disease is caused by the fungus Aspergillus fumigatus. This disease is caused by the fungus Aspergillus fumigatus. This disease is caused by the fungus Aspergillus fumigatus. This disease is caused by the fungus Aspergillus fumigatus. This disease is caused by the fungus Aspergillus fumigatus. This
+[Disease] Brown spot | Severity: Medium
+[Recommendation] Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 2 ---
+Bbox: [841, 935, 858, 998]
+Class: Brown spot
+Confidence: 98.0%
+Caption: [VLM] Question: This rice leaf image shows Brown Spot disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Brown Spot Disease is a fungal disease caused by the fungal pathogen aspergillus flavus. The disease is characterized by brown spots on the surface of the leaf. The disease is caused by the fungal pathogen aspergillus flavus. The disease is characterized by brown spots on the surface of the leaf. The disease is caused by the fungal pathogen aspergillus flavus. The disease is characterized by brown spots on the surface of the leaf. The disease is caused by the fungal pathogen aspergillus flavus. The disease is characterized by brown spots on the surface of the leaf. The disease is caused by the fungal pathogen aspergillus flavus. The disease is characterized
+[Disease] Brown spot | Severity: Medium
+[Recommendation] Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 3 ---
+Bbox: [813, 0, 873, 121]
+Class: Leaf scald
+Confidence: 77.4%
+Caption: [VLM] Question: This rice leaf image shows Leaf Scald disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Leaf scald disease is a disease that affects the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus
+[Disease] Leaf scald | Severity: Medium
+[Recommendation] Maintain field hygiene and reduce excessive humidity where possible.
+
+--- Region 4 ---
+Bbox: [760, 517, 816, 607]
+Class: Leaf scald
+Confidence: 46.9%
+Caption: [VLM] Question: This rice leaf image shows Leaf Scald disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Leaf scald disease is a disease of the leaves of rice plants caused by a bacterium called phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ram
+[Disease] Leaf scald | Severity: Medium
+[Recommendation] Maintain field hygiene and reduce excessive humidity where possible.
+

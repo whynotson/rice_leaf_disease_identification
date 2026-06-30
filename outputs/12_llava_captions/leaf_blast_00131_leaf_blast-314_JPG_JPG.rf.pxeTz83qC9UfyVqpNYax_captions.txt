@@ -1,0 +1,67 @@
+File: leaf_blast_00131_leaf_blast-314_JPG_JPG.rf.pxeTz83qC9UfyVqpNYax.JPG
+Processing time: 49783.3 ms
+Number of disease regions: 7
+
+--- Region 1 ---
+Bbox: [443, 770, 546, 822]
+Class: Leaf blast
+Confidence: 100.0%
+Caption: [LLaVA] ER:  
+This is a rice leaf affected by Leaf Blast. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Leaf Blast, which is characterized by the presence of brown spots on the leaf. The spots are typically circular or oval-shaped, and they can be scattered across the leaf's surface. The color of the spots is brown, which contrasts with the green color of the leaf. The spots are likely to be more severe in some areas of the leaf, while other areas may remain relatively unaffected. The overall appearance of the leaf is discolored and possibly disfigured due to the presence of these spots.
+[Disease] Leaf blast
+[Recommendation] Monitor closely and apply a fungicide if conditions favor spread.
+
+--- Region 2 ---
+Bbox: [1225, 776, 1466, 855]
+Class: Leaf blast
+Confidence: 100.0%
+Caption: [LLaVA] ER:  
+This is a rice leaf affected by Leaf Blast. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Leaf Blast, which is characterized by the presence of brown spots or lesions on the leaf. The spots are typically circular or oval-shaped, and they can be scattered across the leaf's surface. The color of the spots is usually brown or reddish-brown, which contrasts with the green color of the healthy rice leaf. The severity of the Leaf Blast can vary, but it can lead to the eventual death of the affected leaf if not addressed.
+[Disease] Leaf blast
+[Recommendation] Monitor closely and apply a fungicide if conditions favor spread.
+
+--- Region 3 ---
+Bbox: [151, 784, 204, 812]
+Class: Leaf blast
+Confidence: 100.0%
+Caption: [LLaVA] ER:  
+This is a rice leaf affected by Leaf Blast. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Leaf Blast, which is characterized by the presence of brown spots on the leaf. The spots are scattered across the leaf, with some appearing more prominent than others. The color of the affected area is brown, which contrasts with the green color of the healthy rice leaf. The shape of the leaf is slightly distorted due to the presence of the spots, and the severity of the damage appears to be moderate, as the leaf is still able to function and grow.
+[Disease] Leaf blast
+[Recommendation] Monitor closely and apply a fungicide if conditions favor spread.
+
+--- Region 4 ---
+Bbox: [3, 813, 330, 890]
+Class: Leaf blast
+Confidence: 100.0%
+Caption: [LLaVA] ER:  
+This is a rice leaf affected by Leaf Blast. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Leaf Blast, which is characterized by the presence of brown spots or blisters on the leaf. The spots are typically circular or oval-shaped, and they can be scattered across the leaf's surface. The color of the spots is usually brown or reddish, and they can be of varying sizes. The severity of the Leaf Blast can range from mild to severe, depending on the extent of the damage and the overall health of the plant. In this particular image, the rice leaf appears to be affected by Leaf Blast, with several brown spots visible on its surface.
+[Disease] Leaf blast
+[Recommendation] Monitor closely and apply a fungicide if conditions favor spread.
+
+--- Region 5 ---
+Bbox: [562, 863, 695, 921]
+Class: Leaf blast
+Confidence: 99.8%
+Caption: [LLaVA] ER:  
+This is a rice leaf affected by Leaf Blast. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Leaf Blast, which is characterized by the presence of brown spots or lesions on the leaf. The spots are typically circular or oval-shaped, and they can be found on various parts of the leaf, such as the stem, veins, or the leaf's surface. The color of the spots is usually brown or reddish-brown, and they can be accompanied by a yellowish hue in the surrounding tissue. The severity of the Leaf Blast can vary, but it can lead to the eventual death of the affected leaf or even the entire plant if not treated properly.
+[Disease] Leaf blast
+[Recommendation] Monitor closely and apply a fungicide if conditions favor spread.
+
+--- Region 6 ---
+Bbox: [963, 771, 1031, 804]
+Class: Leaf blast
+Confidence: 100.0%
+Caption: [LLaVA] ER:  
+This is a rice leaf affected by Leaf Blast. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Leaf Blast, which is characterized by the presence of brown spots or lesions on the leaf. The spots are typically circular or oval-shaped, and they can be scattered across the leaf's surface. The color of the spots is usually brown or reddish-brown, which contrasts with the green or yellow color of the healthy rice leaf. The severity of the Leaf Blast can vary, but it can lead to the eventual death of the affected leaf, which can impact the overall health and productivity of the rice plant.
+[Disease] Leaf blast
+[Recommendation] Monitor closely and apply a fungicide if conditions favor spread.
+
+--- Region 7 ---
+Bbox: [782, 786, 842, 818]
+Class: Leaf blast
+Confidence: 77.8%
+Caption: [LLaVA] ER:  
+This is a rice leaf affected by Leaf Blast. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Leaf Blast, which is a disease that causes the rice plant to lose its green color and turn brown. The leaf appears to be discolored and has a brownish hue, indicating that it is affected by the disease. The leaf's shape is not clearly visible, but it is evident that the leaf is not in its natural green color, which is a symptom of the Leaf Blast disease. The severity of the disease can vary, but in this case, the leaf appears to be significantly affected, with its color and shape altered due to the disease.
+[Disease] Leaf blast
+[Recommendation] Monitor closely and apply a fungicide if conditions favor spread.
+

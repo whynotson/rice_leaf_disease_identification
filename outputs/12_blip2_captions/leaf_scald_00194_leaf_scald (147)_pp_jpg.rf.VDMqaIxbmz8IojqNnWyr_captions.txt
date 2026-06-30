@@ -1,0 +1,76 @@
+File: leaf_scald_00194_leaf_scald (147)_pp_jpg.rf.VDMqaIxbmz8IojqNnWyr.jpg
+Processing time: 151009.5 ms
+Number of disease regions: 9
+
+--- Region 1 ---
+Bbox: [497, 19, 588, 561]
+Class: Leaf scald
+Confidence: 100.0%
+Caption: [VLM] Question: This rice leaf image shows Leaf Scald disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Leaf scald disease is a disease of the leaves of the rice plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus that grows on the leaves of the rice plant. The disease is caused by a fungus that grows on the leaves of the rice plant. The disease is caused by a fungus that grows on the leaves of the rice plant. The disease is caused by a fungus that grows on the leaves of the rice plant. The disease is caused by a fungus that grows on the leaves of the rice plant. The disease is caused by a fungus that grows on the leaves of the rice plant. The disease is caused by a fungus that grows on the leaves of the rice plant.
+[Disease] Leaf scald | Severity: Medium
+[Recommendation] Maintain field hygiene and reduce excessive humidity where possible.
+
+--- Region 2 ---
+Bbox: [512, 736, 532, 808]
+Class: Leaf scald
+Confidence: 100.0%
+Caption: [VLM] Question: This rice leaf image shows Leaf Scald disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Scald is a disease of the leaves of the rice plant, caused by a bacterial infection. The disease is caused by a bacterium called Phytophthora infestans. The disease is caused by a bacterium called Phytophthora infestans. The disease is caused by a bacterium called Phytophthora infestans. The disease is caused by a bacterium called Phytophthora infestans. The disease is caused by a bacterium called Phytophthora infestans. The disease is caused by a bacterium called Phytophthora infestans. The disease is caused by a bacterium called Phytophthora infestans. The disease is caused by a bacterium called Phytoph
+[Disease] Leaf scald | Severity: Medium
+[Recommendation] Maintain field hygiene and reduce excessive humidity where possible.
+
+--- Region 3 ---
+Bbox: [585, 756, 598, 803]
+Class: Leaf scald
+Confidence: 100.0%
+Caption: [VLM] Question: This rice leaf image shows Leaf Scald disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Leaf scald disease is a disease that affects the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus
+[Disease] Leaf scald | Severity: Medium
+[Recommendation] Maintain field hygiene and reduce excessive humidity where possible.
+
+--- Region 4 ---
+Bbox: [546, 759, 558, 795]
+Class: Leaf scald
+Confidence: 100.0%
+Caption: [VLM] Question: This rice leaf image shows Leaf Scald disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Leaf scald disease is a disease caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease
+[Disease] Leaf scald | Severity: Medium
+[Recommendation] Maintain field hygiene and reduce excessive humidity where possible.
+
+--- Region 5 ---
+Bbox: [576, 646, 590, 714]
+Class: Leaf scald
+Confidence: 100.0%
+Caption: [VLM] Question: This rice leaf image shows Leaf Scald disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Leaf scald disease is a disease of rice that affects the leaves of the plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by
+[Disease] Leaf scald | Severity: Medium
+[Recommendation] Maintain field hygiene and reduce excessive humidity where possible.
+
+--- Region 6 ---
+Bbox: [0, 4, 576, 743]
+Class: Leaf scald
+Confidence: 100.0%
+Caption: [VLM] Question: This rice leaf image shows Leaf Scald disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Leaf scald disease is a disease that affects the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus
+[Disease] Leaf scald | Severity: Medium
+[Recommendation] Maintain field hygiene and reduce excessive humidity where possible.
+
+--- Region 7 ---
+Bbox: [537, 13, 1079, 741]
+Class: Leaf scald
+Confidence: 100.0%
+Caption: [VLM] Question: This rice leaf image shows Leaf Scald disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Leaf scald disease is a disease that affects the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of the plant. The fungus causes the leaves to turn yellow, brown, or black. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease is caused by a fungus that grows
+[Disease] Leaf scald | Severity: Medium
+[Recommendation] Maintain field hygiene and reduce excessive humidity where possible.
+
+--- Region 8 ---
+Bbox: [591, 849, 607, 896]
+Class: Leaf scald
+Confidence: 99.9%
+Caption: [VLM] Question: This rice leaf image shows Leaf Scald disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Leaf scald disease is a disease that affects the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of the plant. The disease causes the leaves of the plant to turn brown, yellow, or black. The disease can also affect the stems of the plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease causes the leaves of the plant to turn brown, yellow, or black. The disease can also affect the stems of the plant. The disease is caused by a fungus that grows on the leaves of the plant. The disease causes the leaves of the plant to turn brown, yellow, or black. The disease can also affect the stems of the plant. The disease is
+[Disease] Leaf scald | Severity: Medium
+[Recommendation] Maintain field hygiene and reduce excessive humidity where possible.
+
+--- Region 9 ---
+Bbox: [515, 873, 528, 908]
+Class: Leaf scald
+Confidence: 80.6%
+Caption: [VLM] Question: This rice leaf image shows Leaf Scald disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Leaf scald disease is a disease of the leaves of rice plants caused by a bacterium called phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ram
+[Disease] Leaf scald | Severity: Medium
+[Recommendation] Maintain field hygiene and reduce excessive humidity where possible.
+

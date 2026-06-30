@@ -1,0 +1,10 @@
+File: healthy.JPG
+Processing time: 76.7 ms
+Number of disease regions: 1
+
+--- Region 1 ---
+Bbox: [429, 3, 1600, 1600]
+Class: Leaf blast
+Confidence: 99.1%
+Caption: Detected disease: Leaf blast. Confidence: 99.1%. Location: middle-center. Approximate area ratio: 0.731. Severity: Very high. Recommendation: Monitor closely and apply a fungicide if conditions favor spread.
+

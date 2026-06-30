@@ -1,0 +1,46 @@
+File: sheath_blight_00212_sb_wb_158_pp_jpg.rf.JO33V4ZKJDNZ9JCcn7PS.jpg
+Processing time: 173.0 ms
+Number of disease regions: 7
+
+--- Region 1 ---
+Bbox: [554, 160, 576, 312]
+Class: Bacterial leaf blight
+Confidence: 97.6%
+Caption: Detected disease: Bacterial leaf blight. Confidence: 97.6%. Location: top-center. Approximate area ratio: 0.003. Severity: High. Recommendation: Remove heavily infected leaves and apply an appropriate bactericide under expert guidance.
+
+--- Region 2 ---
+Bbox: [567, 322, 587, 524]
+Class: Sheath blight
+Confidence: 100.0%
+Caption: Detected disease: Sheath blight. Confidence: 100.0%. Location: middle-center. Approximate area ratio: 0.003. Severity: High. Recommendation: Remove infected debris and consider fungicide management if severity increases.
+
+--- Region 3 ---
+Bbox: [558, 370, 566, 433]
+Class: Sheath blight
+Confidence: 99.8%
+Caption: Detected disease: Sheath blight. Confidence: 99.8%. Location: middle-center. Approximate area ratio: 0.000. Severity: High. Recommendation: Remove infected debris and consider fungicide management if severity increases.
+
+--- Region 4 ---
+Bbox: [570, 624, 603, 833]
+Class: Sheath blight
+Confidence: 100.0%
+Caption: Detected disease: Sheath blight. Confidence: 100.0%. Location: bottom-center. Approximate area ratio: 0.006. Severity: High. Recommendation: Remove infected debris and consider fungicide management if severity increases.
+
+--- Region 5 ---
+Bbox: [563, 670, 597, 909]
+Class: Sheath blight
+Confidence: 99.9%
+Caption: Detected disease: Sheath blight. Confidence: 99.9%. Location: bottom-center. Approximate area ratio: 0.007. Severity: High. Recommendation: Remove infected debris and consider fungicide management if severity increases.
+
+--- Region 6 ---
+Bbox: [563, 299, 600, 826]
+Class: Sheath blight
+Confidence: 100.0%
+Caption: Detected disease: Sheath blight. Confidence: 100.0%. Location: middle-center. Approximate area ratio: 0.017. Severity: High. Recommendation: Remove infected debris and consider fungicide management if severity increases.
+
+--- Region 7 ---
+Bbox: [533, 141, 542, 189]
+Class: Sheath blight
+Confidence: 99.9%
+Caption: Detected disease: Sheath blight. Confidence: 99.9%. Location: top-center. Approximate area ratio: 0.000. Severity: High. Recommendation: Remove infected debris and consider fungicide management if severity increases.
+

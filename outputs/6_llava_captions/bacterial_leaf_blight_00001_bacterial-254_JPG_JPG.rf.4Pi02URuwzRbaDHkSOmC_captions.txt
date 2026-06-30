@@ -1,0 +1,13 @@
+File: bacterial_leaf_blight_00001_bacterial-254_JPG_JPG.rf.4Pi02URuwzRbaDHkSOmC.JPG
+Processing time: 8013.5 ms
+Number of disease regions: 1
+
+--- Region 1 ---
+Bbox: [883, 485, 931, 1075]
+Class: Bacterial leaf blight
+Confidence: 100.0%
+Caption: [LLaVA] ER:  
+This is a rice leaf affected by Bacterial Leaf Blight. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Bacterial Leaf Blight, which is characterized by a brown or yellowish color, depending on the stage of the disease. The leaf appears to be curled or twisted, which is a common symptom of this disease. The leaf may also have a darker or lighter color than the surrounding healthy leaves. The affected area may be smaller or larger, depending on the severity of the disease. The overall appearance of the leaf is indicative of the damage caused by the bacterial infection.
+[Disease] Bacterial leaf blight
+[Recommendation] Remove heavily infected leaves and apply an appropriate bactericide under expert guidance.
+

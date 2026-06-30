@@ -1,0 +1,16 @@
+File: bacterial_leaf_blight.JPG
+Processing time: 865.1 ms
+Number of disease regions: 2
+
+--- Region 1 ---
+Bbox: [845, 653, 930, 1407]
+Class: Bacterial leaf blight
+Confidence: 100.0%
+Caption: Detected disease: Bacterial leaf blight. Confidence: 100.0%. Location: middle-center. Approximate area ratio: 0.025. Severity: High. Recommendation: Remove heavily infected leaves and apply an appropriate bactericide under expert guidance.
+
+--- Region 2 ---
+Bbox: [537, 0, 643, 827]
+Class: Bacterial leaf blight
+Confidence: 100.0%
+Caption: Detected disease: Bacterial leaf blight. Confidence: 100.0%. Location: top-center. Approximate area ratio: 0.034. Severity: High. Recommendation: Remove heavily infected leaves and apply an appropriate bactericide under expert guidance.
+

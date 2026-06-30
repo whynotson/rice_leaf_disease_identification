@@ -1,0 +1,49 @@
+File: sheath_blight_00208_sb_wb_21_pp_jpg.rf.GtkYLZ0mEbiSEkE6Bxj8.jpg
+Processing time: 26078.0 ms
+Number of disease regions: 5
+
+--- Region 1 ---
+Bbox: [529, 545, 542, 625]
+Class: Sheath blight
+Confidence: 100.0%
+Caption: [LLaVA] ER:  
+This is a rice leaf affected by Sheath Blight. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Sheath Blight, which is a disease that affects the rice plant. The leaf appears to be discolored, with a greenish hue, and has a curved shape. The leaf is located near the top of the plant, and the severity of the disease seems to be moderate, as the plant is still able to grow and produce rice.
+[Disease] Sheath blight
+[Recommendation] Remove infected debris and consider fungicide management if severity increases.
+
+--- Region 2 ---
+Bbox: [540, 440, 550, 510]
+Class: Sheath blight
+Confidence: 100.0%
+Caption: [LLaVA] ER:  
+This is a rice leaf affected by Sheath Blight. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Sheath Blight, which is a disease that affects the rice plant. The leaf appears to be discolored, with a yellowish hue, and has a curved shape. The leaf is located near the top of the tree, and the severity of the disease seems to be moderate, as the leaf is still attached to the tree. The visual symptoms indicate that the plant is experiencing some stress or damage due to the Sheath Blight infection.
+[Disease] Sheath blight
+[Recommendation] Remove infected debris and consider fungicide management if severity increases.
+
+--- Region 3 ---
+Bbox: [552, 447, 560, 488]
+Class: Sheath blight
+Confidence: 100.0%
+Caption: [LLaVA] ER:  
+This is a rice leaf affected by Sheath Blight. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Sheath Blight, which is a disease that affects the rice plant. The leaf appears to be discolored, with a greenish hue, and has a curved shape. The leaf is located near the top of the plant, and the severity of the disease seems to be moderate, as the plant is still able to grow and produce rice.
+[Disease] Sheath blight
+[Recommendation] Remove infected debris and consider fungicide management if severity increases.
+
+--- Region 4 ---
+Bbox: [519, 407, 528, 489]
+Class: Sheath blight
+Confidence: 100.0%
+Caption: [LLaVA] ER:  
+This is a rice leaf affected by Sheath Blight. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Sheath Blight, which is a disease that affects the rice plant. The leaf appears to be discolored, with a yellowish hue, and has a curled or twisted shape. The leaf is located near the top of the plant, and the severity of the disease seems to be moderate, as the plant is still able to grow and produce rice.
+[Disease] Sheath blight
+[Recommendation] Remove infected debris and consider fungicide management if severity increases.
+
+--- Region 5 ---
+Bbox: [518, 404, 525, 461]
+Class: Sheath blight
+Confidence: 100.0%
+Caption: [LLaVA] ER:  
+This is a rice leaf affected by Sheath Blight. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Sheath Blight, which is a disease that affects the rice plant. The leaf displays a brown color, indicating that it is infected. The shape of the leaf is affected, as it appears to be deformed or misshapen due to the disease. The severity of the infection can vary, but in this case, the leaf appears to be severely affected, with the disease spreading and causing damage to the plant.
+[Disease] Sheath blight
+[Recommendation] Remove infected debris and consider fungicide management if severity increases.
+

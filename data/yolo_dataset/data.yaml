@@ -1,0 +1,12 @@
+path: /content/rice_disease_project/data/yolo_dataset
+train: images/train
+val: images/val
+test: images/test
+nc: 6
+names:
+- bacterial_leaf_blight
+- brown_spot
+- healthy
+- leaf_blast
+- leaf_scald
+- sheath_blight

@@ -1,0 +1,12 @@
+File: brown_spot_00045_brown-304_JPG_JPG.rf.10k7Xa4P8RvCBW6WkkEH.JPG
+Processing time: 16675.4 ms
+Number of disease regions: 1
+
+--- Region 1 ---
+Bbox: [728, 827, 828, 1004]
+Class: Brown spot
+Confidence: 87.3%
+Caption: [VLM] Question: This rice leaf image shows Brown Spot disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Brown Spot Disease is a disease of rice caused by a bacterial infection. The disease is caused by a bacterial infection of the leaf. The disease is caused by a bacterial infection of the leaf. The disease is caused by a bacterial infection of the leaf. The disease is caused by a bacterial infection of the leaf. The disease is caused by a bacterial infection of the leaf. The disease is caused by a bacterial infection of the leaf. The disease is caused by a bacterial infection of the leaf. The disease is caused by a bacterial infection of the leaf. The disease is caused by a bacterial infection of the leaf. The disease is caused by a bacterial infection of the leaf. The disease is caused by a bacterial infection of the leaf. The disease is caused
+[Disease] Brown spot | Severity: Medium
+[Recommendation] Improve field nutrition and manage moisture stress to reduce disease pressure.
+

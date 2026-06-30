@@ -1,0 +1,61 @@
+rice_disease_project/
+├── configs/
+│   └── config.py                    ← Cấu hình tập trung (paths, hyperparams, 6 classes active)
+│
+├── data/
+│   ├── raw_datasets/                ← Đặt dataset Roboflow vào đây
+│   │   ├── bacterial_leaf_blight.v1-v1.yolov8/
+│   │   ├── brown_spot.v1-v1.yolov8/
+│   │   ├── healthy.../
+│   │   ├── leaf_blast.v1-v1.yolov8/
+│   │   ├── leaf_scald.v1-v1.yolov8/
+│   │   └── sheath_blight.../
+│   │
+│   ├── yolo_dataset/
+│   │   ├── images/ → train/ val/ test/
+│   │   ├── labels/ → train/ val/ test/
+│   │   └── data.yaml                ← 6 classes config
+│   │
+│   └── crops/
+│       ├── train/
+│       ├── val/
+│       └── test/
+│
+├── models/
+│   ├── yolo/
+│   │   ├── yolov8m.pt
+│   │   ├── yolo11m.pt
+│   │   └── yolo26m.pt
+│   └── efficientnet/
+│       └── efficientnet_b4_best.pth
+│
+├── src/
+│   ├── utils/
+│   │   ├── merge_datasets.py
+│   │   └── crop_for_classifier.py
+│   │
+│   ├── tier1_detection/
+│   │   ├── train_yolo.py            ← Train YOLO (v8m / v11m / v26m)
+│   │   └── evaluate_yolo.py
+│   │
+│   ├── tier2_classification/
+│   │   ├── model.py                 ← EfficientNet-B4 (6 classes)
+│   │   ├── dataset.py
+│   │   ├── train_efficientnet.py
+│   │   └── evaluate_efficientnet.py
+│   │
+│   ├── tier3_vlm/
+│   │   └── vlm_caption.py
+│   │
+│   └── pipeline/
+│       └── pipeline.py
+│
+├── outputs/
+│   ├── detections/
+│   ├── crops/
+│   ├── captions/
+│   └── visualizations/
+│
+├── logs/
+├── requirements.txt
+└── README.md

@@ -1,0 +1,782 @@
+[
+  {
+    "image": "/content/rice_disease_project/data/12-test/bacterial_leaf_blight_00005_bacterial-252_JPG_JPG.rf.D2zhnTIL5ourSbukIZnv.JPG",
+    "num_detections": 2,
+    "time_ms": 13295.511722564697,
+    "detections": [
+      {
+        "class": "bacterial_leaf_blight",
+        "class_vi": "Bacterial leaf blight",
+        "conf": 1.0,
+        "bbox": [
+          845,
+          653,
+          930,
+          1407
+        ],
+        "caption": "[LLaVA] ER:  \nThis is a rice leaf affected by Bacterial Leaf Blight. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Bacterial Leaf Blight, which is characterized by a brown or yellow color, depending on the stage of the disease. The leaf appears to be curled or twisted, which is a common symptom of this disease. The leaf may also have a darker or lighter color than the surrounding healthy leaves. The affected leaf is located near the top of the plant, and the severity of the disease can vary depending on the plant's overall health and the specific bacteria causing the infection.\n[Disease] Bacterial leaf blight\n[Recommendation] Remove heavily infected leaves and apply an appropriate bactericide under expert guidance."
+      },
+      {
+        "class": "bacterial_leaf_blight",
+        "class_vi": "Bacterial leaf blight",
+        "conf": 1.0,
+        "bbox": [
+          537,
+          0,
+          643,
+          827
+        ],
+        "caption": "[LLaVA] ER:  \nThis is a rice leaf affected by Bacterial Leaf Blight. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Bacterial Leaf Blight, which is characterized by a brown or yellow color, depending on the stage of the disease. The leaf appears to be curled or twisted, which is a common symptom of this disease. The leaf is located in the middle of the image, and the overall appearance suggests that the rice plant is experiencing some stress or damage due to the bacterial infection.\n[Disease] Bacterial leaf blight\n[Recommendation] Remove heavily infected leaves and apply an appropriate bactericide under expert guidance."
+      }
+    ]
+  },
+  {
+    "image": "/content/rice_disease_project/data/12-test/bacterial_leaf_blight_00006_bacterial-251_JPG_JPG.rf.cAOhMRd9swn5vdIqoRRS.JPG",
+    "num_detections": 9,
+    "time_ms": 46835.95681190491,
+    "detections": [
+      {
+        "class": "bacterial_leaf_blight",
+        "class_vi": "Bacterial leaf blight",
+        "conf": 1.0,
+        "bbox": [
+          628,
+          76,
+          663,
+          326
+        ],
+        "caption": "[LLaVA] ER:  \nThis is a rice leaf affected by Bacterial Leaf Blight. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Bacterial Leaf Blight, which is characterized by a brown or yellow color, depending on the stage of the disease. The leaf appears to be curled or deformed, with a noticeable bend in the middle. The leaf's shape is notably different from a healthy leaf, and the severity of the damage can vary depending on the specific bacteria causing the blight. The affected leaf is located on the plant, and its color and shape are distinctive indicators of the disease.\n[Disease] Bacterial leaf blight\n[Recommendation] Remove heavily infected leaves and apply an appropriate bactericide under expert guidance."
+      },
+      {
+        "class": "bacterial_leaf_blight",
+        "class_vi": "Bacterial leaf blight",
+        "conf": 1.0,
+        "bbox": [
+          937,
+          528,
+          992,
+          918
+        ],
+        "caption": "[LLaVA] ER:  \nThis is a rice leaf affected by Bacterial Leaf Blight. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Bacterial Leaf Blight, which is characterized by a yellowish-brown color. The leaf appears to be curled and twisted, indicating that the plant is experiencing stress due to the infection. The leaf is located on the right side of the image, and its shape is somewhat irregular, with a noticeable bend. The severity of the infection can be inferred from the fact that the leaf is visibly affected and has a noticeable twist.\n[Disease] Bacterial leaf blight\n[Recommendation] Remove heavily infected leaves and apply an appropriate bactericide under expert guidance."
+      },
+      {
+        "class": "bacterial_leaf_blight",
+        "class_vi": "Bacterial leaf blight",
+        "conf": 0.9995,
+        "bbox": [
+          600,
+          538,
+          622,
+          639
+        ],
+        "caption": "[LLaVA] ER:  \nThis is a rice leaf affected by Bacterial Leaf Blight. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Bacterial Leaf Blight, which is characterized by a yellowish coloration. The leaf appears to be curled and twisted, with a noticeable deformation in its shape. The leaf is located in the middle of the image, and the overall appearance suggests that the plant is experiencing stress due to the bacterial infection.\n[Disease] Bacterial leaf blight\n[Recommendation] Remove heavily infected leaves and apply an appropriate bactericide under expert guidance."
+      },
+      {
+        "class": "bacterial_leaf_blight",
+        "class_vi": "Bacterial leaf blight",
+        "conf": 1.0,
+        "bbox": [
+          632,
+          1114,
+          668,
+          1337
+        ],
+        "caption": "[LLaVA] ER:  \nThis is a rice leaf affected by Bacterial Leaf Blight. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Bacterial Leaf Blight, which is characterized by a yellowish-brown color. The leaf appears to be curled and twisted, with a noticeable deformation in its shape. The leaf is located in the middle of the image, and the severity of the damage seems to be moderate, as the leaf is still somewhat recognizable as a rice leaf.\n[Disease] Bacterial leaf blight\n[Recommendation] Remove heavily infected leaves and apply an appropriate bactericide under expert guidance."
+      },
+      {
+        "class": "bacterial_leaf_blight",
+        "class_vi": "Bacterial leaf blight",
+        "conf": 0.9841,
+        "bbox": [
+          581,
+          803,
+          602,
+          872
+        ],
+        "caption": "[LLaVA] ER:  \nThis is a rice leaf affected by Bacterial Leaf Blight. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Bacterial Leaf Blight, which is characterized by a yellowish-brown color. The leaf appears to be curled and twisted, indicating that the plant is experiencing stress due to the infection. The leaf is located in the middle of the image, and the overall appearance of the leaf suggests that the plant is struggling to maintain its health and vitality.\n[Disease] Bacterial leaf blight\n[Recommendation] Remove heavily infected leaves and apply an appropriate bactericide under expert guidance."
+      },
+      {
+        "class": "bacterial_leaf_blight",
+        "class_vi": "Bacterial leaf blight",
+        "conf": 0.9998,
+        "bbox": [
+          658,
+          1406,
+          703,
+          1600
+        ],
+        "caption": "[LLaVA] ER:  \nThis is a rice leaf affected by Bacterial Leaf Blight. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Bacterial Leaf Blight, which is characterized by a yellowish-brown color. The leaf appears to be curled and twisted, with a darker coloration in the center. The leaf is located in the middle of the image, and the overall appearance suggests that the plant is experiencing stress due to the bacterial infection.\n[Disease] Bacterial leaf blight\n[Recommendation] Remove heavily infected leaves and apply an appropriate bactericide under expert guidance."
+      },
+      {
+        "class": "bacterial_leaf_blight",
+        "class_vi": "Bacterial leaf blight",
+        "conf": 1.0,
+        "bbox": [
+          846,
+          582,
+          883,
+          996
+        ],
+        "caption": "[LLaVA] ER:  \nThis is a rice leaf affected by Bacterial Leaf Blight. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Bacterial Leaf Blight, which is characterized by a brown or yellow color, depending on the stage of the disease. The leaf appears to be curled or deformed, which is a common symptom of this disease. The leaf is located in the upper part of the image, and the overall appearance of the leaf suggests that it is severely affected by the bacterial infection.\n[Disease] Bacterial leaf blight\n[Recommendation] Remove heavily infected leaves and apply an appropriate bactericide under expert guidance."
+      },
+      {
+        "class": "bacterial_leaf_blight",
+        "class_vi": "Bacterial leaf blight",
+        "conf": 1.0,
+        "bbox": [
+          822,
+          1302,
+          870,
+          1600
+        ],
+        "caption": "[LLaVA] ER:  \nThis is a rice leaf affected by Bacterial Leaf Blight. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Bacterial Leaf Blight, which is characterized by a yellowish-brown color. The leaf appears to be curled and twisted, with a noticeable deformation in its shape. The leaf is located on the right side of the image, and the severity of the damage seems to be quite significant, as the leaf is visibly affected by the disease.\n[Disease] Bacterial leaf blight\n[Recommendation] Remove heavily infected leaves and apply an appropriate bactericide under expert guidance."
+      },
+      {
+        "class": "bacterial_leaf_blight",
+        "class_vi": "Bacterial leaf blight",
+        "conf": 0.9998,
+        "bbox": [
+          610,
+          765,
+          647,
+          1080
+        ],
+        "caption": "[LLaVA] ER:  \nThis is a rice leaf affected by Bacterial Leaf Blight. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Bacterial Leaf Blight, which is characterized by a yellowish-brown color. The leaf appears to be curled and deformed, with a noticeable bend in the middle. The leaf is located in the center of the image, and the overall appearance suggests that the plant is experiencing stress due to the bacterial infection.\n[Disease] Bacterial leaf blight\n[Recommendation] Remove heavily infected leaves and apply an appropriate bactericide under expert guidance."
+      }
+    ]
+  },
+  {
+    "image": "/content/rice_disease_project/data/12-test/brown_spot_00045_brown-304_JPG_JPG.rf.10k7Xa4P8RvCBW6WkkEH.JPG",
+    "num_detections": 1,
+    "time_ms": 4702.497482299805,
+    "detections": [
+      {
+        "class": "brown_spot",
+        "class_vi": "Brown spot",
+        "conf": 0.8726,
+        "bbox": [
+          728,
+          827,
+          828,
+          1004
+        ],
+        "caption": "[LLaVA] ER:  \nThis is a rice leaf affected by Brown Spot. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The image shows a close-up view of a brown spot on a rice leaf. The spot is located on the upper part of the leaf, and its color is a mix of brown and yellow. The shape of the spot is irregular, with a slightly curved appearance. The severity of the spot is moderate, as it does not seem to be spreading or causing significant damage to the leaf.\n[Disease] Brown spot\n[Recommendation] Improve field nutrition and manage moisture stress to reduce disease pressure."
+      }
+    ]
+  },
+  {
+    "image": "/content/rice_disease_project/data/12-test/brown_spot_00046_brown-385_JPG_JPG.rf.IKYREx8zo8jPNmhtcnle.JPG",
+    "num_detections": 4,
+    "time_ms": 24433.40754508972,
+    "detections": [
+      {
+        "class": "brown_spot",
+        "class_vi": "Brown spot",
+        "conf": 0.5618,
+        "bbox": [
+          821,
+          1241,
+          857,
+          1323
+        ],
+        "caption": "[LLaVA] ER:  \nThis is a rice leaf affected by Brown Spot. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Brown Spot, which is a disease that causes discoloration and deformation of the rice leaves. The leaf appears to be brown and has a curved shape, which is indicative of the damage caused by the disease. The Brown Spot disease can affect the rice plant's growth and yield, making it crucial to address the issue through proper management and treatment.\n[Disease] Brown spot\n[Recommendation] Improve field nutrition and manage moisture stress to reduce disease pressure."
+      },
+      {
+        "class": "brown_spot",
+        "class_vi": "Brown spot",
+        "conf": 0.9799,
+        "bbox": [
+          841,
+          935,
+          858,
+          998
+        ],
+        "caption": "[LLaVA] ER:  \nThis is a rice leaf affected by Brown Spot. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Brown Spot, which is a visual symptom of the disease. The leaf appears to be discolored, with a brownish hue, indicating that the plant is experiencing stress or damage. The shape of the leaf is affected, possibly becoming deformed or misshapen due to the disease. The severity of the Brown Spot can vary, but it is generally considered a serious issue for rice cultivation, as it can lead to reduced yield and quality of the crop.\n[Disease] Brown spot\n[Recommendation] Improve field nutrition and manage moisture stress to reduce disease pressure."
+      },
+      {
+        "class": "leaf_scald",
+        "class_vi": "Leaf scald",
+        "conf": 0.7744,
+        "bbox": [
+          813,
+          0,
+          873,
+          121
+        ],
+        "caption": "[LLaVA] ER:  \nThis is a rice leaf affected by Leaf Scald. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Leaf Scald, which is a disease that causes the leaf to turn brown and die. The leaf appears to be in a state of decay, with brown spots and a discolored appearance. The leaf is located in the center of the image, and its shape is somewhat irregular due to the damage caused by the disease. The severity of the damage is quite high, as the leaf is almost entirely dead and has lost its vibrant green color. This indicates that the rice plant has been significantly affected by the Leaf Scald disease.\n[Disease] Leaf scald\n[Recommendation] Maintain field hygiene and reduce excessive humidity where possible."
+      },
+      {
+        "class": "leaf_scald",
+        "class_vi": "Leaf scald",
+        "conf": 0.4691,
+        "bbox": [
+          760,
+          517,
+          816,
+          607
+        ],
+        "caption": "[LLaVA] ER:  \nThis is a rice leaf affected by Leaf Scald. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Leaf Scald, which is characterized by the presence of brown or black spots on the leaf. The spots are typically circular or oval-shaped, and they can be scattered across the leaf or concentrated in specific areas. The color of the spots can range from brown to black, depending on the severity of the infection. The affected leaf may have a reduced size, and the overall appearance of the leaf may be less vibrant or healthy compared to a non-affected leaf.\n[Disease] Leaf scald\n[Recommendation] Maintain field hygiene and reduce excessive humidity where possible."
+      }
+    ]
+  },
+  {
+    "image": "/content/rice_disease_project/data/12-test/healthy_00093_healthy-182_JPG.rf.9Q7pfn5GgD8v8MC5ZSSO.JPG",
+    "num_detections": 1,
+    "time_ms": 6744.371652603149,
+    "detections": [
+      {
+        "class": "leaf_blast",
+        "class_vi": "Leaf blast",
+        "conf": 0.9909,
+        "bbox": [
+          429,
+          3,
+          1600,
+          1600
+        ],
+        "caption": "[LLaVA] ER:  \nThis is a rice leaf affected by Leaf Blast. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Leaf Blast, which is a disease that causes the rice plant to produce abnormal or deformed leaves. The leaf appears to be discolored, with a greenish hue, and has a curved shape. The leaf is located on the right side of the image, and its severity seems to be moderate, as it is not completely destroyed or deformed. The rice plant's overall health may be affected by this disease, but the specific details of the plant's condition cannot be determined from the image alone.\n[Disease] Leaf blast\n[Recommendation] Monitor closely and apply a fungicide if conditions favor spread."
+      }
+    ]
+  },
+  {
+    "image": "/content/rice_disease_project/data/12-test/healthy_00095_healthy-131_JPG.rf.9TKs4m46u1MEtCOZ9JrS.JPG",
+    "num_detections": 1,
+    "time_ms": 4930.8905601501465,
+    "detections": [
+      {
+        "class": "brown_spot",
+        "class_vi": "Brown spot",
+        "conf": 0.3675,
+        "bbox": [
+          5,
+          2,
+          1597,
+          1600
+        ],
+        "caption": "[LLaVA] ER:  \nThis is a rice leaf affected by Brown Spot. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Brown Spot, which is a disease that causes discoloration and deformation of the leaf. The leaf appears to be discolored, with a brownish hue, and it has a curved shape. The symptoms are quite severe, as the leaf is significantly affected by the disease. This could lead to a reduced yield or even the death of the affected plant.\n[Disease] Brown spot\n[Recommendation] Improve field nutrition and manage moisture stress to reduce disease pressure."
+      }
+    ]
+  },
+  {
+    "image": "/content/rice_disease_project/data/12-test/leaf_blast_00127_leaf_blast-239_JPG_JPG.rf.pIUE31rh0LSGGw7vweNj.JPG",
+    "num_detections": 11,
+    "time_ms": 74344.38037872314,
+    "detections": [
+      {
+        "class": "leaf_blast",
+        "class_vi": "Leaf blast",
+        "conf": 0.9994,
+        "bbox": [
+          741,
+          134,
+          796,
+          331
+        ],
+        "caption": "[LLaVA] ER:  \nThis is a rice leaf affected by Leaf Blast. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Leaf Blast, which is characterized by the presence of brown spots or blisters on the leaf. The spots are typically circular or oval-shaped, and they can be scattered across the leaf's surface. The color of the spots is usually brown or reddish, and they can be of varying sizes. The severity of the Leaf Blast can range from mild to severe, depending on the extent of the damage and the overall health of the plant. In some cases, the affected leaf may turn yellow or brown and eventually fall off, while in other cases, the leaf may recover and continue to grow.\n[Disease] Leaf blast\n[Recommendation] Monitor closely and apply a fungicide if conditions favor spread."
+      },
+      {
+        "class": "leaf_blast",
+        "class_vi": "Leaf blast",
+        "conf": 0.9999,
+        "bbox": [
+          729,
+          795,
+          765,
+          938
+        ],
+        "caption": "[LLaVA] ER:  \nThis is a rice leaf affected by Leaf Blast. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Leaf Blast, which is characterized by the presence of brown spots on the leaf. The spots are scattered across the leaf, with some appearing more prominent than others. The color of the affected area is brown, which contrasts with the green color of the healthy rice leaf. The shape of the leaf is slightly distorted due to the presence of the spots, and the severity of the damage appears to be moderate, affecting a significant portion of the leaf.\n[Disease] Leaf blast\n[Recommendation] Monitor closely and apply a fungicide if conditions favor spread."
+      },
+      {
+        "class": "leaf_blast",
+        "class_vi": "Leaf blast",
+        "conf": 1.0,
+        "bbox": [
+          835,
+          642,
+          867,
+          725
+        ],
+        "caption": "[LLaVA] ER:  \nThis is a rice leaf affected by Leaf Blast. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Leaf Blast, which is characterized by the presence of brown spots on the leaf. The spots are scattered across the leaf, with some appearing more prominent than others. The color of the affected area is brown, which contrasts with the green color of the healthy rice leaf. The shape of the leaf is slightly distorted due to the presence of the spots, and the severity of the damage appears to be moderate, affecting a significant portion of the leaf.\n[Disease] Leaf blast\n[Recommendation] Monitor closely and apply a fungicide if conditions favor spread."
+      },
+      {
+        "class": "leaf_blast",
+        "class_vi": "Leaf blast",
+        "conf": 0.9985,
+        "bbox": [
+          782,
+          770,
+          825,
+          936
+        ],
+        "caption": "[LLaVA] ER:  \nThis is a rice leaf affected by Leaf Blast. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Leaf Blast, which is characterized by the presence of brown spots or lesions on the leaf. The spots are typically circular or oval-shaped, and they can be found on various parts of the leaf, such as the stem, veins, or the leaf's surface. The color of the spots is usually brown or reddish-brown, and they can be accompanied by a yellowish hue in the surrounding tissue. The severity of the Leaf Blast can vary, but it can lead to the eventual death of the affected leaf or even the entire plant if not treated properly.\n[Disease] Leaf blast\n[Recommendation] Monitor closely and apply a fungicide if conditions favor spread."
+      },
+      {
+        "class": "leaf_scald",
+        "class_vi": "Leaf scald",
+        "conf": 0.6407,
+        "bbox": [
+          857,
+          278,
+          1596,
+          1170
+        ],
+        "caption": "[LLaVA] ER:  \nThis is a rice leaf affected by Leaf Scald. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Leaf Scald, which is a disease that causes the leaf to turn brown and wither. The leaf appears to be in a state of decay, with brown spots and a wilted appearance. The leaf is located in the center of the image, and its shape is somewhat irregular due to the damage caused by the disease. The severity of the damage is quite high, as the leaf is almost entirely brown and dead, with only a small portion of the leaf remaining healthy.\n[Disease] Leaf scald\n[Recommendation] Maintain field hygiene and reduce excessive humidity where possible."
+      },
+      {
+        "class": "leaf_blast",
+        "class_vi": "Leaf blast",
+        "conf": 0.9966,
+        "bbox": [
+          748,
+          496,
+          772,
+          578
+        ],
+        "caption": "[LLaVA] ER:  \nThis is a rice leaf affected by Leaf Blast. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Leaf Blast, which is a disease that causes the rice plant to lose its green color and turn brown. The leaf appears to be brown and has a curved shape, indicating that it is affected by the disease. The location of the affected leaf is in the middle of the plant, and the severity of the disease seems to be moderate, as the plant is still able to grow and produce rice.\n[Disease] Leaf blast\n[Recommendation] Monitor closely and apply a fungicide if conditions favor spread."
+      },
+      {
+        "class": "leaf_blast",
+        "class_vi": "Leaf blast",
+        "conf": 0.9997,
+        "bbox": [
+          696,
+          293,
+          723,
+          421
+        ],
+        "caption": "[LLaVA] ER:  \nThis is a rice leaf affected by Leaf Blast. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Leaf Blast, which is characterized by the presence of brown spots or blisters on the leaf. The spots are typically circular or oval-shaped, and they can be scattered across the leaf's surface. The color of the spots is usually brown or reddish, and they can be of varying sizes. The severity of the Leaf Blast can range from mild to severe, depending on the extent of the damage and the overall health of the plant. In some cases, the affected leaf may turn yellow or brown and eventually fall off, while in other cases, the leaf may recover and continue to grow.\n[Disease] Leaf blast\n[Recommendation] Monitor closely and apply a fungicide if conditions favor spread."
+      },
+      {
+        "class": "leaf_blast",
+        "class_vi": "Leaf blast",
+        "conf": 0.9996,
+        "bbox": [
+          864,
+          1125,
+          919,
+          1359
+        ],
+        "caption": "[LLaVA] ER:  \nThis is a rice leaf affected by Leaf Blast. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Leaf Blast, which is characterized by the presence of brown spots or blisters on the leaf. The spots are typically circular or oval-shaped, and they can be scattered across the leaf's surface. The color of the spots is usually brown or reddish, and they can be of varying sizes. The severity of the Leaf Blast can range from mild to severe, depending on the extent of the damage and the overall health of the plant. In this particular image, the rice leaf appears to be affected by Leaf Blast, with several brown spots visible on its surface.\n[Disease] Leaf blast\n[Recommendation] Monitor closely and apply a fungicide if conditions favor spread."
+      },
+      {
+        "class": "leaf_blast",
+        "class_vi": "Leaf blast",
+        "conf": 1.0,
+        "bbox": [
+          828,
+          1032,
+          862,
+          1155
+        ],
+        "caption": "[LLaVA] ER:  \nThis is a rice leaf affected by Leaf Blast. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Leaf Blast, which is characterized by the presence of brown spots on the leaf. The spots are typically circular or oval-shaped, and they can be scattered across the leaf's surface. The color of the spots is brown, which contrasts with the green color of the leaf. The spots are likely to be more severe in some areas of the leaf, while other areas may remain relatively unaffected. The overall appearance of the leaf is discolored and possibly disfigured due to the presence of these spots.\n[Disease] Leaf blast\n[Recommendation] Monitor closely and apply a fungicide if conditions favor spread."
+      },
+      {
+        "class": "leaf_blast",
+        "class_vi": "Leaf blast",
+        "conf": 0.9951,
+        "bbox": [
+          881,
+          755,
+          913,
+          870
+        ],
+        "caption": "[LLaVA] ER:  \nThis is a rice leaf affected by Leaf Blast. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Leaf Blast, which is a disease that causes the leaves to turn yellow and eventually die. The leaf appears to be in a state of decay, with its color changing from green to yellow. The shape of the leaf is affected, as it appears to be curled or deformed. The severity of the disease can be inferred from the fact that the leaf is dying, which indicates that the plant is experiencing stress and may not recover. This highlights the importance of proper care and management of rice plants to prevent and address such diseases.\n[Disease] Leaf blast\n[Recommendation] Monitor closely and apply a fungicide if conditions favor spread."
+      },
+      {
+        "class": "leaf_blast",
+        "class_vi": "Leaf blast",
+        "conf": 0.9996,
+        "bbox": [
+          828,
+          175,
+          861,
+          306
+        ],
+        "caption": "[LLaVA] ER:  \nThis is a rice leaf affected by Leaf Blast. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The image shows a close-up of a person's hand, which appears to be affected by Leaf Blast. The affected area displays a reddish-brown color, indicating that the leaf is infected. The shape of the affected area is irregular, with a noticeable bump or deformation. The severity of the infection appears to be moderate, as the leaf is still somewhat recognizable and not completely destroyed.\n[Disease] Leaf blast\n[Recommendation] Monitor closely and apply a fungicide if conditions favor spread."
+      }
+    ]
+  },
+  {
+    "image": "/content/rice_disease_project/data/12-test/leaf_blast_00131_leaf_blast-314_JPG_JPG.rf.pxeTz83qC9UfyVqpNYax.JPG",
+    "num_detections": 7,
+    "time_ms": 49783.25080871582,
+    "detections": [
+      {
+        "class": "leaf_blast",
+        "class_vi": "Leaf blast",
+        "conf": 1.0,
+        "bbox": [
+          443,
+          770,
+          546,
+          822
+        ],
+        "caption": "[LLaVA] ER:  \nThis is a rice leaf affected by Leaf Blast. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Leaf Blast, which is characterized by the presence of brown spots on the leaf. The spots are typically circular or oval-shaped, and they can be scattered across the leaf's surface. The color of the spots is brown, which contrasts with the green color of the leaf. The spots are likely to be more severe in some areas of the leaf, while other areas may remain relatively unaffected. The overall appearance of the leaf is discolored and possibly disfigured due to the presence of these spots.\n[Disease] Leaf blast\n[Recommendation] Monitor closely and apply a fungicide if conditions favor spread."
+      },
+      {
+        "class": "leaf_blast",
+        "class_vi": "Leaf blast",
+        "conf": 1.0,
+        "bbox": [
+          1225,
+          776,
+          1466,
+          855
+        ],
+        "caption": "[LLaVA] ER:  \nThis is a rice leaf affected by Leaf Blast. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Leaf Blast, which is characterized by the presence of brown spots or lesions on the leaf. The spots are typically circular or oval-shaped, and they can be scattered across the leaf's surface. The color of the spots is usually brown or reddish-brown, which contrasts with the green color of the healthy rice leaf. The severity of the Leaf Blast can vary, but it can lead to the eventual death of the affected leaf if not addressed.\n[Disease] Leaf blast\n[Recommendation] Monitor closely and apply a fungicide if conditions favor spread."
+      },
+      {
+        "class": "leaf_blast",
+        "class_vi": "Leaf blast",
+        "conf": 0.9999,
+        "bbox": [
+          151,
+          784,
+          204,
+          812
+        ],
+        "caption": "[LLaVA] ER:  \nThis is a rice leaf affected by Leaf Blast. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Leaf Blast, which is characterized by the presence of brown spots on the leaf. The spots are scattered across the leaf, with some appearing more prominent than others. The color of the affected area is brown, which contrasts with the green color of the healthy rice leaf. The shape of the leaf is slightly distorted due to the presence of the spots, and the severity of the damage appears to be moderate, as the leaf is still able to function and grow.\n[Disease] Leaf blast\n[Recommendation] Monitor closely and apply a fungicide if conditions favor spread."
+      },
+      {
+        "class": "leaf_blast",
+        "class_vi": "Leaf blast",
+        "conf": 1.0,
+        "bbox": [
+          3,
+          813,
+          330,
+          890
+        ],
+        "caption": "[LLaVA] ER:  \nThis is a rice leaf affected by Leaf Blast. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Leaf Blast, which is characterized by the presence of brown spots or blisters on the leaf. The spots are typically circular or oval-shaped, and they can be scattered across the leaf's surface. The color of the spots is usually brown or reddish, and they can be of varying sizes. The severity of the Leaf Blast can range from mild to severe, depending on the extent of the damage and the overall health of the plant. In this particular image, the rice leaf appears to be affected by Leaf Blast, with several brown spots visible on its surface.\n[Disease] Leaf blast\n[Recommendation] Monitor closely and apply a fungicide if conditions favor spread."
+      },
+      {
+        "class": "leaf_blast",
+        "class_vi": "Leaf blast",
+        "conf": 0.9983,
+        "bbox": [
+          562,
+          863,
+          695,
+          921
+        ],
+        "caption": "[LLaVA] ER:  \nThis is a rice leaf affected by Leaf Blast. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Leaf Blast, which is characterized by the presence of brown spots or lesions on the leaf. The spots are typically circular or oval-shaped, and they can be found on various parts of the leaf, such as the stem, veins, or the leaf's surface. The color of the spots is usually brown or reddish-brown, and they can be accompanied by a yellowish hue in the surrounding tissue. The severity of the Leaf Blast can vary, but it can lead to the eventual death of the affected leaf or even the entire plant if not treated properly.\n[Disease] Leaf blast\n[Recommendation] Monitor closely and apply a fungicide if conditions favor spread."
+      },
+      {
+        "class": "leaf_blast",
+        "class_vi": "Leaf blast",
+        "conf": 0.9997,
+        "bbox": [
+          963,
+          771,
+          1031,
+          804
+        ],
+        "caption": "[LLaVA] ER:  \nThis is a rice leaf affected by Leaf Blast. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Leaf Blast, which is characterized by the presence of brown spots or lesions on the leaf. The spots are typically circular or oval-shaped, and they can be scattered across the leaf's surface. The color of the spots is usually brown or reddish-brown, which contrasts with the green or yellow color of the healthy rice leaf. The severity of the Leaf Blast can vary, but it can lead to the eventual death of the affected leaf, which can impact the overall health and productivity of the rice plant.\n[Disease] Leaf blast\n[Recommendation] Monitor closely and apply a fungicide if conditions favor spread."
+      },
+      {
+        "class": "leaf_blast",
+        "class_vi": "Leaf blast",
+        "conf": 0.7785,
+        "bbox": [
+          782,
+          786,
+          842,
+          818
+        ],
+        "caption": "[LLaVA] ER:  \nThis is a rice leaf affected by Leaf Blast. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Leaf Blast, which is a disease that causes the rice plant to lose its green color and turn brown. The leaf appears to be discolored and has a brownish hue, indicating that it is affected by the disease. The leaf's shape is not clearly visible, but it is evident that the leaf is not in its natural green color, which is a symptom of the Leaf Blast disease. The severity of the disease can vary, but in this case, the leaf appears to be significantly affected, with its color and shape altered due to the disease.\n[Disease] Leaf blast\n[Recommendation] Monitor closely and apply a fungicide if conditions favor spread."
+      }
+    ]
+  },
+  {
+    "image": "/content/rice_disease_project/data/12-test/leaf_scald_00194_leaf_scald (147)_pp_jpg.rf.VDMqaIxbmz8IojqNnWyr.jpg",
+    "num_detections": 9,
+    "time_ms": 58264.83249664307,
+    "detections": [
+      {
+        "class": "leaf_scald",
+        "class_vi": "Leaf scald",
+        "conf": 0.9999,
+        "bbox": [
+          497,
+          19,
+          588,
+          561
+        ],
+        "caption": "[LLaVA] ER:  \nThis is a rice leaf affected by Leaf Scald. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Leaf Scald, which is a disease that causes the leaf to turn brown and wither. The leaf appears to be in a state of decay, with brown spots and a wilted appearance. The leaf is located near the top of the plant, and its shape is somewhat irregular due to the damage caused by the disease. The severity of the damage can be described as moderate, as the leaf is still attached to the plant and not yet completely decayed.\n[Disease] Leaf scald\n[Recommendation] Maintain field hygiene and reduce excessive humidity where possible."
+      },
+      {
+        "class": "leaf_scald",
+        "class_vi": "Leaf scald",
+        "conf": 1.0,
+        "bbox": [
+          512,
+          736,
+          532,
+          808
+        ],
+        "caption": "[LLaVA] ER:  \nThis is a rice leaf affected by Leaf Scald. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Leaf Scald, which is characterized by the presence of brown spots or lesions on the leaf. The spots are typically round or oval-shaped, and they can be found on various parts of the leaf, such as the edges or the center. The color of the spots is brown, which contrasts with the green color of the healthy rice leaf. The spots are likely to be more severe in the center of the leaf, while the edges may have less severe spots. The overall appearance of the leaf is discolored and unhealthy, which indicates that the rice plant is experiencing stress or damage due to the presence of Leaf Scald.\n[Disease] Leaf scald\n[Recommendation] Maintain field hygiene and reduce excessive humidity where possible."
+      },
+      {
+        "class": "leaf_scald",
+        "class_vi": "Leaf scald",
+        "conf": 1.0,
+        "bbox": [
+          585,
+          756,
+          598,
+          803
+        ],
+        "caption": "[LLaVA] ER:  \nThis is a rice leaf affected by Leaf Scald. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Leaf Scald, which is a disease that causes discoloration and deformation of the leaves. The leaf appears to be brown and has a curved shape, which is indicative of the damage caused by the disease. The affected area is located towards the top of the leaf, and the overall appearance of the leaf is visually striking due to the combination of the brown color and the curved shape. The severity of the damage can vary, but it is evident that the leaf is significantly affected by the disease.\n[Disease] Leaf scald\n[Recommendation] Maintain field hygiene and reduce excessive humidity where possible."
+      },
+      {
+        "class": "leaf_scald",
+        "class_vi": "Leaf scald",
+        "conf": 1.0,
+        "bbox": [
+          546,
+          759,
+          558,
+          795
+        ],
+        "caption": "[LLaVA] ER:  \nThis is a rice leaf affected by Leaf Scald. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Leaf Scald, which is characterized by the presence of brown spots or patches on the leaf. The spots are typically circular or oval-shaped, and they can be found in various locations on the leaf. The color of the spots is brown, which contrasts with the green color of the leaf. The spots are not very severe, but they do indicate that the rice plant is experiencing stress or infection due to the Leaf Scald disease.\n[Disease] Leaf scald\n[Recommendation] Maintain field hygiene and reduce excessive humidity where possible."
+      },
+      {
+        "class": "leaf_scald",
+        "class_vi": "Leaf scald",
+        "conf": 1.0,
+        "bbox": [
+          576,
+          646,
+          590,
+          714
+        ],
+        "caption": "[LLaVA] ER:  \nThis is a rice leaf affected by Leaf Scald. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Leaf Scald, which is a disease that causes the leaf to turn brown and wither. The leaf appears to be in a state of decay, with brown spots and a discolored appearance. The leaf is located near the top of the plant, and its shape is somewhat irregular due to the damage caused by the disease. The severity of the damage can be described as moderate, as the leaf is still attached to the plant and not yet completely decayed.\n[Disease] Leaf scald\n[Recommendation] Maintain field hygiene and reduce excessive humidity where possible."
+      },
+      {
+        "class": "leaf_scald",
+        "class_vi": "Leaf scald",
+        "conf": 1.0,
+        "bbox": [
+          0,
+          4,
+          576,
+          743
+        ],
+        "caption": "[LLaVA] ER:  \nThis is a rice leaf affected by Leaf Scald. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Leaf Scald, which is characterized by the presence of brown spots or patches on the leaf. The spots are typically circular or irregular in shape and are often accompanied by a yellow hue. The spots can be scattered across the leaf or concentrated in specific areas. The severity of the Leaf Scald can vary, with some cases being mild and others being more severe, leading to the eventual death of the affected leaf.\n[Disease] Leaf scald\n[Recommendation] Maintain field hygiene and reduce excessive humidity where possible."
+      },
+      {
+        "class": "leaf_scald",
+        "class_vi": "Leaf scald",
+        "conf": 1.0,
+        "bbox": [
+          537,
+          13,
+          1079,
+          741
+        ],
+        "caption": "[LLaVA] ER:  \nThis is a rice leaf affected by Leaf Scald. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Leaf Scald, which is a disease that causes the leaf to turn brown and wither. The leaf appears to be in a state of decay, with brown spots and a discolored appearance. The leaf is located in the center of the image, and its shape is somewhat irregular due to the damage caused by the disease. The severity of the damage can be described as moderate, as the leaf is still somewhat recognizable and not completely destroyed.\n[Disease] Leaf scald\n[Recommendation] Maintain field hygiene and reduce excessive humidity where possible."
+      },
+      {
+        "class": "leaf_scald",
+        "class_vi": "Leaf scald",
+        "conf": 0.9993,
+        "bbox": [
+          591,
+          849,
+          607,
+          896
+        ],
+        "caption": "[LLaVA] ER:  \nThis is a rice leaf affected by Leaf Scald. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Leaf Scald, which is a disease that causes the leaf to turn brown and wither. The leaf appears to be in a state of decay, with the color changing from green to brown. The shape of the leaf is affected, as it appears to be deformed and misshapen. The severity of the disease is evident, as the leaf is significantly damaged and appears to be on the verge of falling off the plant. This indicates that the plant is experiencing stress and may require intervention to prevent further damage or loss of the affected leaves.\n[Disease] Leaf scald\n[Recommendation] Maintain field hygiene and reduce excessive humidity where possible."
+      },
+      {
+        "class": "leaf_scald",
+        "class_vi": "Leaf scald",
+        "conf": 0.8064,
+        "bbox": [
+          515,
+          873,
+          528,
+          908
+        ],
+        "caption": "[LLaVA] ER:  \nThis is a rice leaf affected by Leaf Scald. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Leaf Scald, which is a disease that causes the leaf to turn yellow and lose its green color. The leaf appears to be curled and twisted, indicating that it is affected by the disease. The leaf is located in the middle of the image, and its shape is notably different from a healthy leaf. The severity of the disease can be inferred from the fact that the leaf is visibly affected and has lost its natural color and shape.\n[Disease] Leaf scald\n[Recommendation] Maintain field hygiene and reduce excessive humidity where possible."
+      }
+    ]
+  },
+  {
+    "image": "/content/rice_disease_project/data/12-test/leaf_scald_00198_leaf_scald (49)_pp_jpg.rf.0SJe8yX5CRoYuBX7ey8K.jpg",
+    "num_detections": 1,
+    "time_ms": 6062.82901763916,
+    "detections": [
+      {
+        "class": "leaf_scald",
+        "class_vi": "Leaf scald",
+        "conf": 1.0,
+        "bbox": [
+          180,
+          0,
+          627,
+          1036
+        ],
+        "caption": "[LLaVA] ER:  \nThis is a rice leaf affected by Leaf Scald. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Leaf Scald, which is a disease that causes the leaf to turn brown and wither. The leaf appears to be in a state of decay, with brown spots and a wilted appearance. The leaf is located at the top of the plant, and its shape is somewhat irregular due to the damage caused by the disease. The severity of the damage is quite high, as the leaf is significantly affected and appears to be on the verge of falling off the plant.\n[Disease] Leaf scald\n[Recommendation] Maintain field hygiene and reduce excessive humidity where possible."
+      }
+    ]
+  },
+  {
+    "image": "/content/rice_disease_project/data/12-test/sheath_blight_00208_sb_wb_21_pp_jpg.rf.GtkYLZ0mEbiSEkE6Bxj8.jpg",
+    "num_detections": 5,
+    "time_ms": 26078.037977218628,
+    "detections": [
+      {
+        "class": "sheath_blight",
+        "class_vi": "Sheath blight",
+        "conf": 1.0,
+        "bbox": [
+          529,
+          545,
+          542,
+          625
+        ],
+        "caption": "[LLaVA] ER:  \nThis is a rice leaf affected by Sheath Blight. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Sheath Blight, which is a disease that affects the rice plant. The leaf appears to be discolored, with a greenish hue, and has a curved shape. The leaf is located near the top of the plant, and the severity of the disease seems to be moderate, as the plant is still able to grow and produce rice.\n[Disease] Sheath blight\n[Recommendation] Remove infected debris and consider fungicide management if severity increases."
+      },
+      {
+        "class": "sheath_blight",
+        "class_vi": "Sheath blight",
+        "conf": 1.0,
+        "bbox": [
+          540,
+          440,
+          550,
+          510
+        ],
+        "caption": "[LLaVA] ER:  \nThis is a rice leaf affected by Sheath Blight. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Sheath Blight, which is a disease that affects the rice plant. The leaf appears to be discolored, with a yellowish hue, and has a curved shape. The leaf is located near the top of the tree, and the severity of the disease seems to be moderate, as the leaf is still attached to the tree. The visual symptoms indicate that the plant is experiencing some stress or damage due to the Sheath Blight infection.\n[Disease] Sheath blight\n[Recommendation] Remove infected debris and consider fungicide management if severity increases."
+      },
+      {
+        "class": "sheath_blight",
+        "class_vi": "Sheath blight",
+        "conf": 1.0,
+        "bbox": [
+          552,
+          447,
+          560,
+          488
+        ],
+        "caption": "[LLaVA] ER:  \nThis is a rice leaf affected by Sheath Blight. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Sheath Blight, which is a disease that affects the rice plant. The leaf appears to be discolored, with a greenish hue, and has a curved shape. The leaf is located near the top of the plant, and the severity of the disease seems to be moderate, as the plant is still able to grow and produce rice.\n[Disease] Sheath blight\n[Recommendation] Remove infected debris and consider fungicide management if severity increases."
+      },
+      {
+        "class": "sheath_blight",
+        "class_vi": "Sheath blight",
+        "conf": 1.0,
+        "bbox": [
+          519,
+          407,
+          528,
+          489
+        ],
+        "caption": "[LLaVA] ER:  \nThis is a rice leaf affected by Sheath Blight. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Sheath Blight, which is a disease that affects the rice plant. The leaf appears to be discolored, with a yellowish hue, and has a curled or twisted shape. The leaf is located near the top of the plant, and the severity of the disease seems to be moderate, as the plant is still able to grow and produce rice.\n[Disease] Sheath blight\n[Recommendation] Remove infected debris and consider fungicide management if severity increases."
+      },
+      {
+        "class": "sheath_blight",
+        "class_vi": "Sheath blight",
+        "conf": 1.0,
+        "bbox": [
+          518,
+          404,
+          525,
+          461
+        ],
+        "caption": "[LLaVA] ER:  \nThis is a rice leaf affected by Sheath Blight. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Sheath Blight, which is a disease that affects the rice plant. The leaf displays a brown color, indicating that it is infected. The shape of the leaf is affected, as it appears to be deformed or misshapen due to the disease. The severity of the infection can vary, but in this case, the leaf appears to be severely affected, with the disease spreading and causing damage to the plant.\n[Disease] Sheath blight\n[Recommendation] Remove infected debris and consider fungicide management if severity increases."
+      }
+    ]
+  },
+  {
+    "image": "/content/rice_disease_project/data/12-test/sheath_blight_00212_sb_wb_158_pp_jpg.rf.JO33V4ZKJDNZ9JCcn7PS.jpg",
+    "num_detections": 7,
+    "time_ms": 41305.01461029053,
+    "detections": [
+      {
+        "class": "bacterial_leaf_blight",
+        "class_vi": "Bacterial leaf blight",
+        "conf": 0.9755,
+        "bbox": [
+          554,
+          160,
+          576,
+          312
+        ],
+        "caption": "[LLaVA] ER:  \nThis is a rice leaf affected by Bacterial Leaf Blight. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Bacterial Leaf Blight, which is characterized by a brown or yellow color, depending on the stage of the disease. The leaf appears to be curled or twisted, which is a common symptom of this disease. The leaf may also have a darker or lighter color than the surrounding healthy leaves. The affected leaf is located in the middle of the image, and the overall severity of the disease appears to be moderate.\n[Disease] Bacterial leaf blight\n[Recommendation] Remove heavily infected leaves and apply an appropriate bactericide under expert guidance."
+      },
+      {
+        "class": "sheath_blight",
+        "class_vi": "Sheath blight",
+        "conf": 0.9996,
+        "bbox": [
+          567,
+          322,
+          587,
+          524
+        ],
+        "caption": "[LLaVA] ER:  \nThis is a rice leaf affected by Sheath Blight. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Sheath Blight, which is a disease that affects the rice plant. The leaf displays a brown color, which indicates that it is infected. The shape of the leaf is curved, which is a common symptom of Sheath Blight. The severity of the infection can vary, but in this case, the leaf appears to be severely affected, with the brown color and curved shape being prominent features.\n[Disease] Sheath blight\n[Recommendation] Remove infected debris and consider fungicide management if severity increases."
+      },
+      {
+        "class": "sheath_blight",
+        "class_vi": "Sheath blight",
+        "conf": 0.9982,
+        "bbox": [
+          558,
+          370,
+          566,
+          433
+        ],
+        "caption": "[LLaVA] ER:  \nThis is a rice leaf affected by Sheath Blight. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Sheath Blight, which is a disease that affects the rice plant. The leaf appears to be brown and has a curved shape, indicating that it is infected. The color of the leaf is a mix of brown and green, which is typical for this disease. The leaf is located near the top of the plant, and the severity of the infection appears to be moderate, as the plant is still able to grow and produce rice.\n[Disease] Sheath blight\n[Recommendation] Remove infected debris and consider fungicide management if severity increases."
+      },
+      {
+        "class": "sheath_blight",
+        "class_vi": "Sheath blight",
+        "conf": 1.0,
+        "bbox": [
+          570,
+          624,
+          603,
+          833
+        ],
+        "caption": "[LLaVA] ER:  \nThis is a rice leaf affected by Sheath Blight. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Sheath Blight, which is a disease that affects the plant's growth. The leaf appears to be brown and has a curved shape, which is indicative of the disease. The color of the leaf is a mix of brown and green, which is unusual for a healthy rice leaf. The leaf is located near the top of the plant, and the severity of the disease seems to be moderate, as it has not yet caused significant damage to the plant.\n[Disease] Sheath blight\n[Recommendation] Remove infected debris and consider fungicide management if severity increases."
+      },
+      {
+        "class": "sheath_blight",
+        "class_vi": "Sheath blight",
+        "conf": 0.9994,
+        "bbox": [
+          563,
+          670,
+          597,
+          909
+        ],
+        "caption": "[LLaVA] ER:  \nThis is a rice leaf affected by Sheath Blight. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Sheath Blight, which is a disease that affects the rice plant. The leaf displays a brown color, indicating that it is infected. The shape of the leaf is curved, which is a common symptom of Sheath Blight. The severity of the disease can vary, but in this case, the leaf appears to be severely affected, with the brown color and curved shape being prominent features.\n[Disease] Sheath blight\n[Recommendation] Remove infected debris and consider fungicide management if severity increases."
+      },
+      {
+        "class": "sheath_blight",
+        "class_vi": "Sheath blight",
+        "conf": 1.0,
+        "bbox": [
+          563,
+          299,
+          600,
+          826
+        ],
+        "caption": "[LLaVA] ER:  \nThis is a rice leaf affected by Sheath Blight. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Sheath Blight, which is a disease that affects the plant's growth. The leaf appears to be brown and has a curved shape, indicating that it is affected by the disease. The color of the leaf is a mix of green and brown, which is typical for a Sheath Blight-affected plant. The leaf is located on the plant, and its shape is curved, which is a result of the disease's impact on the plant's growth. The severity of the disease can vary, but in this case, it seems to be relatively mild, as the leaf is still attached to the plant and not completely withered or dead.\n[Disease] Sheath blight\n[Recommendation] Remove infected debris and consider fungicide management if severity increases."
+      },
+      {
+        "class": "sheath_blight",
+        "class_vi": "Sheath blight",
+        "conf": 0.9994,
+        "bbox": [
+          533,
+          141,
+          542,
+          189
+        ],
+        "caption": "[LLaVA] ER:  \nThis is a rice leaf affected by Sheath Blight. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Sheath Blight, which is a disease that affects the rice plant. The leaf appears to be discolored, with a yellowish hue, and has a curved shape. The leaf is located near the top of the plant, and the severity of the disease seems to be moderate, as the plant is still able to grow and produce rice.\n[Disease] Sheath blight\n[Recommendation] Remove infected debris and consider fungicide management if severity increases."
+      }
+    ]
+  }
+]

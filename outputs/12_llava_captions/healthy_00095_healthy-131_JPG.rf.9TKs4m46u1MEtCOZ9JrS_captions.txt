@@ -1,0 +1,13 @@
+File: healthy_00095_healthy-131_JPG.rf.9TKs4m46u1MEtCOZ9JrS.JPG
+Processing time: 4930.9 ms
+Number of disease regions: 1
+
+--- Region 1 ---
+Bbox: [5, 2, 1597, 1600]
+Class: Brown spot
+Confidence: 36.8%
+Caption: [LLaVA] ER:  
+This is a rice leaf affected by Brown Spot. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Brown Spot, which is a disease that causes discoloration and deformation of the leaf. The leaf appears to be discolored, with a brownish hue, and it has a curved shape. The symptoms are quite severe, as the leaf is significantly affected by the disease. This could lead to a reduced yield or even the death of the affected plant.
+[Disease] Brown spot
+[Recommendation] Improve field nutrition and manage moisture stress to reduce disease pressure.
+

@@ -1,0 +1,60 @@
+File: leaf_blast_00131_leaf_blast-314_JPG_JPG.rf.pxeTz83qC9UfyVqpNYax.JPG
+Processing time: 117351.9 ms
+Number of disease regions: 7
+
+--- Region 1 ---
+Bbox: [443, 770, 546, 822]
+Class: Leaf blast
+Confidence: 100.0%
+Caption: [VLM] Question: This rice leaf image shows Leaf Blast disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Leaf Blast Disease is a disease caused by a bacterium called Phytophthora infestans. Leaf Blast Disease is a disease caused by a bacterium called Phytophthora infestans. Leaf Blast Disease is a disease caused by a bacterium called Phytophthora infestans. Leaf Blast Disease is a disease caused by a bacterium called Phytophthora infestans. Leaf Blast Disease is a disease caused by a bacterium called Phytophthora infestans. Leaf Blast Disease is a disease caused by a bacterium called Phytophthora infestans. Leaf Blast Disease is a disease caused by a bacterium called Phytophthora infestans. Leaf Blast Disease is a disease caused by a bacter
+[Disease] Leaf blast | Severity: Very high
+[Recommendation] Monitor closely and apply a fungicide if conditions favor spread.
+
+--- Region 2 ---
+Bbox: [1225, 776, 1466, 855]
+Class: Leaf blast
+Confidence: 100.0%
+Caption: [VLM] Question: This rice leaf image shows Leaf Blast disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Leaf Blast Disease is a disease of rice caused by a fungus that grows on the surface of the leaf. The disease is caused by a fungus that grows on the surface of the leaf. The disease is caused by a fungus that grows on the surface of the leaf. The disease is caused by a fungus that grows on the surface of the leaf. The disease is caused by a fungus that grows on the surface of the leaf. The disease is caused by a fungus that grows on the surface of the leaf. The disease is caused by a fungus that grows on the surface of the leaf. The disease is caused by a fungus that grows on the surface of the leaf. The disease is caused by a fungus that grows on the surface of the leaf. The
+[Disease] Leaf blast | Severity: Very high
+[Recommendation] Monitor closely and apply a fungicide if conditions favor spread.
+
+--- Region 3 ---
+Bbox: [151, 784, 204, 812]
+Class: Leaf blast
+Confidence: 100.0%
+Caption: [VLM] Question: This rice leaf image shows Leaf Blast disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Leaf Blast Disease is a disease caused by a fungus that grows on the surface of the leaves of rice plants. The disease is caused by a fungus that grows on the surface of the leaves of rice plants. The disease is caused by a fungus that grows on the surface of the leaves of rice plants. The disease is caused by a fungus that grows on the surface of the leaves of rice plants. The disease is caused by a fungus that grows on the surface of the leaves of rice plants. The disease is caused by a fungus that grows on the surface of the leaves of rice plants. The disease is caused by a fungus that grows on the surface of the leaves of rice plants. The disease is caused by a fungus that grows on the surface of the
+[Disease] Leaf blast | Severity: Very high
+[Recommendation] Monitor closely and apply a fungicide if conditions favor spread.
+
+--- Region 4 ---
+Bbox: [3, 813, 330, 890]
+Class: Leaf blast
+Confidence: 100.0%
+Caption: [VLM] Question: This rice leaf image shows Leaf Blast disease. Describe the visual symptoms you observe on the leaf in detail. Answer: The leaf is yellowish in color, and the edges of the leaf are brownish in color. The edges of the leaf are brownish in color, and the edges of the leaf are yellowish in color. The leaf is yellowish in color, and the edges of the leaf are brownish in color. The leaf is yellowish in color, and the edges of the leaf are brownish in color. The leaf is yellowish in color, and the edges of the leaf are brownish in color. The leaf is yellowish in color, and the edges of the leaf are brownish in color. The leaf is yellowish in color, and the edges of the leaf are brownish in color. The leaf is yellowish in color
+[Disease] Leaf blast | Severity: Very high
+[Recommendation] Monitor closely and apply a fungicide if conditions favor spread.
+
+--- Region 5 ---
+Bbox: [562, 863, 695, 921]
+Class: Leaf blast
+Confidence: 99.8%
+Caption: [VLM] Question: This rice leaf image shows Leaf Blast disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Leaf Blast Disease is a disease caused by a fungal infection of the leaves of rice plants. The disease is caused by a fungal infection of the leaves of rice plants. The disease is caused by a fungal infection of the leaves of rice plants. The disease is caused by a fungal infection of the leaves of rice plants. The disease is caused by a fungal infection of the leaves of rice plants. The disease is caused by a fungal infection of the leaves of rice plants. The disease is caused by a fungal infection of the leaves of rice plants. The disease is caused by a fungal infection of the leaves of rice plants. The disease is caused by a fungal infection of the leaves of rice plants. The disease is
+[Disease] Leaf blast | Severity: Very high
+[Recommendation] Monitor closely and apply a fungicide if conditions favor spread.
+
+--- Region 6 ---
+Bbox: [963, 771, 1031, 804]
+Class: Leaf blast
+Confidence: 100.0%
+Caption: [VLM] Question: This rice leaf image shows Leaf Blast disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Leaf Blast Disease is caused by a fungus that grows on the leaves of rice plants. The fungus causes the leaves to turn yellow, brown, or black. The fungus can also cause the leaves to fall off the plant. The fungus can also spread to other parts of the plant, such as the stems, roots, and flowers. The fungus can also spread to other parts of the plant, such as the stems, roots, and flowers. The fungus can also spread to other parts of the plant, such as the stems, roots, and flowers. The fungus can also spread to other parts of the plant, such as the stems, roots, and flowers. The fungus can also spread to other parts of the plant, such as the stems, roots
+[Disease] Leaf blast | Severity: Very high
+[Recommendation] Monitor closely and apply a fungicide if conditions favor spread.
+
+--- Region 7 ---
+Bbox: [782, 786, 842, 818]
+Class: Leaf blast
+Confidence: 77.8%
+Caption: [VLM] Question: This rice leaf image shows Leaf Blast disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Leaf Blast disease is a disease caused by a fungus that grows on the surface of rice leaves. The disease is caused by a fungus that grows on the surface of rice leaves. The disease is caused by a fungus that grows on the surface of rice leaves. The disease is caused by a fungus that grows on the surface of rice leaves. The disease is caused by a fungus that grows on the surface of rice leaves. The disease is caused by a fungus that grows on the surface of rice leaves. The disease is caused by a fungus that grows on the surface of rice leaves. The disease is caused by a fungus that grows on the surface of rice leaves. The disease is caused by a fungus that grows on the surface of rice leaves. The disease is
+[Disease] Leaf blast | Severity: Very high
+[Recommendation] Monitor closely and apply a fungicide if conditions favor spread.
+

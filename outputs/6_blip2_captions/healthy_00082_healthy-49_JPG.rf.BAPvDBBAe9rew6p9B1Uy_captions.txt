@@ -1,0 +1,12 @@
+File: healthy_00082_healthy-49_JPG.rf.BAPvDBBAe9rew6p9B1Uy.JPG
+Processing time: 17207.4 ms
+Number of disease regions: 1
+
+--- Region 1 ---
+Bbox: [0, 75, 1600, 1587]
+Class: Leaf blast
+Confidence: 99.2%
+Caption: [VLM] Question: This rice leaf image shows Leaf Blast disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Leaf Blast disease is caused by a fungus that grows on the surface of the leaves of rice plants. The disease is caused by a fungus that grows on the surface of the leaves of rice plants. The disease is caused by a fungus that grows on the surface of the leaves of rice plants. The disease is caused by a fungus that grows on the surface of the leaves of rice plants. The disease is caused by a fungus that grows on the surface of the leaves of rice plants. The disease is caused by a fungus that grows on the surface of the leaves of rice plants. The disease is caused by a fungus that grows on the surface of the leaves of rice plants. The disease is caused by a fungus that grows on the surface of the leaves of
+[Disease] Leaf blast | Severity: Very high
+[Recommendation] Monitor closely and apply a fungicide if conditions favor spread.
+

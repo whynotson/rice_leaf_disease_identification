@@ -1,0 +1,31 @@
+File: leaf_blast_00126_leaf_blast-254_JPG_JPG.rf.95uZvPy5ehmEaRVpwkeU.JPG
+Processing time: 18292.6 ms
+Number of disease regions: 3
+
+--- Region 1 ---
+Bbox: [1117, 1267, 1319, 1473]
+Class: Leaf blast
+Confidence: 100.0%
+Caption: [LLaVA] ER:  
+This is a rice leaf affected by Leaf Blast. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Leaf Blast, which is a disease that causes brown spots or holes in the leaves. The leaf appears to be burnt or damaged, with brown spots or holes scattered across its surface. The leaf is located on a green background, which provides a contrast to the affected area. The severity of the damage can vary, but it is evident that the leaf is not in its optimal condition due to the disease.
+[Disease] Leaf blast
+[Recommendation] Monitor closely and apply a fungicide if conditions favor spread.
+
+--- Region 2 ---
+Bbox: [741, 809, 954, 996]
+Class: Leaf blast
+Confidence: 100.0%
+Caption: [LLaVA] ER:  
+This is a rice leaf affected by Leaf Blast. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Leaf Blast, which is characterized by the presence of brown spots or holes on the leaf. The spots are typically circular or oval-shaped, and they can be found in various locations on the leaf. The color of the affected area is brown, which contrasts with the green color of the healthy rice leaf. The severity of the damage can vary, but it is evident that the leaf is not in its optimal condition due to the presence of these spots or holes.
+[Disease] Leaf blast
+[Recommendation] Monitor closely and apply a fungicide if conditions favor spread.
+
+--- Region 3 ---
+Bbox: [59, 0, 227, 153]
+Class: Leaf blast
+Confidence: 100.0%
+Caption: [LLaVA] ER:  
+This is a rice leaf affected by Leaf Blast. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Leaf Blast, which is a disease that causes the rice plant to produce abnormal growths or deformations. The affected area appears to be a brown spot, which is the color of the dead tissue caused by the disease. The shape of the affected area is irregular, as it is not a typical shape for a healthy rice leaf. The severity of the damage can vary, but it is clear that the rice plant is experiencing some level of damage due to the Leaf Blast disease.
+[Disease] Leaf blast
+[Recommendation] Monitor closely and apply a fungicide if conditions favor spread.
+

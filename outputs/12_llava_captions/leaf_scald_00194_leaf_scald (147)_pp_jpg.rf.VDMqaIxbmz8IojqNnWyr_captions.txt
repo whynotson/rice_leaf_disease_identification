@@ -1,0 +1,85 @@
+File: leaf_scald_00194_leaf_scald (147)_pp_jpg.rf.VDMqaIxbmz8IojqNnWyr.jpg
+Processing time: 58264.8 ms
+Number of disease regions: 9
+
+--- Region 1 ---
+Bbox: [497, 19, 588, 561]
+Class: Leaf scald
+Confidence: 100.0%
+Caption: [LLaVA] ER:  
+This is a rice leaf affected by Leaf Scald. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Leaf Scald, which is a disease that causes the leaf to turn brown and wither. The leaf appears to be in a state of decay, with brown spots and a wilted appearance. The leaf is located near the top of the plant, and its shape is somewhat irregular due to the damage caused by the disease. The severity of the damage can be described as moderate, as the leaf is still attached to the plant and not yet completely decayed.
+[Disease] Leaf scald
+[Recommendation] Maintain field hygiene and reduce excessive humidity where possible.
+
+--- Region 2 ---
+Bbox: [512, 736, 532, 808]
+Class: Leaf scald
+Confidence: 100.0%
+Caption: [LLaVA] ER:  
+This is a rice leaf affected by Leaf Scald. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Leaf Scald, which is characterized by the presence of brown spots or lesions on the leaf. The spots are typically round or oval-shaped, and they can be found on various parts of the leaf, such as the edges or the center. The color of the spots is brown, which contrasts with the green color of the healthy rice leaf. The spots are likely to be more severe in the center of the leaf, while the edges may have less severe spots. The overall appearance of the leaf is discolored and unhealthy, which indicates that the rice plant is experiencing stress or damage due to the presence of Leaf Scald.
+[Disease] Leaf scald
+[Recommendation] Maintain field hygiene and reduce excessive humidity where possible.
+
+--- Region 3 ---
+Bbox: [585, 756, 598, 803]
+Class: Leaf scald
+Confidence: 100.0%
+Caption: [LLaVA] ER:  
+This is a rice leaf affected by Leaf Scald. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Leaf Scald, which is a disease that causes discoloration and deformation of the leaves. The leaf appears to be brown and has a curved shape, which is indicative of the damage caused by the disease. The affected area is located towards the top of the leaf, and the overall appearance of the leaf is visually striking due to the combination of the brown color and the curved shape. The severity of the damage can vary, but it is evident that the leaf is significantly affected by the disease.
+[Disease] Leaf scald
+[Recommendation] Maintain field hygiene and reduce excessive humidity where possible.
+
+--- Region 4 ---
+Bbox: [546, 759, 558, 795]
+Class: Leaf scald
+Confidence: 100.0%
+Caption: [LLaVA] ER:  
+This is a rice leaf affected by Leaf Scald. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Leaf Scald, which is characterized by the presence of brown spots or patches on the leaf. The spots are typically circular or oval-shaped, and they can be found in various locations on the leaf. The color of the spots is brown, which contrasts with the green color of the leaf. The spots are not very severe, but they do indicate that the rice plant is experiencing stress or infection due to the Leaf Scald disease.
+[Disease] Leaf scald
+[Recommendation] Maintain field hygiene and reduce excessive humidity where possible.
+
+--- Region 5 ---
+Bbox: [576, 646, 590, 714]
+Class: Leaf scald
+Confidence: 100.0%
+Caption: [LLaVA] ER:  
+This is a rice leaf affected by Leaf Scald. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Leaf Scald, which is a disease that causes the leaf to turn brown and wither. The leaf appears to be in a state of decay, with brown spots and a discolored appearance. The leaf is located near the top of the plant, and its shape is somewhat irregular due to the damage caused by the disease. The severity of the damage can be described as moderate, as the leaf is still attached to the plant and not yet completely decayed.
+[Disease] Leaf scald
+[Recommendation] Maintain field hygiene and reduce excessive humidity where possible.
+
+--- Region 6 ---
+Bbox: [0, 4, 576, 743]
+Class: Leaf scald
+Confidence: 100.0%
+Caption: [LLaVA] ER:  
+This is a rice leaf affected by Leaf Scald. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Leaf Scald, which is characterized by the presence of brown spots or patches on the leaf. The spots are typically circular or irregular in shape and are often accompanied by a yellow hue. The spots can be scattered across the leaf or concentrated in specific areas. The severity of the Leaf Scald can vary, with some cases being mild and others being more severe, leading to the eventual death of the affected leaf.
+[Disease] Leaf scald
+[Recommendation] Maintain field hygiene and reduce excessive humidity where possible.
+
+--- Region 7 ---
+Bbox: [537, 13, 1079, 741]
+Class: Leaf scald
+Confidence: 100.0%
+Caption: [LLaVA] ER:  
+This is a rice leaf affected by Leaf Scald. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Leaf Scald, which is a disease that causes the leaf to turn brown and wither. The leaf appears to be in a state of decay, with brown spots and a discolored appearance. The leaf is located in the center of the image, and its shape is somewhat irregular due to the damage caused by the disease. The severity of the damage can be described as moderate, as the leaf is still somewhat recognizable and not completely destroyed.
+[Disease] Leaf scald
+[Recommendation] Maintain field hygiene and reduce excessive humidity where possible.
+
+--- Region 8 ---
+Bbox: [591, 849, 607, 896]
+Class: Leaf scald
+Confidence: 99.9%
+Caption: [LLaVA] ER:  
+This is a rice leaf affected by Leaf Scald. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Leaf Scald, which is a disease that causes the leaf to turn brown and wither. The leaf appears to be in a state of decay, with the color changing from green to brown. The shape of the leaf is affected, as it appears to be deformed and misshapen. The severity of the disease is evident, as the leaf is significantly damaged and appears to be on the verge of falling off the plant. This indicates that the plant is experiencing stress and may require intervention to prevent further damage or loss of the affected leaves.
+[Disease] Leaf scald
+[Recommendation] Maintain field hygiene and reduce excessive humidity where possible.
+
+--- Region 9 ---
+Bbox: [515, 873, 528, 908]
+Class: Leaf scald
+Confidence: 80.6%
+Caption: [LLaVA] ER:  
+This is a rice leaf affected by Leaf Scald. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Leaf Scald, which is a disease that causes the leaf to turn yellow and lose its green color. The leaf appears to be curled and twisted, indicating that it is affected by the disease. The leaf is located in the middle of the image, and its shape is notably different from a healthy leaf. The severity of the disease can be inferred from the fact that the leaf is visibly affected and has lost its natural color and shape.
+[Disease] Leaf scald
+[Recommendation] Maintain field hygiene and reduce excessive humidity where possible.
+

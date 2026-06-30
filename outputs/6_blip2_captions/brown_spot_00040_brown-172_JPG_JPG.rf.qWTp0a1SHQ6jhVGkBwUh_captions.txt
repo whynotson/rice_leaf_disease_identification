@@ -1,0 +1,360 @@
+File: brown_spot_00040_brown-172_JPG_JPG.rf.qWTp0a1SHQ6jhVGkBwUh.JPG
+Processing time: 701730.4 ms
+Number of disease regions: 44
+
+--- Region 1 ---
+Bbox: [211, 741, 273, 769]
+Class: Brown spot
+Confidence: 99.7%
+Caption: [VLM] Question: This rice leaf image shows Brown Spot disease. Describe the visual symptoms you observe on the leaf in detail. Answer: The brown spots on the leaf are caused by brown spot disease, which is caused by a bacterium called brown rot. The brown spots on the leaf are caused by brown spot disease, which is caused by a bacterium called brown rot. The brown spots on the leaf are caused by brown spot disease, which is caused by a bacterium called brown rot. The brown spots on the leaf are caused by brown spot disease, which is caused by a bacterium called brown rot. The brown spots on the leaf are caused by brown spot disease, which is caused by a bacterium called brown rot. The brown spots on the leaf are caused by brown spot disease, which is caused by a bacterium called brown rot. The brown spots on the leaf
+[Disease] Brown spot | Severity: Medium
+[Recommendation] Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 2 ---
+Bbox: [1520, 574, 1581, 608]
+Class: Brown spot
+Confidence: 99.5%
+Caption: [VLM] Question: This rice leaf image shows Brown Spot disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Brown Spot Disease is a disease of rice caused by a bacterium called phytophthora ramorum. The disease is characterized by brown spots on the surface of the leaf. The disease is caused by a bacterium called phytophthora ramorum. The disease is characterized by brown spots on the surface of the leaf. The disease is caused by a bacterium called phytophthora ramorum. The disease is characterized by brown spots on the surface of the leaf. The disease is caused by a bacterium called phytophthora ramorum. The disease is characterized by brown spots on the surface of the leaf. The disease is caused by a bacterium called phytophthora ramorum. The disease is characterized by brown spots on the
+[Disease] Brown spot | Severity: Medium
+[Recommendation] Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 3 ---
+Bbox: [1097, 637, 1158, 669]
+Class: Brown spot
+Confidence: 94.0%
+Caption: [VLM] Question: This rice leaf image shows Brown Spot disease. Describe the visual symptoms you observe on the leaf in detail. Answer: brown spot disease is a disease of rice caused by brown spots on the surface of the leaf. The disease is caused by a fungus that grows on the surface of the leaf. The fungus spreads through the plant and eventually kills the plant. The disease is caused by a fungus that grows on the surface of the leaf. The disease is caused by a fungus that grows on the surface of the leaf. The disease is caused by a fungus that grows on the surface of the leaf. The disease is caused by a fungus that grows on the surface of the leaf. The disease is caused by a fungus that grows on the surface of the leaf. The disease is caused by a fungus that grows on the surface of the leaf. The disease is caused by a fungus
+[Disease] Brown spot | Severity: Medium
+[Recommendation] Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 4 ---
+Bbox: [674, 623, 718, 647]
+Class: Brown spot
+Confidence: 100.0%
+Caption: [VLM] Question: This rice leaf image shows Brown Spot disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Brown Spot Disease is a disease of rice that is caused by the fungus Aspergillus fumigatus. Aspergillus fumigatus is a fungus that lives in the soil and on plants. Aspergillus fumigatus is a fungus that lives in the soil and on plants. Aspergillus fumigatus is a fungus that lives in the soil and on plants. Aspergillus fumigatus is a fungus that lives in the soil and on plants. Aspergillus fumigatus is a fungus that lives in the soil and on plants. Aspergillus fumigatus is a fungus that lives in the soil and on plants. Aspergillus fumig
+[Disease] Brown spot | Severity: Medium
+[Recommendation] Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 5 ---
+Bbox: [474, 945, 519, 966]
+Class: Brown spot
+Confidence: 100.0%
+Caption: [VLM] Question: This rice leaf image shows Brown Spot disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Brown Spot Disease is a disease of rice caused by a fungus that grows on the surface of the leaf
+
+[Disease] Brown spot | Severity: Medium
+[Recommendation] Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 6 ---
+Bbox: [621, 639, 675, 667]
+Class: Brown spot
+Confidence: 100.0%
+Caption: [VLM] Question: This rice leaf image shows Brown Spot disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Brown Spot Disease is a disease of rice that causes the leaves of the plant to turn brown. The disease is caused by a bacterium that lives on the leaves of the plant. The disease is caused by a bacterium that lives on the leaves of the plant. The disease is caused by a bacterium that lives on the leaves of the plant. The disease is caused by a bacterium that lives on the leaves of the plant. The disease is caused by a bacterium that lives on the leaves of the plant. The disease is caused by a bacterium that lives on the leaves of the plant. The disease is caused by a bacterium that lives on the leaves of the plant. The disease is caused by a bacterium that lives on the
+[Disease] Brown spot | Severity: Medium
+[Recommendation] Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 7 ---
+Bbox: [518, 733, 567, 754]
+Class: Brown spot
+Confidence: 100.0%
+Caption: [VLM] Question: This rice leaf image shows Brown Spot disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Brown Spot Disease is a disease that affects the leaves of rice plants. It is caused by a fungus that grows on the surface of the leaves. The disease causes the leaves to become discolored and brown. The disease can also cause the leaves to fall off the plant. Brown Spot Disease is caused by a fungus that grows on the surface of the leaves of rice plants. It is caused by a fungus that grows on the surface of the leaves. The disease causes the leaves to become discolored and brown. The disease can also cause the leaves to fall off the plant. Brown Spot Disease is caused by a fungus that grows on the surface of the leaves of rice plants. It is caused by a fungus that grows on the surface of the leaves
+[Disease] Brown spot | Severity: Medium
+[Recommendation] Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 8 ---
+Bbox: [466, 652, 517, 677]
+Class: Brown spot
+Confidence: 100.0%
+Caption: [VLM] Question: This rice leaf image shows Brown Spot disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Brown Spot Disease is a disease of rice caused by a bacterium called phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora
+[Disease] Brown spot | Severity: Medium
+[Recommendation] Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 9 ---
+Bbox: [140, 713, 185, 735]
+Class: Brown spot
+Confidence: 99.9%
+Caption: [VLM] Question: This rice leaf image shows Brown Spot disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Brown Spot Disease is a disease of rice caused by the fungus Aspergillus fumigatus. The disease is caused by the fungus Aspergillus fumigatus. The disease is caused by the fungus Aspergillus fumigatus. The disease is caused by the fungus Aspergillus fumigatus. The disease is caused by the fungus Aspergillus fumigatus. The disease is caused by the fungus Aspergillus fumigatus. The disease is caused by the fungus Aspergillus fumigatus. The disease is caused by the fungus Aspergillus fumigatus. The disease is caused by the fungus Aspergillus fumigatus. The
+[Disease] Brown spot | Severity: Medium
+[Recommendation] Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 10 ---
+Bbox: [1323, 864, 1389, 886]
+Class: Brown spot
+Confidence: 98.6%
+Caption: [VLM] Question: This rice leaf image shows Brown Spot disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Brown Spot Disease is a disease that is caused by a fungus that lives on the surface of the leaves of rice plants. The disease is caused by a fungus that lives on the surface of the leaves of rice plants. The disease is caused by a fungus that lives on the surface of the leaves of rice plants. The disease is caused by a fungus that lives on the surface of the leaves of rice plants. The disease is caused by a fungus that lives on the surface of the leaves of rice plants. The disease is caused by a fungus that lives on the surface of the leaves of rice plants. The disease is caused by a fungus that lives on the surface of the leaves of rice plants. The disease is caused by a fungus that lives on the surface
+[Disease] Brown spot | Severity: Medium
+[Recommendation] Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 11 ---
+Bbox: [1016, 643, 1080, 671]
+Class: Brown spot
+Confidence: 82.3%
+Caption: [VLM] Question: This rice leaf image shows Brown Spot disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Brown Spot Disease is a disease of rice caused by a bacterium called phytopathogen phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ram
+[Disease] Brown spot | Severity: Medium
+[Recommendation] Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 12 ---
+Bbox: [377, 605, 432, 627]
+Class: Brown spot
+Confidence: 100.0%
+Caption: [VLM] Question: This rice leaf image shows Brown Spot disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Brown Spot Disease is a disease of rice caused by the fungus Aspergillus fumigatus. The disease is caused by the fungus Aspergillus fumigatus. The disease is caused by the fungus Aspergillus fumigatus. The disease is caused by the fungus Aspergillus fumigatus. The disease is caused by the fungus Aspergillus fumigatus. The disease is caused by the fungus Aspergillus fumigatus. The disease is caused by the fungus Aspergillus fumigatus. The disease is caused by the fungus Aspergillus fumigatus. The disease is caused by the fungus Aspergillus fumigatus. The
+[Disease] Brown spot | Severity: Medium
+[Recommendation] Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 13 ---
+Bbox: [149, 657, 198, 680]
+Class: Brown spot
+Confidence: 100.0%
+Caption: [VLM] Question: This rice leaf image shows Brown Spot disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Brown Spot Disease is a disease of the rice plant caused by a bacterial infection. The disease is characterized by brown spots on the leaves of the plant. The disease is caused by a bacterial infection. The disease is characterized by brown spots on the leaves of the plant. The disease is caused by a bacterial infection. The disease is characterized by brown spots on the leaves of the plant. The disease is caused by a bacterial infection. The disease is characterized by brown spots on the leaves of the plant. The disease is caused by a bacterial infection. The disease is characterized by brown spots on the leaves of the plant. The disease is caused by a bacterial infection. The disease is characterized by brown spots on the leaves of the plant. The disease is caused by
+[Disease] Brown spot | Severity: Medium
+[Recommendation] Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 14 ---
+Bbox: [218, 835, 275, 860]
+Class: Brown spot
+Confidence: 100.0%
+Caption: [VLM] Question: This rice leaf image shows Brown Spot disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Brown Spot Disease is a disease of rice caused by a fungus that grows on the surface of the leaf. The disease is caused by a fungus that grows on the surface of the leaf. The disease is caused by a fungus that grows on the surface of the leaf. The disease is caused by a fungus that grows on the surface of the leaf. The disease is caused by a fungus that grows on the surface of the leaf. The disease is caused by a fungus that grows on the surface of the leaf. The disease is caused by a fungus that grows on the surface of the leaf. The disease is caused by a fungus that grows on the surface of the leaf. The disease is caused by a fungus that grows on the surface of the leaf. The
+[Disease] Brown spot | Severity: Medium
+[Recommendation] Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 15 ---
+Bbox: [1013, 588, 1057, 609]
+Class: Brown spot
+Confidence: 100.0%
+Caption: [VLM] Question: This rice leaf image shows Brown Spot disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Brown Spot Disease is a disease of rice caused by a bacterium called Pseudomonas syringae pv. syringae pv. pv. pv. pv. pv. pv. pv. pv. pv. pv. pv. pv. pv. pv. pv. pv. pv. pv. pv. pv. pv. pv. pv. pv. pv. pv. pv. pv. pv. pv. pv. pv. pv. pv. pv. pv. pv. pv. pv. pv. pv.
+[Disease] Brown spot | Severity: Medium
+[Recommendation] Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 16 ---
+Bbox: [1372, 729, 1423, 749]
+Class: Brown spot
+Confidence: 100.0%
+Caption: [VLM] Question: This rice leaf image shows Brown Spot disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Brown Spot Disease is a disease caused by brown spots on the leaves of rice plants. The disease is caused by a fungus that lives on the leaves of rice plants. The disease is caused by a fungus that lives on the leaves of rice plants. The disease is caused by a fungus that lives on the leaves of rice plants. The disease is caused by a fungus that lives on the leaves of rice plants. The disease is caused by a fungus that lives on the leaves of rice plants. The disease is caused by a fungus that lives on the leaves of rice plants. The disease is caused by a fungus that lives on the leaves of rice plants. The disease is caused by a fungus that lives on the leaves of rice plants. The disease is caused by
+[Disease] Brown spot | Severity: Medium
+[Recommendation] Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 17 ---
+Bbox: [290, 741, 353, 773]
+Class: Brown spot
+Confidence: 86.1%
+Caption: [VLM] Question: This rice leaf image shows Brown Spot disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Brown Spot Disease is a disease of rice caused by a fungus. The disease is characterized by brown spots on the surface of the leaf. The disease is caused by a fungus that lives on the surface of the leaf. The disease is caused by a fungus that lives on the surface of the leaf. The disease is caused by a fungus that lives on the surface of the leaf. The disease is caused by a fungus that lives on the surface of the leaf. The disease is caused by a fungus that lives on the surface of the leaf. The disease is caused by a fungus that lives on the surface of the leaf. The disease is caused by a fungus that lives on the surface of the leaf. The disease is caused by a fungus that lives on the
+[Disease] Brown spot | Severity: Medium
+[Recommendation] Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 18 ---
+Bbox: [1236, 847, 1297, 871]
+Class: Brown spot
+Confidence: 99.8%
+Caption: [VLM] Question: This rice leaf image shows Brown Spot disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Brown Spot Disease is a disease that affects the leaves of rice plants. The disease is caused by a bacterium that lives on the surface of the leaf. The disease is caused by a bacterium that lives on the surface of the leaf. The disease is caused by a bacterium that lives on the surface of the leaf. The disease is caused by a bacterium that lives on the surface of the leaf. The disease is caused by a bacterium that lives on the surface of the leaf. The disease is caused by a bacterium that lives on the surface of the leaf. The disease is caused by a bacterium that lives on the surface of the leaf. The disease is caused by a bacterium that lives on the surface of the leaf.
+[Disease] Brown spot | Severity: Medium
+[Recommendation] Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 19 ---
+Bbox: [542, 815, 592, 834]
+Class: Brown spot
+Confidence: 100.0%
+Caption: [VLM] Question: This rice leaf image shows Brown Spot disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Brown Spot Disease is a disease of rice caused by the fungus Aspergillus fumigatus
+
+[Disease] Brown spot | Severity: Medium
+[Recommendation] Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 20 ---
+Bbox: [699, 865, 760, 894]
+Class: Brown spot
+Confidence: 99.9%
+Caption: [VLM] Question: This rice leaf image shows Brown Spot disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Brown Spot Disease is caused by a fungus that grows on the surface of the leaves of the rice plant. The fungus causes the leaves to become discolored and brown. The disease can spread to other parts of the plant, such as the stems and roots. The disease can also spread to other parts of the plant, such as the stems and roots. The disease can also spread to other parts of the plant, such as the stems and roots. The disease can also spread to other parts of the plant, such as the stems and roots. The disease can also spread to other parts of the plant, such as the stems and roots. The disease can also spread to other parts of the plant, such as the stems and roots. The disease can
+[Disease] Brown spot | Severity: Medium
+[Recommendation] Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 21 ---
+Bbox: [233, 939, 283, 959]
+Class: Brown spot
+Confidence: 99.5%
+Caption: [VLM] Question: This rice leaf image shows Brown Spot disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Brown Spot Disease is a disease of rice caused by a fungus, the disease is caused by a fungus, the disease is caused by a fungus, the disease is caused by a fungus, the disease is caused by a fungus, the disease is caused by a fungus, the disease is caused by a fungus, the disease is caused by a fungus, the disease is caused by a fungus, the disease is caused by a fungus, the disease is caused by a fungus, the disease is caused by a fungus, the disease is caused by a fungus, the disease is caused by a fungus, the disease is caused by a fungus, the disease is caused by a fungus, the disease is caused by a fungus, the disease is caused by a fungus, the
+[Disease] Brown spot | Severity: Medium
+[Recommendation] Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 22 ---
+Bbox: [281, 678, 331, 699]
+Class: Brown spot
+Confidence: 100.0%
+Caption: [VLM] Question: This rice leaf image shows Brown Spot disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Brown Spot Disease is a disease caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of rice plants. The disease is
+[Disease] Brown spot | Severity: Medium
+[Recommendation] Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 23 ---
+Bbox: [822, 759, 860, 774]
+Class: Brown spot
+Confidence: 100.0%
+Caption: [VLM] Question: This rice leaf image shows Brown Spot disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Brown Spot Disease is a disease of rice caused by a fungus that grows on the surface of the leaves of the rice plant. The disease is caused by a fungus that grows on the surface of the leaves of the rice plant. The disease is caused by a fungus that grows on the surface of the leaves of the rice plant. The disease is caused by a fungus that grows on the surface of the leaves of the rice plant. The disease is caused by a fungus that grows on the surface of the leaves of the rice plant. The disease is caused by a fungus that grows on the surface of the leaves of the rice plant. The disease is caused by a fungus that grows on the surface of the leaves of the rice plant. The disease is caused by
+[Disease] Brown spot | Severity: Medium
+[Recommendation] Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 24 ---
+Bbox: [913, 549, 946, 565]
+Class: Brown spot
+Confidence: 100.0%
+Caption: [VLM] Question: This rice leaf image shows Brown Spot disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Brown Spot Disease is a disease caused by a fungus called Aspergillus fumigatus. The disease is caused by a fungus called Aspergillus fumigatus. The disease is caused by a fungus called Aspergillus fumigatus. The disease is caused by a fungus called Aspergillus fumigatus. The disease is caused by a fungus called Aspergillus fumigatus. The disease is caused by a fungus called Aspergillus fumigatus. The disease is caused by a fungus called Aspergillus fumigatus. The disease is caused by a fungus called Aspergillus fumigatus. The disease is caused by a fungus called Asperg
+[Disease] Brown spot | Severity: Medium
+[Recommendation] Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 25 ---
+Bbox: [40, 719, 77, 733]
+Class: Brown spot
+Confidence: 100.0%
+Caption: [VLM] Question: This rice leaf image shows Brown Spot disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Brown Spot Disease is a disease of the rice plant caused by the fungus Aspergillus fumigatus. The disease is caused by a fungus that grows on the surface of the leaves of the rice plant. The disease is caused by a fungus that grows on the surface of the leaves of the rice plant. The disease is caused by a fungus that grows on the surface of the leaves of the rice plant. The disease is caused by a fungus that grows on the surface of the leaves of the rice plant. The disease is caused by a fungus that grows on the surface of the leaves of the rice plant. The disease is caused by a fungus that grows on the surface of the leaves of the rice plant. The disease is caused by a fungus
+[Disease] Brown spot | Severity: Medium
+[Recommendation] Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 26 ---
+Bbox: [1183, 909, 1218, 924]
+Class: Brown spot
+Confidence: 100.0%
+Caption: [VLM] Question: This rice leaf image shows Brown Spot disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Brown Spot Disease is a disease of rice caused by a bacterium called phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora
+[Disease] Brown spot | Severity: Medium
+[Recommendation] Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 27 ---
+Bbox: [780, 909, 813, 925]
+Class: Brown spot
+Confidence: 100.0%
+Caption: [VLM] Question: This rice leaf image shows Brown Spot disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Brown Spot Disease is a disease of rice caused by a fungal infection of the leaf tissue, which results in brown spots on the surface of the leaf. The symptoms of brown spot disease vary depending on the type of fungal infection, the severity of the infection, and the location of the infection on the leaf. The most common symptoms of brown spot disease are brown spots on the surface of the leaf, brown spots in the center of the leaf, and brown spots on the underside of the leaf. The symptoms of brown spot disease vary depending on the type of fungal infection, the severity of the infection, and the location of the infection on the leaf. The most common symptoms of brown spot disease are brown spots on the surface of the leaf,
+[Disease] Brown spot | Severity: Medium
+[Recommendation] Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 28 ---
+Bbox: [151, 981, 191, 1000]
+Class: Brown spot
+Confidence: 97.7%
+Caption: [VLM] Question: This rice leaf image shows Brown Spot disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Brown Spot Disease is a disease of rice caused by a bacterium called phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora
+[Disease] Brown spot | Severity: Medium
+[Recommendation] Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 29 ---
+Bbox: [0, 855, 29, 875]
+Class: Brown spot
+Confidence: 100.0%
+Caption: [VLM] Question: This rice leaf image shows Brown Spot disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Brown Spot Disease is a disease of rice caused by a bacterium called phytopathogen phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ram
+[Disease] Brown spot | Severity: Medium
+[Recommendation] Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 30 ---
+Bbox: [727, 649, 766, 670]
+Class: Brown spot
+Confidence: 100.0%
+Caption: [VLM] Question: This rice leaf image shows Brown Spot disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Brown Spot Disease is a disease caused by a bacterium called phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytopathogen phytop
+[Disease] Brown spot | Severity: Medium
+[Recommendation] Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 31 ---
+Bbox: [667, 809, 702, 820]
+Class: Brown spot
+Confidence: 100.0%
+Caption: [VLM] Question: This rice leaf image shows Brown Spot disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Brown Spot Disease is a disease of rice caused by a bacterium called phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora
+[Disease] Brown spot | Severity: Medium
+[Recommendation] Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 32 ---
+Bbox: [729, 909, 761, 921]
+Class: Brown spot
+Confidence: 100.0%
+Caption: [VLM] Question: This rice leaf image shows Brown Spot disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Brown Spot Disease is a disease of rice caused by a fungus that grows on the surface of the leaf
+
+[Disease] Brown spot | Severity: Medium
+[Recommendation] Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 33 ---
+Bbox: [925, 643, 1006, 678]
+Class: Brown spot
+Confidence: 91.2%
+Caption: [VLM] Question: This rice leaf image shows Brown Spot disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Brown Spot Disease is a disease of rice caused by a bacterium called aspergillus fumigatus. Aspergillus fumigatus causes brown spots on the leaves of rice. The brown spots are caused by the presence of the bacterium. Aspergillus fumigatus causes brown spots on the leaves of rice. The brown spots are caused by the presence of the bacterium. Aspergillus fumigatus causes brown spots on the leaves of rice. Aspergillus fumigatus causes brown spots on the leaves of rice. Aspergillus fumigatus causes brown spots on the leaves of rice. Aspergillus fumigatus causes brown spots on the leaves of rice
+[Disease] Brown spot | Severity: Medium
+[Recommendation] Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 34 ---
+Bbox: [360, 748, 385, 763]
+Class: Brown spot
+Confidence: 100.0%
+Caption: [VLM] Question: This rice leaf image shows Brown Spot disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Brown Spot Disease is a disease of rice caused by a fungus that attacks the leaves of the plant. The disease is caused by a fungus that attacks the leaves of the plant. The disease is caused by a fungus that attacks the leaves of the plant. The disease is caused by a fungus that attacks the leaves of the plant. The disease is caused by a fungus that attacks the leaves of the plant. The disease is caused by a fungus that attacks the leaves of the plant. The disease is caused by a fungus that attacks the leaves of the plant. The disease is caused by a fungus that attacks the leaves of the plant. The disease is caused by a fungus that attacks the leaves of the plant. The disease is caused by a fungus that attacks the
+[Disease] Brown spot | Severity: Medium
+[Recommendation] Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 35 ---
+Bbox: [1087, 905, 1135, 920]
+Class: Brown spot
+Confidence: 100.0%
+Caption: [VLM] Question: This rice leaf image shows Brown Spot disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Brown Spot Disease is a disease of rice caused by a bacterium called phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora
+[Disease] Brown spot | Severity: Medium
+[Recommendation] Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 36 ---
+Bbox: [545, 689, 567, 704]
+Class: Brown spot
+Confidence: 100.0%
+Caption: [VLM] Question: This rice leaf image shows Brown Spot disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Brown Spot Disease is a disease of rice caused by a fungal infection
+
+[Disease] Brown spot | Severity: Medium
+[Recommendation] Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 37 ---
+Bbox: [1177, 609, 1220, 624]
+Class: Brown spot
+Confidence: 99.3%
+Caption: [VLM] Question: This rice leaf image shows Brown Spot disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Brown Spot Disease is a disease of the rice plant caused by a bacterial infection. The disease is caused by a bacterium that lives in the soil of the rice plant. The disease is caused by a bacterium that lives in the soil of the rice plant. The disease is caused by a bacterium that lives in the soil of the rice plant. The disease is caused by a bacterium that lives in the soil of the rice plant. The disease is caused by a bacterium that lives in the soil of the rice plant. The disease is caused by a bacterium that lives in the soil of the rice plant. The disease is caused by a bacterium that lives in the soil of the rice plant. The disease is caused by a bacterium
+[Disease] Brown spot | Severity: Medium
+[Recommendation] Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 38 ---
+Bbox: [750, 674, 776, 690]
+Class: Brown spot
+Confidence: 100.0%
+Caption: [VLM] Question: This rice leaf image shows Brown Spot disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Brown Spot Disease is a disease of rice caused by a fungal infection of the leaf. The disease is caused by a fungal infection of the leaf caused by a fungal infection of the leaf caused by a fungal infection of the leaf caused by a fungal infection of the leaf caused by a fungal infection of the leaf caused by a fungal infection of the leaf caused by a fungal infection of the leaf caused by a fungal infection of the leaf caused by a fungal infection of the leaf caused by a fungal infection of the leaf caused by a fungal infection of the leaf caused by a fungal infection of the leaf caused by a fungal infection of the leaf caused by a fungal infection of the leaf caused by a
+[Disease] Brown spot | Severity: Medium
+[Recommendation] Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 39 ---
+Bbox: [661, 736, 681, 750]
+Class: Brown spot
+Confidence: 100.0%
+Caption: [VLM] Question: This rice leaf image shows Brown Spot disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Brown Spot Disease is a disease of rice caused by a fungus that grows on the surface of the leaf. The disease is caused by a fungus that grows on the surface of the leaf. The disease is caused by a fungus that grows on the surface of the leaf. The disease is caused by a fungus that grows on the surface of the leaf. The disease is caused by a fungus that grows on the surface of the leaf. The disease is caused by a fungus that grows on the surface of the leaf. The disease is caused by a fungus that grows on the surface of the leaf. The disease is caused by a fungus that grows on the surface of the leaf. The disease is caused by a fungus that grows on the surface of the leaf. The
+[Disease] Brown spot | Severity: Medium
+[Recommendation] Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 40 ---
+Bbox: [1097, 609, 1123, 623]
+Class: Brown spot
+Confidence: 99.9%
+Caption: [VLM] Question: This rice leaf image shows Brown Spot disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Brown Spot Disease is a disease of the rice plant caused by a bacterium that lives in the soil of the rice plant. The disease is caused by a bacterium that lives in the soil of the rice plant caused by a bacterium that lives in the soil of the rice plant caused by a bacterium that lives in the soil of the rice plant caused by a bacterium that lives in the soil of the rice plant caused by a bacterium that lives in the soil of the rice plant caused by a bacterium that lives in the soil of the rice plant caused by a bacterium that lives in the soil of the rice plant caused by a bacterium that lives in the soil of the rice plant caused by a bacterium that lives in the soil
+[Disease] Brown spot | Severity: Medium
+[Recommendation] Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 41 ---
+Bbox: [72, 885, 99, 899]
+Class: Brown spot
+Confidence: 100.0%
+Caption: [VLM] Question: This rice leaf image shows Brown Spot disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Brown Spot Disease is a disease of rice caused by a bacterium called phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora ramorum phytophthora
+[Disease] Brown spot | Severity: Medium
+[Recommendation] Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 42 ---
+Bbox: [1086, 816, 1101, 830]
+Class: Brown spot
+Confidence: 100.0%
+Caption: [VLM] Question: This rice leaf image shows Brown Spot disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Brown Spot Disease is a disease of the rice plant caused by a bacterial infection. The disease is characterized by brown spots on the leaves of the plant. The disease is caused by a bacterial infection. The disease is characterized by brown spots on the leaves of the plant. The disease is caused by a bacterial infection. The disease is characterized by brown spots on the leaves of the plant. The disease is caused by a bacterial infection. The disease is characterized by brown spots on the leaves of the plant. The disease is caused by a bacterial infection. The disease is characterized by brown spots on the leaves of the plant. The disease is caused by a bacterial infection. The disease is characterized by brown spots on the leaves of the plant. The disease is caused by
+[Disease] Brown spot | Severity: Medium
+[Recommendation] Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 43 ---
+Bbox: [136, 869, 167, 886]
+Class: Brown spot
+Confidence: 100.0%
+Caption: [VLM] Question: This rice leaf image shows Brown Spot disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Brown Spot Disease is a disease of rice caused by a bacterial infection of the leaf tissue, which results in brown spots on the surface of the leaf. The disease is caused by a bacterium called phytophthora ramorum, which is a member of the phytopathogenic group of bacteria. Phytophthora ramorum causes brown spots on the surface of the leaf, which can be seen under a microscope. The disease is caused by a bacterial infection of the leaf tissue, which results in brown spots on the surface of the leaf. The disease is caused by a bacterium called phytophthora ramorum, which is a member of the phytopathogenic group of bacteria. Phytophthora ramorum causes brown spots
+[Disease] Brown spot | Severity: Medium
+[Recommendation] Improve field nutrition and manage moisture stress to reduce disease pressure.
+
+--- Region 44 ---
+Bbox: [1478, 629, 1497, 641]
+Class: Brown spot
+Confidence: 100.0%
+Caption: [VLM] Question: This rice leaf image shows Brown Spot disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Brown Spot Disease is a disease of the rice leaf caused by the fungus Aspergillus fumigatus. The disease is caused by the fungus Aspergillus fumigatus. The disease is caused by the fungus Aspergillus fumigatus. The disease is caused by the fungus Aspergillus fumigatus. The disease is caused by the fungus Aspergillus fumigatus. The disease is caused by the fungus Aspergillus fumigatus. The disease is caused by the fungus Aspergillus fumigatus. The disease is caused by the fungus Aspergillus fumigatus. The disease is caused by the fungus Aspergillus fumigatus
+[Disease] Brown spot | Severity: Medium
+[Recommendation] Improve field nutrition and manage moisture stress to reduce disease pressure.
+

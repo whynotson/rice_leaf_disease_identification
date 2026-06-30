@@ -1,0 +1,58 @@
+File: leaf_scald_00194_leaf_scald (147)_pp_jpg.rf.VDMqaIxbmz8IojqNnWyr.jpg
+Processing time: 216.3 ms
+Number of disease regions: 9
+
+--- Region 1 ---
+Bbox: [497, 19, 588, 561]
+Class: Leaf scald
+Confidence: 100.0%
+Caption: Detected disease: Leaf scald. Confidence: 100.0%. Location: top-center. Approximate area ratio: 0.042. Severity: Medium. Recommendation: Maintain field hygiene and reduce excessive humidity where possible.
+
+--- Region 2 ---
+Bbox: [512, 736, 532, 808]
+Class: Leaf scald
+Confidence: 100.0%
+Caption: Detected disease: Leaf scald. Confidence: 100.0%. Location: bottom-center. Approximate area ratio: 0.001. Severity: Medium. Recommendation: Maintain field hygiene and reduce excessive humidity where possible.
+
+--- Region 3 ---
+Bbox: [585, 756, 598, 803]
+Class: Leaf scald
+Confidence: 100.0%
+Caption: Detected disease: Leaf scald. Confidence: 100.0%. Location: bottom-center. Approximate area ratio: 0.001. Severity: Medium. Recommendation: Maintain field hygiene and reduce excessive humidity where possible.
+
+--- Region 4 ---
+Bbox: [546, 759, 558, 795]
+Class: Leaf scald
+Confidence: 100.0%
+Caption: Detected disease: Leaf scald. Confidence: 100.0%. Location: bottom-center. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Maintain field hygiene and reduce excessive humidity where possible.
+
+--- Region 5 ---
+Bbox: [576, 646, 590, 714]
+Class: Leaf scald
+Confidence: 100.0%
+Caption: Detected disease: Leaf scald. Confidence: 100.0%. Location: middle-center. Approximate area ratio: 0.001. Severity: Medium. Recommendation: Maintain field hygiene and reduce excessive humidity where possible.
+
+--- Region 6 ---
+Bbox: [0, 4, 576, 743]
+Class: Leaf scald
+Confidence: 100.0%
+Caption: Detected disease: Leaf scald. Confidence: 100.0%. Location: middle-left. Approximate area ratio: 0.365. Severity: Medium. Recommendation: Maintain field hygiene and reduce excessive humidity where possible.
+
+--- Region 7 ---
+Bbox: [537, 13, 1079, 741]
+Class: Leaf scald
+Confidence: 100.0%
+Caption: Detected disease: Leaf scald. Confidence: 100.0%. Location: middle-right. Approximate area ratio: 0.338. Severity: Medium. Recommendation: Maintain field hygiene and reduce excessive humidity where possible.
+
+--- Region 8 ---
+Bbox: [591, 849, 607, 896]
+Class: Leaf scald
+Confidence: 99.9%
+Caption: Detected disease: Leaf scald. Confidence: 99.9%. Location: bottom-center. Approximate area ratio: 0.001. Severity: Medium. Recommendation: Maintain field hygiene and reduce excessive humidity where possible.
+
+--- Region 9 ---
+Bbox: [515, 873, 528, 908]
+Class: Leaf scald
+Confidence: 80.6%
+Caption: Detected disease: Leaf scald. Confidence: 80.6%. Location: bottom-center. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Maintain field hygiene and reduce excessive humidity where possible.
+

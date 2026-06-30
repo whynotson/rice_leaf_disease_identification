@@ -1,0 +1,13 @@
+File: leaf_scald_00166_leaf_scald (223)_pp_jpg.rf.A4Sf8NwoR12BOUzfxEgs.jpg
+Processing time: 6409.5 ms
+Number of disease regions: 1
+
+--- Region 1 ---
+Bbox: [438, 9, 669, 1079]
+Class: Leaf scald
+Confidence: 100.0%
+Caption: [LLaVA] ER:  
+This is a rice leaf affected by Leaf Scald. Describe the visual symptoms in detail: location, color, shape, and severity. ASSISTANT: The rice leaf in the image is affected by Leaf Scald, which is a disease that causes discoloration and deformation of the leaf. The leaf appears to be yellow and has a curved shape, indicating that it is infected. The disease affects the plant's ability to photosynthesize, leading to a decline in the plant's overall health. The severity of the disease can vary, but in this case, the leaf appears to be significantly affected, with a noticeable yellow color and a curved shape.
+[Disease] Leaf scald
+[Recommendation] Maintain field hygiene and reduce excessive humidity where possible.
+

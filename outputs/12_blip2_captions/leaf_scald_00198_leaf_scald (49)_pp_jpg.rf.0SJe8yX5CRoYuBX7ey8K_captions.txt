@@ -1,0 +1,12 @@
+File: leaf_scald_00198_leaf_scald (49)_pp_jpg.rf.0SJe8yX5CRoYuBX7ey8K.jpg
+Processing time: 16754.4 ms
+Number of disease regions: 1
+
+--- Region 1 ---
+Bbox: [180, 0, 627, 1036]
+Class: Leaf scald
+Confidence: 100.0%
+Caption: [VLM] Question: This rice leaf image shows Leaf Scald disease. Describe the visual symptoms you observe on the leaf in detail. Answer: Leaf scald disease is a disease that affects the leaves of rice plants. The disease is caused by a fungus that grows on the leaves of the plant. The fungus causes the leaves to turn yellow and brown. The disease can also cause the leaves to fall off of the plant. Symptoms of the disease include yellowing of the leaves, browning of the leaves, and wilting of the leaves. The disease is caused by a fungus that grows on the leaves of the plant. The fungus causes the leaves to turn yellow and brown. The disease can also cause the leaves to fall off of the plant. Symptoms of the disease include yellowing of the leaves, browning of the leaves, and wilting of the leaves. The disease is caused by
+[Disease] Leaf scald | Severity: Medium
+[Recommendation] Maintain field hygiene and reduce excessive humidity where possible.
+

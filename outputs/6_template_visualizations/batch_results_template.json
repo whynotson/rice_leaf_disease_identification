@@ -1,0 +1,776 @@
+[
+  {
+    "image": "/content/rice_disease_project/data/6-test/bacterial_leaf_blight_00001_bacterial-254_JPG_JPG.rf.4Pi02URuwzRbaDHkSOmC.JPG",
+    "num_detections": 1,
+    "time_ms": 1747.3628520965576,
+    "detections": [
+      {
+        "class": "bacterial_leaf_blight",
+        "class_vi": "Bacterial leaf blight",
+        "conf": 1.0,
+        "bbox": [
+          883,
+          485,
+          931,
+          1075
+        ],
+        "caption": "Detected disease: Bacterial leaf blight. Confidence: 100.0%. Location: middle-center. Approximate area ratio: 0.011. Severity: High. Recommendation: Remove heavily infected leaves and apply an appropriate bactericide under expert guidance."
+      }
+    ]
+  },
+  {
+    "image": "/content/rice_disease_project/data/6-test/brown_spot_00040_brown-172_JPG_JPG.rf.qWTp0a1SHQ6jhVGkBwUh.JPG",
+    "num_detections": 44,
+    "time_ms": 911.4475250244141,
+    "detections": [
+      {
+        "class": "brown_spot",
+        "class_vi": "Brown spot",
+        "conf": 0.9966,
+        "bbox": [
+          211,
+          741,
+          273,
+          769
+        ],
+        "caption": "Detected disease: Brown spot. Confidence: 99.7%. Location: middle-left. Approximate area ratio: 0.001. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure."
+      },
+      {
+        "class": "brown_spot",
+        "class_vi": "Brown spot",
+        "conf": 0.9953,
+        "bbox": [
+          1520,
+          574,
+          1581,
+          608
+        ],
+        "caption": "Detected disease: Brown spot. Confidence: 99.5%. Location: middle-right. Approximate area ratio: 0.001. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure."
+      },
+      {
+        "class": "brown_spot",
+        "class_vi": "Brown spot",
+        "conf": 0.94,
+        "bbox": [
+          1097,
+          637,
+          1158,
+          669
+        ],
+        "caption": "Detected disease: Brown spot. Confidence: 94.0%. Location: middle-right. Approximate area ratio: 0.001. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure."
+      },
+      {
+        "class": "brown_spot",
+        "class_vi": "Brown spot",
+        "conf": 1.0,
+        "bbox": [
+          674,
+          623,
+          718,
+          647
+        ],
+        "caption": "Detected disease: Brown spot. Confidence: 100.0%. Location: middle-center. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure."
+      },
+      {
+        "class": "brown_spot",
+        "class_vi": "Brown spot",
+        "conf": 0.9999,
+        "bbox": [
+          474,
+          945,
+          519,
+          966
+        ],
+        "caption": "Detected disease: Brown spot. Confidence: 100.0%. Location: middle-left. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure."
+      },
+      {
+        "class": "brown_spot",
+        "class_vi": "Brown spot",
+        "conf": 0.9997,
+        "bbox": [
+          621,
+          639,
+          675,
+          667
+        ],
+        "caption": "Detected disease: Brown spot. Confidence: 100.0%. Location: middle-center. Approximate area ratio: 0.001. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure."
+      },
+      {
+        "class": "brown_spot",
+        "class_vi": "Brown spot",
+        "conf": 1.0,
+        "bbox": [
+          518,
+          733,
+          567,
+          754
+        ],
+        "caption": "Detected disease: Brown spot. Confidence: 100.0%. Location: middle-center. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure."
+      },
+      {
+        "class": "brown_spot",
+        "class_vi": "Brown spot",
+        "conf": 1.0,
+        "bbox": [
+          466,
+          652,
+          517,
+          677
+        ],
+        "caption": "Detected disease: Brown spot. Confidence: 100.0%. Location: middle-left. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure."
+      },
+      {
+        "class": "brown_spot",
+        "class_vi": "Brown spot",
+        "conf": 0.9993,
+        "bbox": [
+          140,
+          713,
+          185,
+          735
+        ],
+        "caption": "Detected disease: Brown spot. Confidence: 99.9%. Location: middle-left. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure."
+      },
+      {
+        "class": "brown_spot",
+        "class_vi": "Brown spot",
+        "conf": 0.9863,
+        "bbox": [
+          1323,
+          864,
+          1389,
+          886
+        ],
+        "caption": "Detected disease: Brown spot. Confidence: 98.6%. Location: middle-right. Approximate area ratio: 0.001. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure."
+      },
+      {
+        "class": "brown_spot",
+        "class_vi": "Brown spot",
+        "conf": 0.8231,
+        "bbox": [
+          1016,
+          643,
+          1080,
+          671
+        ],
+        "caption": "Detected disease: Brown spot. Confidence: 82.3%. Location: middle-center. Approximate area ratio: 0.001. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure."
+      },
+      {
+        "class": "brown_spot",
+        "class_vi": "Brown spot",
+        "conf": 1.0,
+        "bbox": [
+          377,
+          605,
+          432,
+          627
+        ],
+        "caption": "Detected disease: Brown spot. Confidence: 100.0%. Location: middle-left. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure."
+      },
+      {
+        "class": "brown_spot",
+        "class_vi": "Brown spot",
+        "conf": 0.9999,
+        "bbox": [
+          149,
+          657,
+          198,
+          680
+        ],
+        "caption": "Detected disease: Brown spot. Confidence: 100.0%. Location: middle-left. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure."
+      },
+      {
+        "class": "brown_spot",
+        "class_vi": "Brown spot",
+        "conf": 0.9999,
+        "bbox": [
+          218,
+          835,
+          275,
+          860
+        ],
+        "caption": "Detected disease: Brown spot. Confidence: 100.0%. Location: middle-left. Approximate area ratio: 0.001. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure."
+      },
+      {
+        "class": "brown_spot",
+        "class_vi": "Brown spot",
+        "conf": 0.9999,
+        "bbox": [
+          1013,
+          588,
+          1057,
+          609
+        ],
+        "caption": "Detected disease: Brown spot. Confidence: 100.0%. Location: middle-center. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure."
+      },
+      {
+        "class": "brown_spot",
+        "class_vi": "Brown spot",
+        "conf": 1.0,
+        "bbox": [
+          1372,
+          729,
+          1423,
+          749
+        ],
+        "caption": "Detected disease: Brown spot. Confidence: 100.0%. Location: middle-right. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure."
+      },
+      {
+        "class": "brown_spot",
+        "class_vi": "Brown spot",
+        "conf": 0.8609,
+        "bbox": [
+          290,
+          741,
+          353,
+          773
+        ],
+        "caption": "Detected disease: Brown spot. Confidence: 86.1%. Location: middle-left. Approximate area ratio: 0.001. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure."
+      },
+      {
+        "class": "brown_spot",
+        "class_vi": "Brown spot",
+        "conf": 0.9982,
+        "bbox": [
+          1236,
+          847,
+          1297,
+          871
+        ],
+        "caption": "Detected disease: Brown spot. Confidence: 99.8%. Location: middle-right. Approximate area ratio: 0.001. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure."
+      },
+      {
+        "class": "brown_spot",
+        "class_vi": "Brown spot",
+        "conf": 1.0,
+        "bbox": [
+          542,
+          815,
+          592,
+          834
+        ],
+        "caption": "Detected disease: Brown spot. Confidence: 100.0%. Location: middle-center. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure."
+      },
+      {
+        "class": "brown_spot",
+        "class_vi": "Brown spot",
+        "conf": 0.9994,
+        "bbox": [
+          699,
+          865,
+          760,
+          894
+        ],
+        "caption": "Detected disease: Brown spot. Confidence: 99.9%. Location: middle-center. Approximate area ratio: 0.001. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure."
+      },
+      {
+        "class": "brown_spot",
+        "class_vi": "Brown spot",
+        "conf": 0.9953,
+        "bbox": [
+          233,
+          939,
+          283,
+          959
+        ],
+        "caption": "Detected disease: Brown spot. Confidence: 99.5%. Location: middle-left. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure."
+      },
+      {
+        "class": "brown_spot",
+        "class_vi": "Brown spot",
+        "conf": 1.0,
+        "bbox": [
+          281,
+          678,
+          331,
+          699
+        ],
+        "caption": "Detected disease: Brown spot. Confidence: 100.0%. Location: middle-left. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure."
+      },
+      {
+        "class": "brown_spot",
+        "class_vi": "Brown spot",
+        "conf": 1.0,
+        "bbox": [
+          822,
+          759,
+          860,
+          774
+        ],
+        "caption": "Detected disease: Brown spot. Confidence: 100.0%. Location: middle-center. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure."
+      },
+      {
+        "class": "brown_spot",
+        "class_vi": "Brown spot",
+        "conf": 1.0,
+        "bbox": [
+          913,
+          549,
+          946,
+          565
+        ],
+        "caption": "Detected disease: Brown spot. Confidence: 100.0%. Location: middle-center. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure."
+      },
+      {
+        "class": "brown_spot",
+        "class_vi": "Brown spot",
+        "conf": 1.0,
+        "bbox": [
+          40,
+          719,
+          77,
+          733
+        ],
+        "caption": "Detected disease: Brown spot. Confidence: 100.0%. Location: middle-left. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure."
+      },
+      {
+        "class": "brown_spot",
+        "class_vi": "Brown spot",
+        "conf": 1.0,
+        "bbox": [
+          1183,
+          909,
+          1218,
+          924
+        ],
+        "caption": "Detected disease: Brown spot. Confidence: 100.0%. Location: middle-right. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure."
+      },
+      {
+        "class": "brown_spot",
+        "class_vi": "Brown spot",
+        "conf": 1.0,
+        "bbox": [
+          780,
+          909,
+          813,
+          925
+        ],
+        "caption": "Detected disease: Brown spot. Confidence: 100.0%. Location: middle-center. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure."
+      },
+      {
+        "class": "brown_spot",
+        "class_vi": "Brown spot",
+        "conf": 0.9766,
+        "bbox": [
+          151,
+          981,
+          191,
+          1000
+        ],
+        "caption": "Detected disease: Brown spot. Confidence: 97.7%. Location: middle-left. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure."
+      },
+      {
+        "class": "brown_spot",
+        "class_vi": "Brown spot",
+        "conf": 0.9999,
+        "bbox": [
+          0,
+          855,
+          29,
+          875
+        ],
+        "caption": "Detected disease: Brown spot. Confidence: 100.0%. Location: middle-left. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure."
+      },
+      {
+        "class": "brown_spot",
+        "class_vi": "Brown spot",
+        "conf": 1.0,
+        "bbox": [
+          727,
+          649,
+          766,
+          670
+        ],
+        "caption": "Detected disease: Brown spot. Confidence: 100.0%. Location: middle-center. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure."
+      },
+      {
+        "class": "brown_spot",
+        "class_vi": "Brown spot",
+        "conf": 1.0,
+        "bbox": [
+          667,
+          809,
+          702,
+          820
+        ],
+        "caption": "Detected disease: Brown spot. Confidence: 100.0%. Location: middle-center. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure."
+      },
+      {
+        "class": "brown_spot",
+        "class_vi": "Brown spot",
+        "conf": 1.0,
+        "bbox": [
+          729,
+          909,
+          761,
+          921
+        ],
+        "caption": "Detected disease: Brown spot. Confidence: 100.0%. Location: middle-center. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure."
+      },
+      {
+        "class": "brown_spot",
+        "class_vi": "Brown spot",
+        "conf": 0.9117,
+        "bbox": [
+          925,
+          643,
+          1006,
+          678
+        ],
+        "caption": "Detected disease: Brown spot. Confidence: 91.2%. Location: middle-center. Approximate area ratio: 0.001. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure."
+      },
+      {
+        "class": "brown_spot",
+        "class_vi": "Brown spot",
+        "conf": 0.9999,
+        "bbox": [
+          360,
+          748,
+          385,
+          763
+        ],
+        "caption": "Detected disease: Brown spot. Confidence: 100.0%. Location: middle-left. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure."
+      },
+      {
+        "class": "brown_spot",
+        "class_vi": "Brown spot",
+        "conf": 0.9996,
+        "bbox": [
+          1087,
+          905,
+          1135,
+          920
+        ],
+        "caption": "Detected disease: Brown spot. Confidence: 100.0%. Location: middle-right. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure."
+      },
+      {
+        "class": "brown_spot",
+        "class_vi": "Brown spot",
+        "conf": 1.0,
+        "bbox": [
+          545,
+          689,
+          567,
+          704
+        ],
+        "caption": "Detected disease: Brown spot. Confidence: 100.0%. Location: middle-center. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure."
+      },
+      {
+        "class": "brown_spot",
+        "class_vi": "Brown spot",
+        "conf": 0.9934,
+        "bbox": [
+          1177,
+          609,
+          1220,
+          624
+        ],
+        "caption": "Detected disease: Brown spot. Confidence: 99.3%. Location: middle-right. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure."
+      },
+      {
+        "class": "brown_spot",
+        "class_vi": "Brown spot",
+        "conf": 1.0,
+        "bbox": [
+          750,
+          674,
+          776,
+          690
+        ],
+        "caption": "Detected disease: Brown spot. Confidence: 100.0%. Location: middle-center. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure."
+      },
+      {
+        "class": "brown_spot",
+        "class_vi": "Brown spot",
+        "conf": 1.0,
+        "bbox": [
+          661,
+          736,
+          681,
+          750
+        ],
+        "caption": "Detected disease: Brown spot. Confidence: 100.0%. Location: middle-center. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure."
+      },
+      {
+        "class": "brown_spot",
+        "class_vi": "Brown spot",
+        "conf": 0.999,
+        "bbox": [
+          1097,
+          609,
+          1123,
+          623
+        ],
+        "caption": "Detected disease: Brown spot. Confidence: 99.9%. Location: middle-right. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure."
+      },
+      {
+        "class": "brown_spot",
+        "class_vi": "Brown spot",
+        "conf": 1.0,
+        "bbox": [
+          72,
+          885,
+          99,
+          899
+        ],
+        "caption": "Detected disease: Brown spot. Confidence: 100.0%. Location: middle-left. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure."
+      },
+      {
+        "class": "brown_spot",
+        "class_vi": "Brown spot",
+        "conf": 1.0,
+        "bbox": [
+          1086,
+          816,
+          1101,
+          830
+        ],
+        "caption": "Detected disease: Brown spot. Confidence: 100.0%. Location: middle-right. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure."
+      },
+      {
+        "class": "brown_spot",
+        "class_vi": "Brown spot",
+        "conf": 0.9999,
+        "bbox": [
+          136,
+          869,
+          167,
+          886
+        ],
+        "caption": "Detected disease: Brown spot. Confidence: 100.0%. Location: middle-left. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure."
+      },
+      {
+        "class": "brown_spot",
+        "class_vi": "Brown spot",
+        "conf": 1.0,
+        "bbox": [
+          1478,
+          629,
+          1497,
+          641
+        ],
+        "caption": "Detected disease: Brown spot. Confidence: 100.0%. Location: middle-right. Approximate area ratio: 0.000. Severity: Medium. Recommendation: Improve field nutrition and manage moisture stress to reduce disease pressure."
+      }
+    ]
+  },
+  {
+    "image": "/content/rice_disease_project/data/6-test/healthy_00082_healthy-49_JPG.rf.BAPvDBBAe9rew6p9B1Uy.JPG",
+    "num_detections": 1,
+    "time_ms": 78.19604873657227,
+    "detections": [
+      {
+        "class": "leaf_blast",
+        "class_vi": "Leaf blast",
+        "conf": 0.9915,
+        "bbox": [
+          0,
+          75,
+          1600,
+          1587
+        ],
+        "caption": "Detected disease: Leaf blast. Confidence: 99.2%. Location: middle-center. Approximate area ratio: 0.945. Severity: Very high. Recommendation: Monitor closely and apply a fungicide if conditions favor spread."
+      }
+    ]
+  },
+  {
+    "image": "/content/rice_disease_project/data/6-test/leaf_blast_00126_leaf_blast-254_JPG_JPG.rf.95uZvPy5ehmEaRVpwkeU.JPG",
+    "num_detections": 3,
+    "time_ms": 99.21503067016602,
+    "detections": [
+      {
+        "class": "leaf_blast",
+        "class_vi": "Leaf blast",
+        "conf": 0.9999,
+        "bbox": [
+          1117,
+          1267,
+          1319,
+          1473
+        ],
+        "caption": "Detected disease: Leaf blast. Confidence: 100.0%. Location: bottom-right. Approximate area ratio: 0.016. Severity: Very high. Recommendation: Monitor closely and apply a fungicide if conditions favor spread."
+      },
+      {
+        "class": "leaf_blast",
+        "class_vi": "Leaf blast",
+        "conf": 0.9998,
+        "bbox": [
+          741,
+          809,
+          954,
+          996
+        ],
+        "caption": "Detected disease: Leaf blast. Confidence: 100.0%. Location: middle-center. Approximate area ratio: 0.016. Severity: Very high. Recommendation: Monitor closely and apply a fungicide if conditions favor spread."
+      },
+      {
+        "class": "leaf_blast",
+        "class_vi": "Leaf blast",
+        "conf": 1.0,
+        "bbox": [
+          59,
+          0,
+          227,
+          153
+        ],
+        "caption": "Detected disease: Leaf blast. Confidence: 100.0%. Location: top-left. Approximate area ratio: 0.010. Severity: Very high. Recommendation: Monitor closely and apply a fungicide if conditions favor spread."
+      }
+    ]
+  },
+  {
+    "image": "/content/rice_disease_project/data/6-test/leaf_scald_00166_leaf_scald (223)_pp_jpg.rf.A4Sf8NwoR12BOUzfxEgs.jpg",
+    "num_detections": 1,
+    "time_ms": 48.75946044921875,
+    "detections": [
+      {
+        "class": "leaf_scald",
+        "class_vi": "Leaf scald",
+        "conf": 1.0,
+        "bbox": [
+          438,
+          9,
+          669,
+          1079
+        ],
+        "caption": "Detected disease: Leaf scald. Confidence: 100.0%. Location: middle-center. Approximate area ratio: 0.212. Severity: Medium. Recommendation: Maintain field hygiene and reduce excessive humidity where possible."
+      }
+    ]
+  },
+  {
+    "image": "/content/rice_disease_project/data/6-test/sheath_blight_00206_sb_wb_92_pp_jpg.rf.FWni7gSbwyTgDyyA1Jr8.jpg",
+    "num_detections": 11,
+    "time_ms": 252.9313564300537,
+    "detections": [
+      {
+        "class": "sheath_blight",
+        "class_vi": "Sheath blight",
+        "conf": 1.0,
+        "bbox": [
+          540,
+          29,
+          554,
+          146
+        ],
+        "caption": "Detected disease: Sheath blight. Confidence: 100.0%. Location: top-center. Approximate area ratio: 0.001. Severity: High. Recommendation: Remove infected debris and consider fungicide management if severity increases."
+      },
+      {
+        "class": "sheath_blight",
+        "class_vi": "Sheath blight",
+        "conf": 1.0,
+        "bbox": [
+          576,
+          554,
+          589,
+          654
+        ],
+        "caption": "Detected disease: Sheath blight. Confidence: 100.0%. Location: middle-center. Approximate area ratio: 0.001. Severity: High. Recommendation: Remove infected debris and consider fungicide management if severity increases."
+      },
+      {
+        "class": "sheath_blight",
+        "class_vi": "Sheath blight",
+        "conf": 1.0,
+        "bbox": [
+          565,
+          558,
+          573,
+          619
+        ],
+        "caption": "Detected disease: Sheath blight. Confidence: 100.0%. Location: middle-center. Approximate area ratio: 0.000. Severity: High. Recommendation: Remove infected debris and consider fungicide management if severity increases."
+      },
+      {
+        "class": "sheath_blight",
+        "class_vi": "Sheath blight",
+        "conf": 1.0,
+        "bbox": [
+          530,
+          91,
+          543,
+          200
+        ],
+        "caption": "Detected disease: Sheath blight. Confidence: 100.0%. Location: top-center. Approximate area ratio: 0.001. Severity: High. Recommendation: Remove infected debris and consider fungicide management if severity increases."
+      },
+      {
+        "class": "sheath_blight",
+        "class_vi": "Sheath blight",
+        "conf": 1.0,
+        "bbox": [
+          526,
+          780,
+          535,
+          896
+        ],
+        "caption": "Detected disease: Sheath blight. Confidence: 100.0%. Location: bottom-center. Approximate area ratio: 0.001. Severity: High. Recommendation: Remove infected debris and consider fungicide management if severity increases."
+      },
+      {
+        "class": "sheath_blight",
+        "class_vi": "Sheath blight",
+        "conf": 1.0,
+        "bbox": [
+          540,
+          219,
+          558,
+          351
+        ],
+        "caption": "Detected disease: Sheath blight. Confidence: 100.0%. Location: top-center. Approximate area ratio: 0.002. Severity: High. Recommendation: Remove infected debris and consider fungicide management if severity increases."
+      },
+      {
+        "class": "sheath_blight",
+        "class_vi": "Sheath blight",
+        "conf": 0.9999,
+        "bbox": [
+          573,
+          460,
+          583,
+          500
+        ],
+        "caption": "Detected disease: Sheath blight. Confidence: 100.0%. Location: middle-center. Approximate area ratio: 0.000. Severity: High. Recommendation: Remove infected debris and consider fungicide management if severity increases."
+      },
+      {
+        "class": "sheath_blight",
+        "class_vi": "Sheath blight",
+        "conf": 1.0,
+        "bbox": [
+          535,
+          324,
+          552,
+          495
+        ],
+        "caption": "Detected disease: Sheath blight. Confidence: 100.0%. Location: middle-center. Approximate area ratio: 0.002. Severity: High. Recommendation: Remove infected debris and consider fungicide management if severity increases."
+      },
+      {
+        "class": "sheath_blight",
+        "class_vi": "Sheath blight",
+        "conf": 1.0,
+        "bbox": [
+          552,
+          621,
+          560,
+          691
+        ],
+        "caption": "Detected disease: Sheath blight. Confidence: 100.0%. Location: middle-center. Approximate area ratio: 0.000. Severity: High. Recommendation: Remove infected debris and consider fungicide management if severity increases."
+      },
+      {
+        "class": "sheath_blight",
+        "class_vi": "Sheath blight",
+        "conf": 1.0,
+        "bbox": [
+          536,
+          531,
+          546,
+          603
+        ],
+        "caption": "Detected disease: Sheath blight. Confidence: 100.0%. Location: middle-center. Approximate area ratio: 0.001. Severity: High. Recommendation: Remove infected debris and consider fungicide management if severity increases."
+      },
+      {
+        "class": "sheath_blight",
+        "class_vi": "Sheath blight",
+        "conf": 1.0,
+        "bbox": [
+          531,
+          523,
+          542,
+          574
+        ],
+        "caption": "Detected disease: Sheath blight. Confidence: 100.0%. Location: middle-center. Approximate area ratio: 0.000. Severity: High. Recommendation: Remove infected debris and consider fungicide management if severity increases."
+      }
+    ]
+  }
+]
